@@ -1,0 +1,11 @@
+[Desktop Entry]
+_Name=Web Browser
+_Comment=Browse the web
+Exec=htmlview %u
+Icon=openeuler-web-browser.png
+Terminal=0
+Type=Application
+NoDisplay=true
+Encoding=UTF-8
+Categories=Application;Network;X-open-Euler-Base;X-open-Euler-Base-Only;
+StartupNotify=True

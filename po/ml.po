@@ -1,0 +1,374 @@
+# translation of openeuler-menus.HEAD.ml.po to
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+#
+# Ani Peter <apeter@redhat.com>, 2006, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: openeuler-menus.HEAD.ml\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-03-29 17:48-0400\n"
+"PO-Revision-Date: 2009-09-22 12:44+0530\n"
+"Last-Translator: \n"
+"Language-Team:  <en@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"\n"
+
+#: ../desktop-files/Accessories.directory.in.h:1
+msgid "Accessories"
+msgstr "അക്സസ്സറികള്‍"
+
+#: ../desktop-files/Accessories.directory.in.h:2
+#: ../desktop-files/Accessories-More.directory.in.h:1
+msgid "Desktop accessories"
+msgstr "ഡസ്ക്ക്ടോപ്പ് അക്സസ്സറീസ്"
+
+#: ../desktop-files/Accessories-More.directory.in.h:2
+msgid "More Accessories"
+msgstr "കൂടുതല്‍ അക്സസ്സറികള്‍"
+
+#: ../desktop-files/Advanced.directory.in.h:1
+msgid "Advanced"
+msgstr "മെച്ചപ്പെട്ട"
+
+#: ../desktop-files/Advanced.directory.in.h:2
+#: ../desktop-files/Advanced-More.directory.in.h:1
+msgid "Advanced settings and preferences"
+msgstr "മെച്ചപ്പെട്ട സജ്ജീകരണങ്ങളും മുന്‍ഗണനകളും"
+
+#: ../desktop-files/Advanced-More.directory.in.h:2
+msgid "More Advanced Settings"
+msgstr "കൂടുതല്‍ മെച്ചപ്പെട്ട സജ്ജീകരണങ്ങള്‍"
+
+#: ../desktop-files/AllPrograms.directory.in.h:1
+msgid "All Applications"
+msgstr "എല്ലാ പ്രയോഗങ്ങളും"
+
+#: ../desktop-files/Desktop.directory.in.h:1
+msgid "Personal preferences and administration settings"
+msgstr "സ്വകാര്യ മുന്‍ഗണനകളും അഡ്മിനിസ്ട്രേഷന്‍ സജ്ജമീകരണങ്ങളും"
+
+#: ../desktop-files/Desktop.directory.in.h:2
+msgid "System"
+msgstr "സിസ്റ്റം"
+
+#: ../desktop-files/Development.directory.in.h:1
+msgid "Programming"
+msgstr "പ്രോഗ്രാമിങ്"
+
+#: ../desktop-files/Development.directory.in.h:2
+#: ../desktop-files/Development-More.directory.in.h:2
+msgid "Tools for software development"
+msgstr "സോഫ്റ്റ്‌വെയറിന്റെ പുരോഗമനത്തിനു് ആവശ്യമായ ടൂളുകള്‍"
+
+#: ../desktop-files/Development-More.directory.in.h:1
+msgid "More Programming Tools"
+msgstr "കൂടുതല്‍ പ്രോഗ്രാമിംഗ് ടൂളുകള്‍"
+
+#: ../desktop-files/Documentation.directory.in.h:1
+msgid "Documentation"
+msgstr "വിവരണക്കുറിപ്പു് (ഡോക്യുമെന്‍റേഷന്‍)"
+
+#: ../desktop-files/Documentation.directory.in.h:2
+#: ../desktop-files/Documentation-More.directory.in.h:1
+msgid "Manuals and help documents"
+msgstr "മാനുവലുകളും സഹായ വിവരണങ്ങളും"
+
+#: ../desktop-files/Documentation-More.directory.in.h:2
+msgid "More Documentation"
+msgstr "കൂടുതല്‍ വിവരണക്കുറിപ്പുകള്‍ (ഡോക്യുമെന്‍റേഷന്‍)"
+
+#: ../desktop-files/Edutainment.directory.in.h:1
+msgid "Edutainment"
+msgstr "Edutainment"
+
+#: ../desktop-files/Extras.directory.in.h:1
+msgid "Extras"
+msgstr "എക്സ്ട്രാസ്"
+
+#: ../desktop-files/Extras.directory.in.h:2
+msgid "Less-commonly-used applications"
+msgstr "അധികം ഉപയോഗത്തിലില്ലാത്ത പ്രയോഗങ്ങള്‍"
+
+#: ../desktop-files/Games-More.directory.in.h:1
+msgid "Games and amusements"
+msgstr "കളികളും വിനോദങ്ങളും"
+
+#: ../desktop-files/Games-More.directory.in.h:2
+msgid "More Games"
+msgstr "കൂടുതല്‍ കളികള്‍"
+
+#: ../desktop-files/gnome-accessibility.desktop.in.h:1
+#: ../desktop-files/Settings-Accessibility.directory.in.h:1
+msgid "Accessibility"
+msgstr "അക്സസ്സബിളിറ്റി"
+
+#: ../desktop-files/gnome-accessibility.desktop.in.h:2
+msgid "Accessibility settings"
+msgstr "അക്സസ്സബിളിറ്റി സജ്ജീകരണങ്ങള്‍"
+
+#: ../desktop-files/gnome-gdmsetup.desktop.in.h:1
+msgid "Configure the login screen"
+msgstr "പ്രവേശനത്തിനുള്ള ജാലകം ക്രമീകരിക്കുക"
+
+#: ../desktop-files/gnome-gdmsetup.desktop.in.h:2
+msgid "Login Screen"
+msgstr "പ്രവേശനത്തിനുള്ള ജാലകം"
+
+#: ../desktop-files/gnome-pilot.desktop.in.h:1
+msgid "Handheld PDA"
+msgstr "ഹാന്‍ഡ്ഹെള്‍ഡ് PDA"
+
+#: ../desktop-files/gnome-pilot.desktop.in.h:2
+msgid "Set up a PDA such as a Palm Pilot"
+msgstr "പാം പൈലറ്റ് പോലെ ഒരു PDA സജ്ജമാക്കുക"
+
+#: ../desktop-files/Graphics-More.directory.in.h:1
+msgid "Graphics applications"
+msgstr "ഗ്രാഫിക്കല്‍ പ്രയോഗങ്ങള്‍"
+
+#: ../desktop-files/Graphics-More.directory.in.h:2
+msgid "More Graphics Applications"
+msgstr "കൂടുതല്‍ ഗ്രാഫിക്കല്‍ പ്രയോഗങ്ങള്‍"
+
+#: ../desktop-files/gthumb.desktop.in.h:1
+msgid "Organize your digital photos"
+msgstr "നിങ്ങളുടെ ഡിജിറ്റല്‍ ഫോട്ടോകള്‍ ക്രമപ്പെടുത്തുക"
+
+#: ../desktop-files/gthumb.desktop.in.h:2
+msgid "Photo Tool"
+msgstr "ഫോട്ടോ ടൂള്‍"
+
+#: ../desktop-files/Internet-More.directory.in.h:1
+msgid "More Internet Applications"
+msgstr "കൂടുതല്‍ ഇന്റര്‍നെറ്റ് പ്രയോഗങ്ങള്‍"
+
+#: ../desktop-files/Internet-More.directory.in.h:2
+msgid "Programs for Internet access such as web and email"
+msgstr "ഇന്റര്‍നെറ്റിനു് ആവശ്യമുളള വെബ്, ഈമെയില്‍ എന്നീ പ്രോഗ്രാമുകള്‍"
+
+#: ../desktop-files/Multimedia-More.directory.in.h:1
+msgid "More Sound & Video Applications"
+msgstr "കൂടുതല്‍ സൌണ്ടും വീഡിയോയും പ്രയോഗങ്ങള്‍"
+
+#: ../desktop-files/Multimedia-More.directory.in.h:2
+msgid "Multimedia menu"
+msgstr "മള്‍ട്ടീമീഡിയ മെനു"
+
+#: ../desktop-files/Office-More.directory.in.h:1
+msgid "Additional office applications"
+msgstr "അധികമായ ഓഫീസ് പ്രയോഗങ്ങള്‍"
+
+#: ../desktop-files/Office-More.directory.in.h:2
+msgid "More Office Applications"
+msgstr "കൂടുതല്‍ ഓഫീസ് പ്രയോഗങ്ങള്‍"
+
+#: ../desktop-files/openoffice-printeradmin.desktop.in.h:1
+msgid "OpenOffice.org Printer Setup"
+msgstr "ഓപ്പണ്‍ഓഫീസ്.ഓര്‍ഗിനുള്ള പ്രിന്റ് സജ്ജീകരണം"
+
+#: ../desktop-files/openoffice-printeradmin.desktop.in.h:2
+msgid "Set up printers for OpenOffice.org applications"
+msgstr "ഓപ്പണ്‍ഓഫീസ്.ഓര്‍ഗിനുള്ള പ്രയോഗങ്ങള്‍ക്കായി പ്രിന്ററുകള്‍ സജ്ജമാക്കുക"
+
+#: ../desktop-files/openoffice-setup.desktop.in.h:1
+msgid "OpenOffice.org Repair"
+msgstr "ഓപ്പണ്‍ഓഫീസ്.ഓര്‍ഗ് റിപ്പയര്‍"
+
+#: ../desktop-files/openoffice-setup.desktop.in.h:2
+msgid "Repair your installation of OpenOffice.org"
+msgstr "ഓപ്പണ്‍ഓഫീസ്.ഓര്‍ഗിനുള്ള ഇന്‍സ്റ്റലേഷന്‍ ശരിയാക്കുക"
+
+#: ../desktop-files/openeuler-audio-player.desktop.in.h:1
+msgid "Audio Player"
+msgstr "ഓഡിയോ പ്ലെയര്‍"
+
+#: ../desktop-files/openeuler-audio-player.desktop.in.h:2
+msgid "Play Ogg Vorbis and other audio files"
+msgstr "Ogg Vorbis, മറ്റ് ഓഡിയോ ഫൈലുകളും പ്രവര്‍ത്തിപ്പിക്കുക"
+
+#: ../desktop-files/openeuler-diagrams.desktop.in.h:1
+msgid "Create diagrams"
+msgstr "ചിത്രങ്ങള്‍ രചിക്കുക"
+
+#: ../desktop-files/openeuler-diagrams.desktop.in.h:2
+msgid "Dia Diagrams"
+msgstr "Dia ചിത്രങ്ങള്‍"
+
+#: ../desktop-files/openeuler-drawing.desktop.in.h:1
+msgid "Draw diagrams and figures"
+msgstr "ചിത്രങ്ങള്‍ വരയ്ക്കുക"
+
+#: ../desktop-files/openeuler-drawing.desktop.in.h:2
+msgid "OpenOffice.org Draw"
+msgstr "ഓപ്പണ്‍ഓഫീസ്.ഓര്‍ഗ് ഡ്രോ"
+
+#: ../desktop-files/openeuler-email.desktop.in.h:1
+#: ../desktop-files/openeuler-evolution-mail.desktop.in.h:1
+msgid "Email"
+msgstr "ഈമെയില്‍"
+
+#: ../desktop-files/openeuler-email.desktop.in.h:2
+msgid "Send email and manage your schedule"
+msgstr "ഈമെയില്‍ അയച്ചു് നിങ്ങളുടെ ഷെഡ്യൂള്‍ കൈകാര്യം ചെയ്യുക"
+
+#: ../desktop-files/openeuler-evolution-calendar.desktop.in.h:1
+msgid "Calendar"
+msgstr "കലന്‍ഡര്‍"
+
+#: ../desktop-files/openeuler-evolution-calendar.desktop.in.h:2
+msgid "Manage your schedule using Evolution"
+msgstr "ഇവല്യൂഷന്‍ ഉപയോഗിച്ച് നിങ്ങളുടെ സമയം ക്രമീകരിക്കുക"
+
+#: ../desktop-files/openeuler-evolution-contacts.desktop.in.h:1
+msgid "Contacts"
+msgstr "വിലാസങ്ങള്‍"
+
+#: ../desktop-files/openeuler-evolution-contacts.desktop.in.h:2
+msgid "Manage your contacts using Evolution"
+msgstr "ഇവല്യൂഷന്‍ ഉപയോഗിച്ച് നിങ്ങളുടെ വിലാസങ്ങള്‍ ക്രമീകരിക്കുക"
+
+#: ../desktop-files/openeuler-evolution-mail.desktop.in.h:2
+msgid "Send and receive email using Evolution"
+msgstr "ഇവല്യൂഷന്‍ ഉപയോഗിച്ച് ഈമെയില്‍ അയക്കുകയും ലഭിക്കുകയും ചെയ്യുക"
+
+#: ../desktop-files/openeuler-evolution-tasks.desktop.in.h:1
+msgid "Manage tasks using the Evolution groupware suite"
+msgstr "ഇവല്യൂഷന്‍ ഗ്രൂപ്പ് വെയര്‍ സ്യൂട്ട് ഉപയോഗിച്ച് നിങ്ങളുടെ ജോലികള്‍ ക്രമീകരിക്കുക"
+
+#: ../desktop-files/openeuler-evolution-tasks.desktop.in.h:2
+msgid "Tasks"
+msgstr "ജോലികള്‍"
+
+#: ../desktop-files/openeuler-math.desktop.in.h:1
+msgid "Formula editor"
+msgstr "ഫോര്‍മുലാ എഡിറ്റര്‍"
+
+#: ../desktop-files/openeuler-math.desktop.in.h:2
+msgid "OpenOffice.org Math"
+msgstr "ഓപ്പണ്‍ഓഫീസ്.ഓര്‍ഗ് മാഥ്"
+
+#: ../desktop-files/openeuler-presentations.desktop.in.h:1
+msgid "Create presentations"
+msgstr "പ്രസന്‍റേഷനുകള്‍ തയ്യാറാക്കുക"
+
+#: ../desktop-files/openeuler-presentations.desktop.in.h:2
+msgid "OpenOffice.org Impress"
+msgstr "ഓപ്പണ്‍ഓഫീസ്.ഓര്‍ഗ് ഇംപ്രസ്സ്"
+
+#: ../desktop-files/openeuler-print.desktop.in.h:1
+msgid "Print Manager"
+msgstr "പ്രിന്റ് മാനേജര്‍"
+
+#: ../desktop-files/openeuler-print.desktop.in.h:2
+msgid "Set up and monitor printers"
+msgstr "പ്രിന്ററുകള്‍ സജ്ജമാക്കി അവ നിരീക്ഷിക്കുക"
+
+#: ../desktop-files/openeuler-spreadsheet.desktop.in.h:1
+msgid "OpenOffice.org Calc"
+msgstr "ഓപ്പണ്‍ഓഫീസ്.ഓര്‍ഗ് കാല്‍ക്"
+
+#: ../desktop-files/openeuler-spreadsheet.desktop.in.h:2
+msgid "Spreadsheet"
+msgstr "സ്പ്രെഡ് ഷീറ്റ്"
+
+#: ../desktop-files/openeuler-web.desktop.in.h:1
+msgid "Browse the web"
+msgstr "വെബില്‍ തിരയുക"
+
+#: ../desktop-files/openeuler-web.desktop.in.h:2
+msgid "Web Browser"
+msgstr "വെബ് ബ്രൌസര്‍"
+
+#: ../desktop-files/openeuler-word-processor.desktop.in.h:1
+msgid "OpenOffice.org Writer"
+msgstr "ഓപ്പണ്‍ഓഫീസ്.ഓര്‍ഗ് റൈറ്റര്‍"
+
+#: ../desktop-files/openeuler-word-processor.desktop.in.h:2
+msgid "Word processor"
+msgstr "വേര്‍ഡ് പ്രൊസസ്സര്‍"
+
+#: ../desktop-files/Root.directory.in.h:1
+msgid "Programs"
+msgstr "പ്രോഗ്രാമുകള്‍"
+
+#: ../desktop-files/Root.directory.in.h:2
+msgid "Programs menu"
+msgstr "പ്രോഗ്രാമുകളുടെ മെനു"
+
+#: ../desktop-files/Sawfish.directory.in.h:1
+msgid "Configure the Sawfish window manager"
+msgstr "സോഫിഷ് വിന്‍ഡോ മാനേജര്‍ ക്രമികരിക്കുക"
+
+#: ../desktop-files/Sawfish.directory.in.h:2
+msgid "Sawfish window manager"
+msgstr "സോഫിഷ് വിന്‍ഡോ മാനേജര്‍"
+
+#: ../desktop-files/ServerConfig.directory.in.h:1
+#: ../desktop-files/ServerConfig-More.directory.in.h:1
+msgid "Configure network services (web server, DNS server, etc.)"
+msgstr "നെറ്റ്‌വര്‍ക്ക് സര്‍വീസുകള്‍ ക്രമികരിക്കുക (വെബ് സര്‍വര്‍, DNS സര്‍വര്‍, എന്നിവ.)"
+
+#: ../desktop-files/ServerConfig.directory.in.h:2
+msgid "Server Settings"
+msgstr "സര്‍വര്‍ സജ്ജീകരണങ്ങള്‍"
+
+#: ../desktop-files/ServerConfig-More.directory.in.h:2
+msgid "More Server Settings"
+msgstr "കൂടുതല്‍ സര്‍വര്‍ സജ്ജീകരണങ്ങള്‍"
+
+#: ../desktop-files/Settings-Accessibility.directory.in.h:2
+msgid "Accessibility related preferences"
+msgstr "അക്സസ്സബിളിറ്റി സംബന്ധിച്ചുള്ള മുന്‍ഗണനകള്‍"
+
+#: ../desktop-files/Settings-More.directory.in.h:1
+msgid "More Preferences"
+msgstr "കൂടുതല്‍ മുന്‍ഗണനകള്‍"
+
+#: ../desktop-files/Settings-More.directory.in.h:2
+msgid "Personal preferences and settings"
+msgstr "സ്വകാര്യ മുന്‍ഗണനകളും സജ്ജീകരണങ്ങളും"
+
+#: ../desktop-files/SystemConfig.directory.in.h:1
+msgid "Administration"
+msgstr "അഡുമിനിസ്ട്രേഷന്‍"
+
+#: ../desktop-files/SystemConfig.directory.in.h:2
+#: ../desktop-files/SystemConfig-More.directory.in.h:1
+msgid "Change systemwide settings (affects all users)"
+msgstr "കംപ്യൂട്ടറിനുള്ള മുഴുവന്‍ സജ്ജീകരണങ്ങളിലും മാറ്റം വരുത്തുക (എല്ലാ ഉപയോക്താക്കള്‍ക്കും ഇവ ബാധിക്കും)"
+
+#: ../desktop-files/SystemConfig-More.directory.in.h:2
+msgid "More System Settings"
+msgstr "കൂടുതല്‍ സിസ്റ്റം സജ്ജീകരണങ്ങള്‍"
+
+#: ../desktop-files/System.directory.in.h:1
+msgid "System Tools"
+msgstr "സിസ്റ്റം ടൂളുകള്‍"
+
+#: ../desktop-files/System.directory.in.h:2
+#: ../desktop-files/System-More.directory.in.h:2
+msgid "System configuration and monitoring"
+msgstr "സിസ്റ്റം ക്രമീകരണവും നിരീക്ഷണവും"
+
+#: ../desktop-files/System-More.directory.in.h:1
+msgid "More System Tools"
+msgstr "കൂടുതല്‍ സിസ്റ്റം ടൂളുകള്‍"
+
+#: ../desktop-files/Utilities.directory.in.h:1
+msgid "Utilities"
+msgstr "ഉപകരണങ്ങള്‍"
+
+#: ../desktop-files/Utilities.directory.in.h:2
+#: ../desktop-files/Utilities-More.directory.in.h:2
+msgid "Utilities "
+msgstr "ഉപകരണങ്ങള്‍ "
+
+#: ../desktop-files/Utilities-More.directory.in.h:1
+msgid "More Utilities"
+msgstr "കൂടുതല്‍ ഉപകരണങ്ങള്‍"
+

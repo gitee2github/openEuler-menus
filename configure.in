@@ -1,0 +1,34 @@
+AC_INIT(desktop-files)
+
+AM_INIT_AUTOMAKE(openeuler-menus, 1.0.0)
+
+## intltool wants this
+GETTEXT_PACKAGE=openeuler-menus
+AC_SUBST(GETTEXT_PACKAGE)
+
+# Honor aclocal flags
+ACLOCAL="$ACLOCAL $ACLOCAL_FLAGS"
+
+AM_MAINTAINER_MODE
+
+changequote(,)dnl
+if test "x$GCC" = "xyes"; then
+  case " $CFLAGS " in
+  *[\ \	]-Wall[\ \	]*) ;;
+  *) CFLAGS="$CFLAGS -Wall" ;;
+  esac
+fi
+changequote([,])dnl
+
+ALL_LINGUAS="af am ar as be bg bn_IN bn ca cs cy da de el en_GB es et fa fi fr gl gu he hi hr hu hy id ilo is it ja ka kn ko ku lo lt lv mk ml mr ms my nb nl nso or pa pl pt_BR pt ro ru si sk sl sq sr@latin sr sv ta te th tr uk ur vi zh_CN zh_TW zu"
+
+AM_GLIB_GNU_GETTEXT
+
+AC_PROG_INTLTOOL
+
+AC_OUTPUT([
+Makefile
+desktop-files/Makefile
+menus/Makefile
+po/Makefile.in
+])

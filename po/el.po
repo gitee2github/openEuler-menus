@@ -1,0 +1,436 @@
+# Copyright (C) Free Software Foundation. 2003, 2004, 2005, 2006.
+# This file is distributed under the same license as the openeuler-menus package.
+# kostas, 05Mar2003, initial translation,665 messages
+# Nikos,  29jul2003, fixes and update translation,425 messages
+# Nikos,  31jul2003, fixes access keys and update,461 messages
+# Nikos,   1aug2003, fixes and update, 490 messages
+# Nikos,  11aug2003, fixes and update, 509 messages
+# Nikos,  18aug2003, one more update, 592 messages
+# Nikos,  02sep2003, one more update, 629 messages
+# kostas: 29Oct2003, 722 messages updated translation
+# kostas: 12Nov2003, fixes
+# kostas: 23 Dec 2003, 761 messages updated translation
+# Nikos,  13Jan2004, fixes, 765 messages
+# kostas:25Jan2004, updates
+# Nikos: 6Jun2004, updates
+# Nikos: 16Jul2004, updates
+# Nikos: 30Jul2004, updates
+# Nikos Charonitakis <frolix68@yahoo.gr>, 2003.
+# Kostas Papadimas <pkst@gnome.org>, 2003, 2004.
+# Nikos Charonitakis <charosn@her.forthnet.gr>, 2004, 2006.
+# Dimitris Michelinakis <dimitris@michelinakis.gr>, 2006.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: el\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-03-29 17:48-0400\n"
+"PO-Revision-Date: 2006-01-30 22:17+0200\n"
+"Last-Translator: Dimitris Michelinakis <dimitris@michelinakis.gr>\n"
+"Language-Team: Greek\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../desktop-files/Accessories.directory.in.h:1
+msgid "Accessories"
+msgstr "Βοηθήματα"
+
+#: ../desktop-files/Accessories.directory.in.h:2
+#: ../desktop-files/Accessories-More.directory.in.h:1
+msgid "Desktop accessories"
+msgstr "Βοηθήματα επιφάνειας εργασίας"
+
+#: ../desktop-files/Accessories-More.directory.in.h:2
+msgid "More Accessories"
+msgstr "Περισσότερα βοηθήματα"
+
+#: ../desktop-files/Advanced.directory.in.h:1
+msgid "Advanced"
+msgstr "Ειδικές επιλογές"
+
+#: ../desktop-files/Advanced.directory.in.h:2
+#: ../desktop-files/Advanced-More.directory.in.h:1
+msgid "Advanced settings and preferences"
+msgstr "Ειδικές ρυθμίσεις και προτιμήσεις"
+
+#: ../desktop-files/Advanced-More.directory.in.h:2
+msgid "More Advanced Settings"
+msgstr "Περισσότερες ειδικές ρυθμίσεις"
+
+#: ../desktop-files/AllPrograms.directory.in.h:1
+msgid "All Applications"
+msgstr "Όλες οι εφαρμογές"
+
+#: ../desktop-files/Desktop.directory.in.h:1
+msgid "Personal preferences and administration settings"
+msgstr "Προσωπικές προτιμήσεις και ρυθμίσεις διαχείρισης συστήματος"
+
+#: ../desktop-files/Desktop.directory.in.h:2
+msgid "System"
+msgstr "Σύστημα"
+
+#: ../desktop-files/Development.directory.in.h:1
+msgid "Programming"
+msgstr "Ανάπτυξη λογισμικού"
+
+#: ../desktop-files/Development.directory.in.h:2
+#: ../desktop-files/Development-More.directory.in.h:2
+msgid "Tools for software development"
+msgstr "Εργαλεία για ανάπτυξη λογισμικού"
+
+#: ../desktop-files/Development-More.directory.in.h:1
+msgid "More Programming Tools"
+msgstr "Περισσότερα εργαλεία ανάπτυξης λογισμικού"
+
+#: ../desktop-files/Documentation.directory.in.h:1
+msgid "Documentation"
+msgstr "Τεκμηρίωση"
+
+#: ../desktop-files/Documentation.directory.in.h:2
+#: ../desktop-files/Documentation-More.directory.in.h:1
+msgid "Manuals and help documents"
+msgstr "Εγχειρίδια και έγγραφα βοήθειας"
+
+#: ../desktop-files/Documentation-More.directory.in.h:2
+msgid "More Documentation"
+msgstr "Περισσότερη τεκμηρίωση"
+
+#: ../desktop-files/Edutainment.directory.in.h:1
+msgid "Edutainment"
+msgstr "Εκπαίδευση"
+
+#: ../desktop-files/Extras.directory.in.h:1
+msgid "Extras"
+msgstr "Πρόσθετα"
+
+#: ../desktop-files/Extras.directory.in.h:2
+msgid "Less-commonly-used applications"
+msgstr "Εφαρμογές που δε χρησιμοποιούνται συχνά"
+
+#: ../desktop-files/Games-More.directory.in.h:1
+msgid "Games and amusements"
+msgstr "Παιχνίδια και διασκέδαση"
+
+#: ../desktop-files/Games-More.directory.in.h:2
+msgid "More Games"
+msgstr "Περισσότερα παιχνίδια"
+
+#: ../desktop-files/gnome-accessibility.desktop.in.h:1
+#: ../desktop-files/Settings-Accessibility.directory.in.h:1
+msgid "Accessibility"
+msgstr "Προσιτότητα"
+
+#: ../desktop-files/gnome-accessibility.desktop.in.h:2
+msgid "Accessibility settings"
+msgstr "Ρυθμίσεις προσιτότητας"
+
+#: ../desktop-files/gnome-gdmsetup.desktop.in.h:1
+msgid "Configure the login screen"
+msgstr "Ρύθμιση της οθόνης εισόδου"
+
+#: ../desktop-files/gnome-gdmsetup.desktop.in.h:2
+msgid "Login Screen"
+msgstr "Οθόνη εισόδου"
+
+#: ../desktop-files/gnome-pilot.desktop.in.h:1
+msgid "Handheld PDA"
+msgstr "Υπολογιστής παλάμης PDA"
+
+#: ../desktop-files/gnome-pilot.desktop.in.h:2
+msgid "Set up a PDA such as a Palm Pilot"
+msgstr "Ρύθμιση ενός PDA σαν το Palm Pilot"
+
+#: ../desktop-files/Graphics-More.directory.in.h:1
+msgid "Graphics applications"
+msgstr "Εφαρμογές γραφικών"
+
+#: ../desktop-files/Graphics-More.directory.in.h:2
+msgid "More Graphics Applications"
+msgstr "Περισσότερες εφαρμογές γραφικών"
+
+#: ../desktop-files/gthumb.desktop.in.h:1
+msgid "Organize your digital photos"
+msgstr "Οργάνωση των φωτογραφιών σας"
+
+#: ../desktop-files/gthumb.desktop.in.h:2
+msgid "Photo Tool"
+msgstr "Εργαλείο φωτογραφιών"
+
+#: ../desktop-files/Internet-More.directory.in.h:1
+msgid "More Internet Applications"
+msgstr "Περισσότερες εφαρμογές διαδικτύου"
+
+#: ../desktop-files/Internet-More.directory.in.h:2
+msgid "Programs for Internet access such as web and email"
+msgstr "Εφαρμογές πρόσβασης στο διαδίκτυο (ταχυδρομείο, περιήγηση ιστοσελίδων)"
+
+#: ../desktop-files/Multimedia-More.directory.in.h:1
+msgid "More Sound & Video Applications"
+msgstr "Περισσότερες εφαρμογές ήχου και βίντεο"
+
+#: ../desktop-files/Multimedia-More.directory.in.h:2
+msgid "Multimedia menu"
+msgstr "Μενού πολυμέσων"
+
+#: ../desktop-files/Office-More.directory.in.h:1
+msgid "Additional office applications"
+msgstr "Πρόσθετες εφαρμογές γραφείου"
+
+#: ../desktop-files/Office-More.directory.in.h:2
+msgid "More Office Applications"
+msgstr "Περισσότερες εφαρμογές γραφείου"
+
+#: ../desktop-files/openoffice-printeradmin.desktop.in.h:1
+msgid "OpenOffice.org Printer Setup"
+msgstr "Ρύθμιση εκτυπωτή OpenOffice.org"
+
+#: ../desktop-files/openoffice-printeradmin.desktop.in.h:2
+msgid "Set up printers for OpenOffice.org applications"
+msgstr "Ρυθμίσεις εκτυπωτών για εφαρμογές OpenOffice.org"
+
+#: ../desktop-files/openoffice-setup.desktop.in.h:1
+msgid "OpenOffice.org Repair"
+msgstr "Επιδιόρθωση OpenOffice.org"
+
+#: ../desktop-files/openoffice-setup.desktop.in.h:2
+msgid "Repair your installation of OpenOffice.org"
+msgstr "Επιδιόρθωση εγκατάστασης του OpenOffice.org"
+
+#: ../desktop-files/openeuler-audio-player.desktop.in.h:1
+msgid "Audio Player"
+msgstr "Αναπαραγωγή μουσικής"
+
+#: ../desktop-files/openeuler-audio-player.desktop.in.h:2
+msgid "Play Ogg Vorbis and other audio files"
+msgstr "Αναπαραγωγή Ogg Vorbis και άλλων αρχείων ήχου"
+
+#: ../desktop-files/openeuler-diagrams.desktop.in.h:1
+msgid "Create diagrams"
+msgstr "Δημιουργία διαγραμμάτων"
+
+#: ../desktop-files/openeuler-diagrams.desktop.in.h:2
+msgid "Dia Diagrams"
+msgstr "Διαγράμματα Dia"
+
+#: ../desktop-files/openeuler-drawing.desktop.in.h:1
+msgid "Draw diagrams and figures"
+msgstr "Σχήματα και διαγράμματα"
+
+#: ../desktop-files/openeuler-drawing.desktop.in.h:2
+msgid "OpenOffice.org Draw"
+msgstr "OpenOffice.org Draw"
+
+#: ../desktop-files/openeuler-email.desktop.in.h:1
+#: ../desktop-files/openeuler-evolution-mail.desktop.in.h:1
+msgid "Email"
+msgstr "Ηλ. ταχυδρομείο"
+
+#: ../desktop-files/openeuler-email.desktop.in.h:2
+msgid "Send email and manage your schedule"
+msgstr "Αποστολή email και διαχείριση του χρόνου σας"
+
+#: ../desktop-files/openeuler-evolution-calendar.desktop.in.h:1
+msgid "Calendar"
+msgstr "Ημερολόγιο"
+
+#: ../desktop-files/openeuler-evolution-calendar.desktop.in.h:2
+msgid "Manage your schedule using Evolution"
+msgstr "Διαχείριση χρονοδιαγράμματος με Evolution"
+
+#: ../desktop-files/openeuler-evolution-contacts.desktop.in.h:1
+msgid "Contacts"
+msgstr "Επαφές"
+
+#: ../desktop-files/openeuler-evolution-contacts.desktop.in.h:2
+msgid "Manage your contacts using Evolution"
+msgstr "Διαχείριση των επαφών σας με το Evolution"
+
+#: ../desktop-files/openeuler-evolution-mail.desktop.in.h:2
+msgid "Send and receive email using Evolution"
+msgstr "Αποστολή και παραλαβή email με Evolution"
+
+#: ../desktop-files/openeuler-evolution-tasks.desktop.in.h:1
+msgid "Manage tasks using the Evolution groupware suite"
+msgstr "Διαχείριση εργασιών με τη σουίτα groupware Evolution"
+
+#: ../desktop-files/openeuler-evolution-tasks.desktop.in.h:2
+msgid "Tasks"
+msgstr "Εργασίες"
+
+#: ../desktop-files/openeuler-math.desktop.in.h:1
+msgid "Formula editor"
+msgstr "Επεξεργαστής επιστημονικών τύπων"
+
+#: ../desktop-files/openeuler-math.desktop.in.h:2
+msgid "OpenOffice.org Math"
+msgstr "OpenOffice.org Math"
+
+#: ../desktop-files/openeuler-presentations.desktop.in.h:1
+msgid "Create presentations"
+msgstr "Δημιουργία παρουσιάσεων"
+
+#: ../desktop-files/openeuler-presentations.desktop.in.h:2
+msgid "OpenOffice.org Impress"
+msgstr "OpenOffice.org Impress"
+
+#: ../desktop-files/openeuler-print.desktop.in.h:1
+msgid "Print Manager"
+msgstr "Διαχειριστής εκτυπώσεων"
+
+#: ../desktop-files/openeuler-print.desktop.in.h:2
+msgid "Set up and monitor printers"
+msgstr "Ρύθμιση και εποπτεία εκτυπωτών"
+
+#: ../desktop-files/openeuler-spreadsheet.desktop.in.h:1
+msgid "OpenOffice.org Calc"
+msgstr "OpenOffice.org Calc"
+
+#: ../desktop-files/openeuler-spreadsheet.desktop.in.h:2
+msgid "Spreadsheet"
+msgstr "Λογιστικό φύλλο"
+
+#: ../desktop-files/openeuler-web.desktop.in.h:1
+msgid "Browse the web"
+msgstr "Περιήγηση στον παγκόσμιο ιστό"
+
+#: ../desktop-files/openeuler-web.desktop.in.h:2
+msgid "Web Browser"
+msgstr "Περιηγητής ιστοσελίδων"
+
+#: ../desktop-files/openeuler-word-processor.desktop.in.h:1
+msgid "OpenOffice.org Writer"
+msgstr "OpenOffice.org Writer"
+
+#: ../desktop-files/openeuler-word-processor.desktop.in.h:2
+msgid "Word processor"
+msgstr "Επεξεργαστής κειμένου"
+
+#: ../desktop-files/Root.directory.in.h:1
+msgid "Programs"
+msgstr "Προγράμματα"
+
+#: ../desktop-files/Root.directory.in.h:2
+msgid "Programs menu"
+msgstr "Μενού προγραμμάτων"
+
+#: ../desktop-files/Sawfish.directory.in.h:1
+msgid "Configure the Sawfish window manager"
+msgstr "Ρύθμιση διαχειριστή παραθύρων Sawfish"
+
+#: ../desktop-files/Sawfish.directory.in.h:2
+msgid "Sawfish window manager"
+msgstr "Διαχειριστής παραθύρων Sawfish"
+
+#: ../desktop-files/ServerConfig.directory.in.h:1
+#: ../desktop-files/ServerConfig-More.directory.in.h:1
+msgid "Configure network services (web server, DNS server, etc.)"
+msgstr "Ρύθμιση υπηρεσιών δικτύου (web server, DNS server, κτλ.)"
+
+#: ../desktop-files/ServerConfig.directory.in.h:2
+msgid "Server Settings"
+msgstr "Ρυθμίσεις εξυπηρετητή"
+
+#: ../desktop-files/ServerConfig-More.directory.in.h:2
+msgid "More Server Settings"
+msgstr "Περισσότερες ρυθμίσεις εξυπηρετητή"
+
+#: ../desktop-files/Settings-Accessibility.directory.in.h:2
+msgid "Accessibility related preferences"
+msgstr "Προτιμήσεις σχετικές με την προσιτότητα"
+
+#: ../desktop-files/Settings-More.directory.in.h:1
+msgid "More Preferences"
+msgstr "Περισσότερες προτιμήσεις"
+
+#: ../desktop-files/Settings-More.directory.in.h:2
+msgid "Personal preferences and settings"
+msgstr "Προσωπικές προτιμήσεις και ρυθμίσεις"
+
+#: ../desktop-files/SystemConfig.directory.in.h:1
+msgid "Administration"
+msgstr "Διαχείριση"
+
+#: ../desktop-files/SystemConfig.directory.in.h:2
+#: ../desktop-files/SystemConfig-More.directory.in.h:1
+msgid "Change systemwide settings (affects all users)"
+msgstr "Αλλαγή ρυθμίσεων συστήματος (επηρεάζονται όλοι οι χρήστες)"
+
+#: ../desktop-files/SystemConfig-More.directory.in.h:2
+msgid "More System Settings"
+msgstr "Περισσότερες ρυθμίσεις συστήματος"
+
+#: ../desktop-files/System.directory.in.h:1
+msgid "System Tools"
+msgstr "Εργαλεία συστήματος"
+
+#: ../desktop-files/System.directory.in.h:2
+#: ../desktop-files/System-More.directory.in.h:2
+msgid "System configuration and monitoring"
+msgstr "Ρύθμιση και εποπτεία συστήματος"
+
+#: ../desktop-files/System-More.directory.in.h:1
+msgid "More System Tools"
+msgstr "Περισσότερα εργαλεία συστήματος"
+
+#: ../desktop-files/Utilities.directory.in.h:1
+msgid "Utilities"
+msgstr "Εργαλεία"
+
+#: ../desktop-files/Utilities.directory.in.h:2
+#: ../desktop-files/Utilities-More.directory.in.h:2
+msgid "Utilities "
+msgstr "Εργαλεία"
+
+#: ../desktop-files/Utilities-More.directory.in.h:1
+msgid "More Utilities"
+msgstr "Περισσότερα εργαλεία"
+
+#~ msgid "Accessibility Settings"
+#~ msgstr "Ρυθμίσεις προσβασιμότητας"
+
+#~ msgid "Applications"
+#~ msgstr "Εφαρμογές"
+
+#~ msgid "Games"
+#~ msgstr "Παιχνίδια"
+
+#~ msgid "Graphics"
+#~ msgstr "Γραφικά"
+
+#~ msgid "Internet"
+#~ msgstr "Διαδίκτυο"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Ήχος & βίντεο"
+
+#~ msgid "Office"
+#~ msgstr "Γραφείο"
+
+#~ msgid "Office Applications"
+#~ msgstr "Εφαρμογές γραφείου"
+
+#~ msgid "Applications that did not fit in other categories"
+#~ msgstr "Εφαρμογές που δεν εντάσσονται σε άλλες κατηγορίες"
+
+#~ msgid "Other"
+#~ msgstr "Άλλο"
+
+#~ msgid "Talk to people over the internet"
+#~ msgstr "Συνομιλία στο διαδίκτυο"
+
+#~ msgid "Video Conferencing"
+#~ msgstr "Τηλεδιάσκεψη"
+
+#~ msgid "Preferences"
+#~ msgstr "Προτιμήσεις"
+
+#~ msgid "System Settings"
+#~ msgstr "Ρυθμίσεις συστήματος"
+
+#~ msgid "Control Center"
+#~ msgstr "Κέντρο ελέγχου"
+
+#~ msgid "Epiphany Web Browser"
+#~ msgstr "Περιηγητής διαδικτύου Epiphany"

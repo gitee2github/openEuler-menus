@@ -1,0 +1,11 @@
+[Desktop Entry]
+_Name=OpenOffice.org Impress
+_Comment=Create presentations
+Exec=ooimpress
+Icon=openeuler-presentations.png
+Terminal=0
+Type=Application
+Encoding=UTF-8
+Categories=Application;Office;X-open-Euler-Base;
+MimeType=application/vnd.stardivision.impress;application/vnd.sun.xml.impress;application/vnd.sun.xml.impress.template;application/vnd.ms-powerpoint;application/mspowerpoint;application/powerpoint;application/x-mspowerpoint;application/x-ole-storage;
+StartupWMClass=VCLSalFrame

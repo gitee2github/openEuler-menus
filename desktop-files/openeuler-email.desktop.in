@@ -1,0 +1,12 @@
+[Desktop Entry]
+_Name=Email
+_Comment=Send email and manage your schedule
+Exec=launchmail
+Icon=openeuler-email.png
+NoDisplay=true
+Terminal=0
+Type=Application
+Encoding=UTF-8
+Categories=X-open-Euler-Base;X-open-Euler-Base-Only;Network;Application;
+StartupNotify=True
+
