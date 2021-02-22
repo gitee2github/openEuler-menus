@@ -1,0 +1,377 @@
+# translation of openeuler-menus.HEAD.as.po to Assamese
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+#
+# Amitakhya Phukan <amitakhya.phukan@gmail.com>, 2006.
+# Amitakhya Phukan <aphukan@redhat.com>, 2006, 2007.
+# Amitakhya Phukan <aphukan@fedoraproject.org>, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: openeuler-menus.HEAD.as\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-03-29 17:48-0400\n"
+"PO-Revision-Date: 2009-03-31 15:04+0530\n"
+"Last-Translator: Amitakhya Phukan <aphukan@fedoraproject.org>\n"
+"Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=2; plural=(n!=1)\n"
+
+#: ../desktop-files/Accessories.directory.in.h:1
+msgid "Accessories"
+msgstr "আনুসংগিক"
+
+#: ../desktop-files/Accessories.directory.in.h:2
+#: ../desktop-files/Accessories-More.directory.in.h:1
+msgid "Desktop accessories"
+msgstr "ডেষ্কটপ আনুসংগিক"
+
+#: ../desktop-files/Accessories-More.directory.in.h:2
+msgid "More Accessories"
+msgstr "আৰু অধিক আনুসংগিক"
+
+#: ../desktop-files/Advanced.directory.in.h:1
+msgid "Advanced"
+msgstr "উন্নত"
+
+#: ../desktop-files/Advanced.directory.in.h:2
+#: ../desktop-files/Advanced-More.directory.in.h:1
+msgid "Advanced settings and preferences"
+msgstr "উন্নত পৰিবেশ আৰু পছন্দ"
+
+#: ../desktop-files/Advanced-More.directory.in.h:2
+msgid "More Advanced Settings"
+msgstr "আৰু উন্নত পৰিবেশ"
+
+#: ../desktop-files/AllPrograms.directory.in.h:1
+msgid "All Applications"
+msgstr "সকলো অনুপ্ৰয়োগ"
+
+#: ../desktop-files/Desktop.directory.in.h:1
+msgid "Personal preferences and administration settings"
+msgstr "নিজা পছন্দ আৰু প্ৰশাসনিক পৰিবেশ"
+
+#: ../desktop-files/Desktop.directory.in.h:2
+msgid "System"
+msgstr "ব্যৱস্থাপ্ৰণালী"
+
+#: ../desktop-files/Development.directory.in.h:1
+msgid "Programming"
+msgstr "প্ৰোগ্ৰামিং"
+
+#: ../desktop-files/Development.directory.in.h:2
+#: ../desktop-files/Development-More.directory.in.h:2
+msgid "Tools for software development"
+msgstr "চালনাজ্ঞান বিকাশৰ সৰঞ্জাম"
+
+#: ../desktop-files/Development-More.directory.in.h:1
+msgid "More Programming Tools"
+msgstr "আৰু অধিক তথ্যৰাশিৰ সৰঞ্জাম"
+
+#: ../desktop-files/Documentation.directory.in.h:1
+msgid "Documentation"
+msgstr "আলেখ্যন"
+
+#: ../desktop-files/Documentation.directory.in.h:2
+#: ../desktop-files/Documentation-More.directory.in.h:1
+msgid "Manuals and help documents"
+msgstr "হাতপুথি আৰু সহায়ক আলেখ"
+
+#: ../desktop-files/Documentation-More.directory.in.h:2
+msgid "More Documentation"
+msgstr "আৰু অধিক আলেখ"
+
+#: ../desktop-files/Edutainment.directory.in.h:1
+msgid "Edutainment"
+msgstr "শিক্ষা আৰু আমোদ-প্ৰমোদ"
+
+#: ../desktop-files/Extras.directory.in.h:1
+msgid "Extras"
+msgstr "অতিৰিক্ত"
+
+#: ../desktop-files/Extras.directory.in.h:2
+msgid "Less-commonly-used applications"
+msgstr "কম-কৈ-ব্যৱহৃত অনুপ্ৰয়োগ"
+
+#: ../desktop-files/Games-More.directory.in.h:1
+msgid "Games and amusements"
+msgstr "খেল আৰু মনোৰঞ্জন"
+
+#: ../desktop-files/Games-More.directory.in.h:2
+msgid "More Games"
+msgstr "আৰু অধিক খেল"
+
+#: ../desktop-files/gnome-accessibility.desktop.in.h:1
+#: ../desktop-files/Settings-Accessibility.directory.in.h:1
+msgid "Accessibility"
+msgstr "অভিগম্যতা"
+
+#: ../desktop-files/gnome-accessibility.desktop.in.h:2
+msgid "Accessibility settings"
+msgstr "অভিগম্যতা পৰিবেশ"
+
+#: ../desktop-files/gnome-gdmsetup.desktop.in.h:1
+msgid "Configure the login screen"
+msgstr "প্ৰৱেশ পৰ্দ্দা বিন্যাস কৰক"
+
+#: ../desktop-files/gnome-gdmsetup.desktop.in.h:2
+msgid "Login Screen"
+msgstr "প্ৰৱেশ পৰ্দ্দা"
+
+#: ../desktop-files/gnome-pilot.desktop.in.h:1
+msgid "Handheld PDA"
+msgstr "হাতেৰে ধৰা PDA"
+
+#: ../desktop-files/gnome-pilot.desktop.in.h:2
+msgid "Set up a PDA such as a Palm Pilot"
+msgstr "Palm Pilot ৰ দৰে PDA প্ৰতিষ্ঠা কৰক"
+
+#: ../desktop-files/Graphics-More.directory.in.h:1
+msgid "Graphics applications"
+msgstr "চিত্ৰাংকিত অনুপ্ৰয়োগ"
+
+#: ../desktop-files/Graphics-More.directory.in.h:2
+msgid "More Graphics Applications"
+msgstr "আৰু অধিক চিত্ৰাংকিত অনুপ্ৰয়োগ"
+
+#: ../desktop-files/gthumb.desktop.in.h:1
+msgid "Organize your digital photos"
+msgstr "আপোনাৰ ডিজিটেল আলোকচিত্ৰ সংগঠিত কৰক"
+
+#: ../desktop-files/gthumb.desktop.in.h:2
+msgid "Photo Tool"
+msgstr "আলোকচিত্ৰৰ সৰঞ্জাম"
+
+#: ../desktop-files/Internet-More.directory.in.h:1
+msgid "More Internet Applications"
+msgstr "আৰু অধিক ইন্টাৰণে'ট অনুপ্ৰয়োগ"
+
+#: ../desktop-files/Internet-More.directory.in.h:2
+msgid "Programs for Internet access such as web and email"
+msgstr "ইন্টাৰণে'ট অভিগমৰ অনুপ্ৰয়োগ যেনে ৱেব আৰু ঈ‌-মেইল"
+
+#: ../desktop-files/Multimedia-More.directory.in.h:1
+msgid "More Sound & Video Applications"
+msgstr "আৰু অধিক ধ্বনি আৰু ভিডিঅ' অনুপ্ৰয়োগ"
+
+#: ../desktop-files/Multimedia-More.directory.in.h:2
+msgid "Multimedia menu"
+msgstr "মাল্টিমিডিয়াৰ তালিকা"
+
+#: ../desktop-files/Office-More.directory.in.h:1
+msgid "Additional office applications"
+msgstr "অতিৰিক্ত কাৰ্য্যালয়ৰ অনুপ্ৰয়োগ"
+
+#: ../desktop-files/Office-More.directory.in.h:2
+msgid "More Office Applications"
+msgstr "আৰু অধিক কাৰ্য্যালয়ৰ অনুপ্ৰয়োগ"
+
+#: ../desktop-files/openoffice-printeradmin.desktop.in.h:1
+msgid "OpenOffice.org Printer Setup"
+msgstr "OpenOffice.org মুদ্ৰক প্ৰতিষ্ঠাপন"
+
+#: ../desktop-files/openoffice-printeradmin.desktop.in.h:2
+msgid "Set up printers for OpenOffice.org applications"
+msgstr "OpenOffice.org ৰ অনুপ্ৰয়োগৰ বাবে মুদ্ৰক যন্ত্ৰসমূহক প্ৰতিষ্ঠা কৰক"
+
+#: ../desktop-files/openoffice-setup.desktop.in.h:1
+msgid "OpenOffice.org Repair"
+msgstr "OpenOffice.org মেৰামতি"
+
+#: ../desktop-files/openoffice-setup.desktop.in.h:2
+msgid "Repair your installation of OpenOffice.org"
+msgstr "আপোনাৰ OpenOffice.orgৰ সংস্থাপনৰ মেৰামতি কৰক"
+
+#: ../desktop-files/openeuler-audio-player.desktop.in.h:1
+msgid "Audio Player"
+msgstr "শ্ৰৱণ ক্ৰীড়ক"
+
+#: ../desktop-files/openeuler-audio-player.desktop.in.h:2
+msgid "Play Ogg Vorbis and other audio files"
+msgstr "Ogg Vorbis আৰু অন্যান্য শ্ৰৱণ নথি-পত্ৰ বজাওক"
+
+#: ../desktop-files/openeuler-diagrams.desktop.in.h:1
+msgid "Create diagrams"
+msgstr "ছবি সৃষ্টি কৰক"
+
+#: ../desktop-files/openeuler-diagrams.desktop.in.h:2
+msgid "Dia Diagrams"
+msgstr "Diaৰ ছবি"
+
+#: ../desktop-files/openeuler-drawing.desktop.in.h:1
+msgid "Draw diagrams and figures"
+msgstr "ছবি আৰু আকৃতি অঙ্কন কৰক"
+
+#: ../desktop-files/openeuler-drawing.desktop.in.h:2
+msgid "OpenOffice.org Draw"
+msgstr "OpenOffice.org অঙ্কন কৰক"
+
+#: ../desktop-files/openeuler-email.desktop.in.h:1
+#: ../desktop-files/openeuler-evolution-mail.desktop.in.h:1
+msgid "Email"
+msgstr "ঈ-মেইল"
+
+#: ../desktop-files/openeuler-email.desktop.in.h:2
+msgid "Send email and manage your schedule"
+msgstr "ঈ-মেইল পঠিয়াওক আৰু আপোনাৰ সময়তালিকা পৰিচালনা কৰক"
+
+#: ../desktop-files/openeuler-evolution-calendar.desktop.in.h:1
+msgid "Calendar"
+msgstr "পঞ্জিকা"
+
+#: ../desktop-files/openeuler-evolution-calendar.desktop.in.h:2
+msgid "Manage your schedule using Evolution"
+msgstr "Evolution প্ৰায়োগ কৰি আপোনাৰ সময়তালিকা পৰিচালনা কৰক"
+
+#: ../desktop-files/openeuler-evolution-contacts.desktop.in.h:1
+msgid "Contacts"
+msgstr "সম্পৰ্ক"
+
+#: ../desktop-files/openeuler-evolution-contacts.desktop.in.h:2
+msgid "Manage your contacts using Evolution"
+msgstr "Evolution প্ৰায়োগ কৰি আপোনাৰ সম্পৰ্ক পৰিচালনা কৰক"
+
+#: ../desktop-files/openeuler-evolution-mail.desktop.in.h:2
+msgid "Send and receive email using Evolution"
+msgstr "Evolution প্ৰায়োগ কৰি ঈ-মেইল পঠিয়াওক আৰু প্ৰাপ্ত কৰক"
+
+#: ../desktop-files/openeuler-evolution-tasks.desktop.in.h:1
+msgid "Manage tasks using the Evolution groupware suite"
+msgstr "Evolution চালনাজ্ঞানৰ একাংশ বৰ্গৰ সংগ্ৰহেৰে আপোনাৰ কাৰ্য্যৰ পৰিচালনা কৰক"
+
+#: ../desktop-files/openeuler-evolution-tasks.desktop.in.h:2
+msgid "Tasks"
+msgstr "কাৰ্য্য"
+
+#: ../desktop-files/openeuler-math.desktop.in.h:1
+msgid "Formula editor"
+msgstr "সূত্ৰ সম্পাদক"
+
+#: ../desktop-files/openeuler-math.desktop.in.h:2
+msgid "OpenOffice.org Math"
+msgstr "OpenOffice.org গণিত"
+
+#: ../desktop-files/openeuler-presentations.desktop.in.h:1
+msgid "Create presentations"
+msgstr "আলেখ্য প্ৰদৰ্শন সৃষ্টি কৰক"
+
+#: ../desktop-files/openeuler-presentations.desktop.in.h:2
+msgid "OpenOffice.org Impress"
+msgstr "OpenOffice.org মুদ্ৰণ"
+
+#: ../desktop-files/openeuler-print.desktop.in.h:1
+msgid "Print Manager"
+msgstr "মুদ্ৰক যন্ত্ৰ পৰিচালক"
+
+#: ../desktop-files/openeuler-print.desktop.in.h:2
+msgid "Set up and monitor printers"
+msgstr "মুদ্ৰক যন্ত্ৰ প্ৰতিষ্ঠা আৰু  নিয়ন্ত্ৰণ কৰক"
+
+#: ../desktop-files/openeuler-spreadsheet.desktop.in.h:1
+msgid "OpenOffice.org Calc"
+msgstr "OpenOffice.org Calc"
+
+#: ../desktop-files/openeuler-spreadsheet.desktop.in.h:2
+msgid "Spreadsheet"
+msgstr "স্প্রেডশিট"
+
+#: ../desktop-files/openeuler-web.desktop.in.h:1
+msgid "Browse the web"
+msgstr "ওৱেব চৰণ কৰক"
+
+#: ../desktop-files/openeuler-web.desktop.in.h:2
+msgid "Web Browser"
+msgstr "ওৱেব চৰক"
+
+#: ../desktop-files/openeuler-word-processor.desktop.in.h:1
+msgid "OpenOffice.org Writer"
+msgstr "OpenOffice.org গ্ৰন্থকাৰ"
+
+#: ../desktop-files/openeuler-word-processor.desktop.in.h:2
+msgid "Word processor"
+msgstr "শব্দ পৰিবৰ্ত্তন প্ৰণালী পৰিচালক"
+
+#: ../desktop-files/Root.directory.in.h:1
+msgid "Programs"
+msgstr "কাৰ্য্যক্ৰম"
+
+#: ../desktop-files/Root.directory.in.h:2
+msgid "Programs menu"
+msgstr "কাৰ্য্যক্ৰম তালিকা"
+
+#: ../desktop-files/Sawfish.directory.in.h:1
+msgid "Configure the Sawfish window manager"
+msgstr "Sawfish সংযোগ-ক্ষেত্ৰ পৰিচালক বিন্যাস কৰক"
+
+#: ../desktop-files/Sawfish.directory.in.h:2
+msgid "Sawfish window manager"
+msgstr "Sawfish সংযোগ-ক্ষেত্ৰ পৰিচালক"
+
+#: ../desktop-files/ServerConfig.directory.in.h:1
+#: ../desktop-files/ServerConfig-More.directory.in.h:1
+msgid "Configure network services (web server, DNS server, etc.)"
+msgstr ""
+"নে'টৱৰ্ক সেৱা বিন্যাস কৰক (ওৱেব সেৱা‌-প্ৰদান কৰোঁতা, DNS সেৱা‌-প্ৰদান কৰোঁতা,ইত্যাদি "
+"।)"
+
+#: ../desktop-files/ServerConfig.directory.in.h:2
+msgid "Server Settings"
+msgstr "সেৱা‌-প্ৰদান কৰোঁতাৰ পৰিবেশন"
+
+#: ../desktop-files/ServerConfig-More.directory.in.h:2
+msgid "More Server Settings"
+msgstr "আৰু অধিক সেৱা‌-প্ৰদান কৰোঁতাৰ পৰিবেশন"
+
+#: ../desktop-files/Settings-Accessibility.directory.in.h:2
+msgid "Accessibility related preferences"
+msgstr "অভিগম্যতা সম্বন্ধিত পছন্দ"
+
+#: ../desktop-files/Settings-More.directory.in.h:1
+msgid "More Preferences"
+msgstr "আৰু অধিক পছন্দ"
+
+#: ../desktop-files/Settings-More.directory.in.h:2
+msgid "Personal preferences and settings"
+msgstr "নিজা পছন্দ আৰু পৰিবেশন"
+
+#: ../desktop-files/SystemConfig.directory.in.h:1
+msgid "Administration"
+msgstr "প্ৰশাসন"
+
+#: ../desktop-files/SystemConfig.directory.in.h:2
+#: ../desktop-files/SystemConfig-More.directory.in.h:1
+msgid "Change systemwide settings (affects all users)"
+msgstr "সমষ্ট ব্যৱস্থাপ্ৰণালীৰ পৰিবেশন পৰিবৰ্ত্তন কৰক (সকলো ব্যৱহাৰকৰ্তাক প্ৰভাৱ কৰে)"
+
+#: ../desktop-files/SystemConfig-More.directory.in.h:2
+msgid "More System Settings"
+msgstr "আৰু অধিক ব্যৱস্থাপ্ৰণালীৰ পৰিবেশন"
+
+#: ../desktop-files/System.directory.in.h:1
+msgid "System Tools"
+msgstr "ব্যৱস্থাপ্ৰণালীৰ সৰঞ্জাম"
+
+#: ../desktop-files/System.directory.in.h:2
+#: ../desktop-files/System-More.directory.in.h:2
+msgid "System configuration and monitoring"
+msgstr "ব্যৱস্থাপ্ৰণালীৰ বিন্যাস আৰু নিয়ন্ত্ৰণ কৰা"
+
+#: ../desktop-files/System-More.directory.in.h:1
+msgid "More System Tools"
+msgstr "আৰু অধিক ব্যৱস্থাপ্ৰণালীৰ সৰঞ্জাম"
+
+#: ../desktop-files/Utilities.directory.in.h:1
+msgid "Utilities"
+msgstr "উপযোগী সৰঞ্জাম"
+
+#: ../desktop-files/Utilities.directory.in.h:2
+#: ../desktop-files/Utilities-More.directory.in.h:2
+msgid "Utilities "
+msgstr "উপযোগী সৰঞ্জাম"
+
+#: ../desktop-files/Utilities-More.directory.in.h:1
+msgid "More Utilities"
+msgstr "আৰু অধিক উপযোগী সৰঞ্জাম"
+

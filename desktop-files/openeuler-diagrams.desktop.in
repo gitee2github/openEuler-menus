@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+_Name=Dia Diagrams
+_Comment=Create diagrams
+Exec=dia
+Icon=dia_gnome_icon.png
+Terminal=0
+Type=Application
+Categories=Application;Office;X-open-Euler-Base;X-open-Euler-Base-Only;

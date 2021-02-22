@@ -1,0 +1,414 @@
+# Afrikaans translations of openeuler-menus.
+# Copyright (C) 2004 Zuza Software Foundation (Translate.org.za)
+# This file is distributed under the same license as the openeuler-menus package.
+# Translate.org.za <info@translate.org.za>, 2005
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: openeuler-menus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-03-29 17:48-0400\n"
+"PO-Revision-Date: 2005-02-12 13:30+0200\n"
+"Last-Translator: Translate.org.za <info@translate.org.za>\n"
+"Language-Team: Afrikaans <translate-discuss-af@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../desktop-files/Accessories.directory.in.h:1
+msgid "Accessories"
+msgstr "Bybehore"
+
+#: ../desktop-files/Accessories.directory.in.h:2
+#: ../desktop-files/Accessories-More.directory.in.h:1
+msgid "Desktop accessories"
+msgstr "Werkskermbybehore"
+
+#: ../desktop-files/Accessories-More.directory.in.h:2
+msgid "More Accessories"
+msgstr "Nog bybehore"
+
+#: ../desktop-files/Advanced.directory.in.h:1
+msgid "Advanced"
+msgstr "Gevorderd"
+
+#: ../desktop-files/Advanced.directory.in.h:2
+#: ../desktop-files/Advanced-More.directory.in.h:1
+msgid "Advanced settings and preferences"
+msgstr "Gevorderde opstelling en voorkeure"
+
+#: ../desktop-files/Advanced-More.directory.in.h:2
+msgid "More Advanced Settings"
+msgstr "Nog gevorderde opstellings"
+
+#: ../desktop-files/AllPrograms.directory.in.h:1
+msgid "All Applications"
+msgstr "Alle toepassings"
+
+#: ../desktop-files/Desktop.directory.in.h:1
+#, fuzzy
+msgid "Personal preferences and administration settings"
+msgstr "Persoonlike voorkeure en opstelling"
+
+#: ../desktop-files/Desktop.directory.in.h:2
+#, fuzzy
+msgid "System"
+msgstr "Stelselnutsgoed"
+
+#: ../desktop-files/Development.directory.in.h:1
+msgid "Programming"
+msgstr "Programmering"
+
+#: ../desktop-files/Development.directory.in.h:2
+#: ../desktop-files/Development-More.directory.in.h:2
+msgid "Tools for software development"
+msgstr "Nutsgoed vir sagtewareontwikkeling"
+
+#: ../desktop-files/Development-More.directory.in.h:1
+msgid "More Programming Tools"
+msgstr "Nog programmeringsnutsgoed"
+
+#: ../desktop-files/Documentation.directory.in.h:1
+msgid "Documentation"
+msgstr "Dokumentasie"
+
+#: ../desktop-files/Documentation.directory.in.h:2
+#: ../desktop-files/Documentation-More.directory.in.h:1
+msgid "Manuals and help documents"
+msgstr "Handleidings en hulpdokumente"
+
+#: ../desktop-files/Documentation-More.directory.in.h:2
+msgid "More Documentation"
+msgstr "Nog dokumentasie"
+
+#: ../desktop-files/Edutainment.directory.in.h:1
+msgid "Edutainment"
+msgstr ""
+
+#: ../desktop-files/Extras.directory.in.h:1
+msgid "Extras"
+msgstr "Ekstras"
+
+#: ../desktop-files/Extras.directory.in.h:2
+msgid "Less-commonly-used applications"
+msgstr "Minder gebruikte toepassings"
+
+#: ../desktop-files/Games-More.directory.in.h:1
+msgid "Games and amusements"
+msgstr "Speletjies en pret"
+
+#: ../desktop-files/Games-More.directory.in.h:2
+msgid "More Games"
+msgstr "Nog speletjies"
+
+#: ../desktop-files/gnome-accessibility.desktop.in.h:1
+#: ../desktop-files/Settings-Accessibility.directory.in.h:1
+msgid "Accessibility"
+msgstr "Toeganklikheid"
+
+#: ../desktop-files/gnome-accessibility.desktop.in.h:2
+msgid "Accessibility settings"
+msgstr "Toeganklikheidsopstelling"
+
+#: ../desktop-files/gnome-gdmsetup.desktop.in.h:1
+msgid "Configure the login screen"
+msgstr "Stel die aanmeldskerm in"
+
+#: ../desktop-files/gnome-gdmsetup.desktop.in.h:2
+msgid "Login Screen"
+msgstr "Aanmeldskerm"
+
+#: ../desktop-files/gnome-pilot.desktop.in.h:1
+msgid "Handheld PDA"
+msgstr "Handhou-PDA"
+
+#: ../desktop-files/gnome-pilot.desktop.in.h:2
+msgid "Set up a PDA such as a Palm Pilot"
+msgstr "Stel 'n PDA soos 'n Palm Pilot op"
+
+#: ../desktop-files/Graphics-More.directory.in.h:1
+msgid "Graphics applications"
+msgstr "Grafikatoepassings"
+
+#: ../desktop-files/Graphics-More.directory.in.h:2
+msgid "More Graphics Applications"
+msgstr "Nog grafikatoepassings"
+
+#: ../desktop-files/gthumb.desktop.in.h:1
+msgid "Organize your digital photos"
+msgstr ""
+
+#: ../desktop-files/gthumb.desktop.in.h:2
+msgid "Photo Tool"
+msgstr ""
+
+#: ../desktop-files/Internet-More.directory.in.h:1
+msgid "More Internet Applications"
+msgstr "Nog internettoepassings"
+
+#: ../desktop-files/Internet-More.directory.in.h:2
+msgid "Programs for Internet access such as web and email"
+msgstr "Programme vir internetgebruik soos die web en e-pos"
+
+#: ../desktop-files/Multimedia-More.directory.in.h:1
+msgid "More Sound & Video Applications"
+msgstr "Nog klank- en videotoepassings"
+
+#: ../desktop-files/Multimedia-More.directory.in.h:2
+msgid "Multimedia menu"
+msgstr "Multimedia-kieslys"
+
+#: ../desktop-files/Office-More.directory.in.h:1
+msgid "Additional office applications"
+msgstr "Nog kantoortoepassings"
+
+#: ../desktop-files/Office-More.directory.in.h:2
+msgid "More Office Applications"
+msgstr "Nog kantoortoepassings"
+
+#: ../desktop-files/openoffice-printeradmin.desktop.in.h:1
+msgid "OpenOffice.org Printer Setup"
+msgstr "OpenOffice.org-drukkeropstelling"
+
+#: ../desktop-files/openoffice-printeradmin.desktop.in.h:2
+msgid "Set up printers for OpenOffice.org applications"
+msgstr "Stel drukkers vir OpenOffice.org-toepassings op"
+
+#: ../desktop-files/openoffice-setup.desktop.in.h:1
+msgid "OpenOffice.org Repair"
+msgstr "OpenOffice.org-hersteller"
+
+#: ../desktop-files/openoffice-setup.desktop.in.h:2
+msgid "Repair your installation of OpenOffice.org"
+msgstr "Herstel jou installasie van OpenOffice.org"
+
+#: ../desktop-files/openeuler-audio-player.desktop.in.h:1
+msgid "Audio Player"
+msgstr "Klankspeler"
+
+#: ../desktop-files/openeuler-audio-player.desktop.in.h:2
+msgid "Play Ogg Vorbis and other audio files"
+msgstr "Speel Ogg Vorbis en ander klanklêers"
+
+#: ../desktop-files/openeuler-diagrams.desktop.in.h:1
+msgid "Create diagrams"
+msgstr "Skep grafieke"
+
+#: ../desktop-files/openeuler-diagrams.desktop.in.h:2
+msgid "Dia Diagrams"
+msgstr "Skuifiegrafieke"
+
+#: ../desktop-files/openeuler-drawing.desktop.in.h:1
+msgid "Draw diagrams and figures"
+msgstr "Teken grafieke en diagramme"
+
+#: ../desktop-files/openeuler-drawing.desktop.in.h:2
+msgid "OpenOffice.org Draw"
+msgstr "OpenOffice.org Draw"
+
+#: ../desktop-files/openeuler-email.desktop.in.h:1
+#: ../desktop-files/openeuler-evolution-mail.desktop.in.h:1
+msgid "Email"
+msgstr "E-pos"
+
+#: ../desktop-files/openeuler-email.desktop.in.h:2
+msgid "Send email and manage your schedule"
+msgstr "Stuur e-pos en reël jou rooster"
+
+#: ../desktop-files/openeuler-evolution-calendar.desktop.in.h:1
+msgid "Calendar"
+msgstr ""
+
+#: ../desktop-files/openeuler-evolution-calendar.desktop.in.h:2
+msgid "Manage your schedule using Evolution"
+msgstr ""
+
+#: ../desktop-files/openeuler-evolution-contacts.desktop.in.h:1
+msgid "Contacts"
+msgstr ""
+
+#: ../desktop-files/openeuler-evolution-contacts.desktop.in.h:2
+msgid "Manage your contacts using Evolution"
+msgstr ""
+
+#: ../desktop-files/openeuler-evolution-mail.desktop.in.h:2
+msgid "Send and receive email using Evolution"
+msgstr ""
+
+#: ../desktop-files/openeuler-evolution-tasks.desktop.in.h:1
+msgid "Manage tasks using the Evolution groupware suite"
+msgstr ""
+
+#: ../desktop-files/openeuler-evolution-tasks.desktop.in.h:2
+msgid "Tasks"
+msgstr ""
+
+#: ../desktop-files/openeuler-math.desktop.in.h:1
+msgid "Formula editor"
+msgstr "Formule-skrywer"
+
+#: ../desktop-files/openeuler-math.desktop.in.h:2
+msgid "OpenOffice.org Math"
+msgstr "OpenOffice.org Math"
+
+#: ../desktop-files/openeuler-presentations.desktop.in.h:1
+msgid "Create presentations"
+msgstr "Skep voorleggings"
+
+#: ../desktop-files/openeuler-presentations.desktop.in.h:2
+msgid "OpenOffice.org Impress"
+msgstr "OpenOffice.org Impress"
+
+#: ../desktop-files/openeuler-print.desktop.in.h:1
+msgid "Print Manager"
+msgstr "Drukkerreëler"
+
+#: ../desktop-files/openeuler-print.desktop.in.h:2
+msgid "Set up and monitor printers"
+msgstr "Stel drukkers op en monitor hulle"
+
+#: ../desktop-files/openeuler-spreadsheet.desktop.in.h:1
+msgid "OpenOffice.org Calc"
+msgstr "OpenOffice.org Calc"
+
+#: ../desktop-files/openeuler-spreadsheet.desktop.in.h:2
+msgid "Spreadsheet"
+msgstr "Spreiblad"
+
+#: ../desktop-files/openeuler-web.desktop.in.h:1
+msgid "Browse the web"
+msgstr "Blaai op die web"
+
+#: ../desktop-files/openeuler-web.desktop.in.h:2
+msgid "Web Browser"
+msgstr "Webblaaier"
+
+#: ../desktop-files/openeuler-word-processor.desktop.in.h:1
+msgid "OpenOffice.org Writer"
+msgstr "OpenOffice.org Writer"
+
+#: ../desktop-files/openeuler-word-processor.desktop.in.h:2
+msgid "Word processor"
+msgstr "Woordverwerker"
+
+#: ../desktop-files/Root.directory.in.h:1
+msgid "Programs"
+msgstr "Programme"
+
+#: ../desktop-files/Root.directory.in.h:2
+msgid "Programs menu"
+msgstr "Programme-kieslys"
+
+#: ../desktop-files/Sawfish.directory.in.h:1
+msgid "Configure the Sawfish window manager"
+msgstr "Stel die Sawfish-vensterreëler op"
+
+#: ../desktop-files/Sawfish.directory.in.h:2
+msgid "Sawfish window manager"
+msgstr "Sawfish-vensterreëler"
+
+#: ../desktop-files/ServerConfig.directory.in.h:1
+#: ../desktop-files/ServerConfig-More.directory.in.h:1
+msgid "Configure network services (web server, DNS server, etc.)"
+msgstr "Stel netwerkdienste in (webbediener, DNS-bediener, ens)"
+
+#: ../desktop-files/ServerConfig.directory.in.h:2
+msgid "Server Settings"
+msgstr "Bedieneropstelling"
+
+#: ../desktop-files/ServerConfig-More.directory.in.h:2
+msgid "More Server Settings"
+msgstr "Nog bedieneropstellings"
+
+#: ../desktop-files/Settings-Accessibility.directory.in.h:2
+msgid "Accessibility related preferences"
+msgstr "Toeganklikheidsverwante voorkeure"
+
+#: ../desktop-files/Settings-More.directory.in.h:1
+msgid "More Preferences"
+msgstr "Nog voorkeure"
+
+#: ../desktop-files/Settings-More.directory.in.h:2
+msgid "Personal preferences and settings"
+msgstr "Persoonlike voorkeure en opstelling"
+
+#: ../desktop-files/SystemConfig.directory.in.h:1
+msgid "Administration"
+msgstr ""
+
+#: ../desktop-files/SystemConfig.directory.in.h:2
+#: ../desktop-files/SystemConfig-More.directory.in.h:1
+msgid "Change systemwide settings (affects all users)"
+msgstr "Wysig opstelling stelselwyd (affekteer alle gebruikers)"
+
+#: ../desktop-files/SystemConfig-More.directory.in.h:2
+msgid "More System Settings"
+msgstr "Nog stelselopstellings"
+
+#: ../desktop-files/System.directory.in.h:1
+msgid "System Tools"
+msgstr "Stelselnutsgoed"
+
+#: ../desktop-files/System.directory.in.h:2
+#: ../desktop-files/System-More.directory.in.h:2
+msgid "System configuration and monitoring"
+msgstr "Stelselinstelling en -monitering"
+
+#: ../desktop-files/System-More.directory.in.h:1
+msgid "More System Tools"
+msgstr "Nog stelselnutsgoed"
+
+#: ../desktop-files/Utilities.directory.in.h:1
+msgid "Utilities"
+msgstr "Nutsprogramme"
+
+#: ../desktop-files/Utilities.directory.in.h:2
+#: ../desktop-files/Utilities-More.directory.in.h:2
+msgid "Utilities "
+msgstr "Nutsprogramme "
+
+#: ../desktop-files/Utilities-More.directory.in.h:1
+msgid "More Utilities"
+msgstr "Nog nutsprogramme"
+
+#~ msgid "Accessibility Settings"
+#~ msgstr "Toeganklikheidsopstelling"
+
+#~ msgid "Applications"
+#~ msgstr "Toepassings"
+
+#~ msgid "Games"
+#~ msgstr "Speletjies"
+
+#~ msgid "Graphics"
+#~ msgstr "Grafika"
+
+#~ msgid "Internet"
+#~ msgstr "Internet"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Klank en video"
+
+#~ msgid "Office"
+#~ msgstr "Kantoor"
+
+#~ msgid "Office Applications"
+#~ msgstr "Kantoortoepassings"
+
+#~ msgid "Applications that did not fit in other categories"
+#~ msgstr "Toepassings wat nêrens anders pas nie"
+
+#~ msgid "Other"
+#~ msgstr "Ander"
+
+#~ msgid "Talk to people over the internet"
+#~ msgstr "Praat met mense oor die internet"
+
+#~ msgid "Video Conferencing"
+#~ msgstr "Videokonferensies"
+
+#~ msgid "Preferences"
+#~ msgstr "Voorkeure"
+
+#~ msgid "System Settings"
+#~ msgstr "Stelselopstelling"

@@ -1,0 +1,376 @@
+# translation of si.po to Sinhala
+# Sinhalese translations for PACKAGE package.
+# Copyright (C) 2004 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Automatically generated, 2004.
+# Tyronne Wickramarathne <tywickra@redhat.com>, 2006.
+# Danishka Navin <snavin@redhat.com>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: si\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-03-29 17:48-0400\n"
+"PO-Revision-Date: 2007-07-05 10:55+0530\n"
+"Last-Translator: Danishka Navin <snavin@redhat.com>\n"
+"Language-Team: Sinhala <en@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../desktop-files/Accessories.directory.in.h:1
+msgid "Accessories"
+msgstr "අමතර කොටස්"
+
+#: ../desktop-files/Accessories.directory.in.h:2
+#: ../desktop-files/Accessories-More.directory.in.h:1
+msgid "Desktop accessories"
+msgstr "ප්‍රධාන පුවරුව සඳහා අමතර කොටස්"
+
+#: ../desktop-files/Accessories-More.directory.in.h:2
+msgid "More Accessories"
+msgstr "බොහෝ අමතර කොටස්"
+
+#: ../desktop-files/Advanced.directory.in.h:1
+msgid "Advanced"
+msgstr "සංකීර්ණ"
+
+#: ../desktop-files/Advanced.directory.in.h:2
+#: ../desktop-files/Advanced-More.directory.in.h:1
+msgid "Advanced settings and preferences"
+msgstr "සංකීර්ණ පරිස්ථිතියන් සහ රිසිකරණයන්"
+
+#: ../desktop-files/Advanced-More.directory.in.h:2
+msgid "More Advanced Settings"
+msgstr "බොහෝ සංකීර්ණ පරිස්ථිතියන් "
+
+#: ../desktop-files/AllPrograms.directory.in.h:1
+msgid "All Applications"
+msgstr "සියළුම වැඩසටහන්"
+
+#: ../desktop-files/Desktop.directory.in.h:1
+msgid "Personal preferences and administration settings"
+msgstr "පෞද්ගලික රිසිකරණයන් සහ කළමණාකාර පරිස්ථිතියන්"
+
+#: ../desktop-files/Desktop.directory.in.h:2
+msgid "System"
+msgstr "පද්ධතිය"
+
+#: ../desktop-files/Development.directory.in.h:1
+msgid "Programming"
+msgstr "ක්‍රමලේඛනය"
+
+#: ../desktop-files/Development.directory.in.h:2
+#: ../desktop-files/Development-More.directory.in.h:2
+msgid "Tools for software development"
+msgstr "මෘදුකාංග ප්‍රවර්ධන මෙවලම්"
+
+#: ../desktop-files/Development-More.directory.in.h:1
+msgid "More Programming Tools"
+msgstr "ක්‍රමලේඛණ මෙවලම් වැඩිදුරටත්"
+
+#: ../desktop-files/Documentation.directory.in.h:1
+msgid "Documentation"
+msgstr "ලේඛණයන්"
+
+#: ../desktop-files/Documentation.directory.in.h:2
+#: ../desktop-files/Documentation-More.directory.in.h:1
+msgid "Manuals and help documents"
+msgstr "අත් පොත් සහ උපකාරක ලේඛන"
+
+#: ../desktop-files/Documentation-More.directory.in.h:2
+msgid "More Documentation"
+msgstr "බොහෝ ලේඛනයන්"
+
+#: ../desktop-files/Edutainment.directory.in.h:1
+msgid "Edutainment"
+msgstr "අධ්‍යපනරසස්වාද"
+
+#: ../desktop-files/Extras.directory.in.h:1
+msgid "Extras"
+msgstr "අමතර"
+
+#: ../desktop-files/Extras.directory.in.h:2
+msgid "Less-commonly-used applications"
+msgstr "අවම ලෙස භාවිත කළ යෙදුම්"
+
+#: ../desktop-files/Games-More.directory.in.h:1
+msgid "Games and amusements"
+msgstr "විනෝද ජනකයන් සහ ක්‍රිඩා"
+
+#: ../desktop-files/Games-More.directory.in.h:2
+msgid "More Games"
+msgstr "බොහෝ ක්‍රීඩා"
+
+#: ../desktop-files/gnome-accessibility.desktop.in.h:1
+#: ../desktop-files/Settings-Accessibility.directory.in.h:1
+msgid "Accessibility"
+msgstr "ප්‍රවේශ"
+
+#: ../desktop-files/gnome-accessibility.desktop.in.h:2
+msgid "Accessibility settings"
+msgstr "ප්‍රවේශ සැකසුම්"
+
+#: ../desktop-files/gnome-gdmsetup.desktop.in.h:1
+msgid "Configure the login screen"
+msgstr "පිවිසුම් තිරය මානකරන්න"
+
+#: ../desktop-files/gnome-gdmsetup.desktop.in.h:2
+msgid "Login Screen"
+msgstr "පිවිසුම් තිරය"
+
+#: ../desktop-files/gnome-pilot.desktop.in.h:1
+msgid "Handheld PDA"
+msgstr "අත්ලෙහි ක්‍රියාකරන PDA උපකරණය"
+
+#: ../desktop-files/gnome-pilot.desktop.in.h:2
+msgid "Set up a PDA such as a Palm Pilot"
+msgstr "Palm Pilot වැනි PDA උපකරණයක් සවි කරන්න"
+
+#: ../desktop-files/Graphics-More.directory.in.h:1
+msgid "Graphics applications"
+msgstr "චිත්‍රක වැඩසටහන්"
+
+#: ../desktop-files/Graphics-More.directory.in.h:2
+msgid "More Graphics Applications"
+msgstr "බොහෝ චිත්‍රක වැඩසටහන්"
+
+#: ../desktop-files/gthumb.desktop.in.h:1
+msgid "Organize your digital photos"
+msgstr "ඔබගේ අංකිත පිතුර පිළිවෙළකට සකසා ගන්න"
+
+#: ../desktop-files/gthumb.desktop.in.h:2
+msgid "Photo Tool"
+msgstr "පිළිඹිබු මෙවලම"
+
+#: ../desktop-files/Internet-More.directory.in.h:1
+msgid "More Internet Applications"
+msgstr "බොහෝ අන්තර්ජාල වැඩසටහන්"
+
+#: ../desktop-files/Internet-More.directory.in.h:2
+msgid "Programs for Internet access such as web and email"
+msgstr "වියුණු සහ විද්‍යුත් තැපෑල වැනි අන්තර්ජාල පිවිසුම් සඳහා වන වැඩසටහන්"
+
+#: ../desktop-files/Multimedia-More.directory.in.h:1
+msgid "More Sound & Video Applications"
+msgstr "බොහෝ ශ්‍රව්‍ය දෘශ්‍ය වැඩසටහන්"
+
+#: ../desktop-files/Multimedia-More.directory.in.h:2
+msgid "Multimedia menu"
+msgstr "බහු මාධ්‍ය මෙනුව"
+
+#: ../desktop-files/Office-More.directory.in.h:1
+msgid "Additional office applications"
+msgstr "අමතර කාකාස වැඩසටහන්"
+
+#: ../desktop-files/Office-More.directory.in.h:2
+msgid "More Office Applications"
+msgstr "බොහෝ කාකාස වැඩසටහන්"
+
+#: ../desktop-files/openoffice-printeradmin.desktop.in.h:1
+msgid "OpenOffice.org Printer Setup"
+msgstr "OpenOffice.org මුද්‍රණ සැකසුම"
+
+#: ../desktop-files/openoffice-printeradmin.desktop.in.h:2
+msgid "Set up printers for OpenOffice.org applications"
+msgstr "OpenOffice.org වැඩසටහන් සඳහා මුද්‍රකයන් සකසන්න"
+
+#: ../desktop-files/openoffice-setup.desktop.in.h:1
+msgid "OpenOffice.org Repair"
+msgstr "OpenOffice.org අළුත් වැඩියා කරන්න"
+
+#: ../desktop-files/openoffice-setup.desktop.in.h:2
+msgid "Repair your installation of OpenOffice.org"
+msgstr "OpenOffice.org ස්ථාපනය අළුත් වැඩියා කරන්න"
+
+#: ../desktop-files/openeuler-audio-player.desktop.in.h:1
+msgid "Audio Player"
+msgstr "ශ්‍රව්‍ය වාදකය"
+
+#: ../desktop-files/openeuler-audio-player.desktop.in.h:2
+msgid "Play Ogg Vorbis and other audio files"
+msgstr "Ogg Vorbis සහ අනෙකුත් ශව්‍ය ගොනු වාදනය කරන්න"
+
+#: ../desktop-files/openeuler-diagrams.desktop.in.h:1
+msgid "Create diagrams"
+msgstr "රූප සටහන් සාදන්න"
+
+#: ../desktop-files/openeuler-diagrams.desktop.in.h:2
+msgid "Dia Diagrams"
+msgstr "Dia රූප සටහන්"
+
+#: ../desktop-files/openeuler-drawing.desktop.in.h:1
+msgid "Draw diagrams and figures"
+msgstr "රූප සටහන් සහ හැඩයන් අඳින්න"
+
+#: ../desktop-files/openeuler-drawing.desktop.in.h:2
+msgid "OpenOffice.org Draw"
+msgstr "OpenOffice.org Draw"
+
+#: ../desktop-files/openeuler-email.desktop.in.h:1
+#: ../desktop-files/openeuler-evolution-mail.desktop.in.h:1
+msgid "Email"
+msgstr "විද්‍යුත් තැපෑල"
+
+#: ../desktop-files/openeuler-email.desktop.in.h:2
+msgid "Send email and manage your schedule"
+msgstr "විද්‍යුත් පණිවිඩ යැවීම සහ කාර්ය සටහන කළමනාකරනය කරන්න"
+
+#: ../desktop-files/openeuler-evolution-calendar.desktop.in.h:1
+msgid "Calendar"
+msgstr "දින දර්ශණය"
+
+#: ../desktop-files/openeuler-evolution-calendar.desktop.in.h:2
+msgid "Manage your schedule using Evolution"
+msgstr "Evolution භාවිතා කර කාර්ය සටහන කළමණාකරනය කරන්න"
+
+#: ../desktop-files/openeuler-evolution-contacts.desktop.in.h:1
+msgid "Contacts"
+msgstr "සබැඳියන්"
+
+#: ../desktop-files/openeuler-evolution-contacts.desktop.in.h:2
+msgid "Manage your contacts using Evolution"
+msgstr "Evolution භාවිත කර ඔබේ සබැඳියන් කළමණාකරනය කරන්න"
+
+#: ../desktop-files/openeuler-evolution-mail.desktop.in.h:2
+msgid "Send and receive email using Evolution"
+msgstr "Evolution භාවිත කරමින් විද්‍යුත් පණිවිඩ හුවමාරු කරගන්න"
+
+#: ../desktop-files/openeuler-evolution-tasks.desktop.in.h:1
+msgid "Manage tasks using the Evolution groupware suite"
+msgstr "Evolution කණ්ඩායම් කළමණාකරන සකසුම භාවිත කර කාර්යයන් කළමණාකරන්න"
+
+#: ../desktop-files/openeuler-evolution-tasks.desktop.in.h:2
+msgid "Tasks"
+msgstr "කාර්‍යයන්"
+
+#: ../desktop-files/openeuler-math.desktop.in.h:1
+msgid "Formula editor"
+msgstr "වට්ටෝරු සංශෝධක"
+
+#: ../desktop-files/openeuler-math.desktop.in.h:2
+msgid "OpenOffice.org Math"
+msgstr "OpenOffice.org Math"
+
+#: ../desktop-files/openeuler-presentations.desktop.in.h:1
+msgid "Create presentations"
+msgstr "පිළිගැන්වීමක් සාදන්න"
+
+#: ../desktop-files/openeuler-presentations.desktop.in.h:2
+msgid "OpenOffice.org Impress"
+msgstr "OpenOffice.org Impress"
+
+#: ../desktop-files/openeuler-print.desktop.in.h:1
+msgid "Print Manager"
+msgstr "මුද්‍රණ කලමණාකරු"
+
+#: ../desktop-files/openeuler-print.desktop.in.h:2
+msgid "Set up and monitor printers"
+msgstr "මුද්‍රණයන් සකස්කර අධීක්‍ෂණය කරන්න"
+
+#: ../desktop-files/openeuler-spreadsheet.desktop.in.h:1
+msgid "OpenOffice.org Calc"
+msgstr "OpenOffice.org Calc"
+
+#: ../desktop-files/openeuler-spreadsheet.desktop.in.h:2
+msgid "Spreadsheet"
+msgstr "පැතුරුම්පත"
+
+#: ../desktop-files/openeuler-web.desktop.in.h:1
+msgid "Browse the web"
+msgstr "වියුණ සැරිසරන්න"
+
+#: ../desktop-files/openeuler-web.desktop.in.h:2
+msgid "Web Browser"
+msgstr "වියුණු සැරිසරණය"
+
+#: ../desktop-files/openeuler-word-processor.desktop.in.h:1
+msgid "OpenOffice.org Writer"
+msgstr "OpenOffice.org Writer"
+
+#: ../desktop-files/openeuler-word-processor.desktop.in.h:2
+msgid "Word processor"
+msgstr "පද සකසුව"
+
+#: ../desktop-files/Root.directory.in.h:1
+msgid "Programs"
+msgstr "වැඩසටහන්"
+
+#: ../desktop-files/Root.directory.in.h:2
+msgid "Programs menu"
+msgstr "වැඩසටහන් මෙනුව"
+
+#: ../desktop-files/Sawfish.directory.in.h:1
+msgid "Configure the Sawfish window manager"
+msgstr "Sawfish කවුළු කළමණාකරු භාවිත කර මාණන්න"
+
+#: ../desktop-files/Sawfish.directory.in.h:2
+msgid "Sawfish window manager"
+msgstr "Sawfish කවුළු කළමණාකරු "
+
+#: ../desktop-files/ServerConfig.directory.in.h:1
+#: ../desktop-files/ServerConfig-More.directory.in.h:1
+msgid "Configure network services (web server, DNS server, etc.)"
+msgstr "ජාල සම්බන්ධක සේවාවන් මාණන්න(වියුණු සේවා දායකය, DNS සේවාදායකය අදිය.)"
+
+#: ../desktop-files/ServerConfig.directory.in.h:2
+msgid "Server Settings"
+msgstr "සේවා දායකයේ පරිස්ථිතිය"
+
+#: ../desktop-files/ServerConfig-More.directory.in.h:2
+msgid "More Server Settings"
+msgstr "සේවා දායකයේ පරිස්ථිතියන් තව දුරටත්"
+
+#: ../desktop-files/Settings-Accessibility.directory.in.h:2
+msgid "Accessibility related preferences"
+msgstr "ප්‍රවේශ හා සම්බන්ධ අභිප්‍රේත"
+
+#: ../desktop-files/Settings-More.directory.in.h:1
+msgid "More Preferences"
+msgstr "බොහෝ රිසිකරණයන්"
+
+#: ../desktop-files/Settings-More.directory.in.h:2
+msgid "Personal preferences and settings"
+msgstr "පුද්ගලික රිසිකරණයන් සහ පරිස්ථිතියන්"
+
+#: ../desktop-files/SystemConfig.directory.in.h:1
+msgid "Administration"
+msgstr "කළමණාකරනය"
+
+#: ../desktop-files/SystemConfig.directory.in.h:2
+#: ../desktop-files/SystemConfig-More.directory.in.h:1
+msgid "Change systemwide settings (affects all users)"
+msgstr "පද්ධතිය පුරා බලපැවැත්වෙන අයුරින් පරිස්ථිතිය වෙනස් කරන්න(මෙය සියළු පරිශීලකයන් හට බලපානු ඇත)"
+
+#: ../desktop-files/SystemConfig-More.directory.in.h:2
+msgid "More System Settings"
+msgstr "පද්ධතියේ පරිස්ථිතියන් තව දුරටත්"
+
+#: ../desktop-files/System.directory.in.h:1
+msgid "System Tools"
+msgstr "පද්ධතියේ මෙවලම්"
+
+#: ../desktop-files/System.directory.in.h:2
+#: ../desktop-files/System-More.directory.in.h:2
+msgid "System configuration and monitoring"
+msgstr "පද්ධතිය මෑනීම සහ අධීක්‍ෂණය කිරීම"
+
+#: ../desktop-files/System-More.directory.in.h:1
+msgid "More System Tools"
+msgstr "පද්ධති මෙවලම් තව දුරටත්"
+
+#: ../desktop-files/Utilities.directory.in.h:1
+msgid "Utilities"
+msgstr "උපකරණ"
+
+#: ../desktop-files/Utilities.directory.in.h:2
+#: ../desktop-files/Utilities-More.directory.in.h:2
+msgid "Utilities "
+msgstr "උපකරණ"
+
+#: ../desktop-files/Utilities-More.directory.in.h:1
+msgid "More Utilities"
+msgstr "බොහෝ උපකරණත්"
+

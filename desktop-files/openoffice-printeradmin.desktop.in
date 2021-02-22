@@ -1,0 +1,9 @@
+[Desktop Entry]
+_Name=OpenOffice.org Printer Setup
+_Comment=Set up printers for OpenOffice.org applications
+Exec=/usr/bin/oopadmin
+Icon=ooo_printeradmin.png
+Terminal=0
+Type=Application
+Encoding=UTF-8
+Categories=Application;Office;X-open-Euler-Base;

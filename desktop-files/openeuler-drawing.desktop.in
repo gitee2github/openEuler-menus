@@ -1,0 +1,10 @@
+[Desktop Entry]
+_Name=OpenOffice.org Draw
+_Comment=Draw diagrams and figures
+Exec=oodraw
+Icon=ooo_draw.png
+Terminal=0
+Type=Application
+Encoding=UTF-8
+Categories=Application;Office;X-open-Euler-Base;
+MimeType=application/vnd.stardivision.draw;application/vnd.sun.xml.draw;application/vnd.sun.xml.draw.template;

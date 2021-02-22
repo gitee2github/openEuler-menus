@@ -1,0 +1,412 @@
+# translation of ru.po to Russian
+# Copyright (C) 2000-2002, 2006 Free Software Foundation, Inc.
+# Valek Filippov <frob@df.ru>, 2000-2002.
+# Dmitry G. Mastrukov <dmitry@taurussoft.org>, 2002-2003.
+# Mikhail Zabaluev <mhz@altlinux.ru>, 2004.
+# Andrew Martynov <andrewm@inventa.ru>, 2006.
+# Nikolay Sivov <bunglehead@gmail.com>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: ru\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-03-29 17:48-0400\n"
+"PO-Revision-Date: 2007-03-30 22:27+0300\n"
+"Last-Translator: \n"
+"Language-Team: Russian <fedora-trans-ru@redhat.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: KBabel 1.9.1\n"
+
+#: ../desktop-files/Accessories.directory.in.h:1
+msgid "Accessories"
+msgstr "Стандартные"
+
+#: ../desktop-files/Accessories.directory.in.h:2
+#: ../desktop-files/Accessories-More.directory.in.h:1
+msgid "Desktop accessories"
+msgstr "Стандартные программы"
+
+#: ../desktop-files/Accessories-More.directory.in.h:2
+msgid "More Accessories"
+msgstr "Дополнительные стандартные программы"
+
+#: ../desktop-files/Advanced.directory.in.h:1
+msgid "Advanced"
+msgstr "Дополнительно"
+
+#: ../desktop-files/Advanced.directory.in.h:2
+#: ../desktop-files/Advanced-More.directory.in.h:1
+msgid "Advanced settings and preferences"
+msgstr "Дополнительные свойства и параметры"
+
+#: ../desktop-files/Advanced-More.directory.in.h:2
+msgid "More Advanced Settings"
+msgstr "Дополнительные параметры"
+
+#: ../desktop-files/AllPrograms.directory.in.h:1
+msgid "All Applications"
+msgstr "Все приложения"
+
+#: ../desktop-files/Desktop.directory.in.h:1
+msgid "Personal preferences and administration settings"
+msgstr "Личные предпочтения и параметры настроек"
+
+#: ../desktop-files/Desktop.directory.in.h:2
+msgid "System"
+msgstr "Система"
+
+#: ../desktop-files/Development.directory.in.h:1
+msgid "Programming"
+msgstr "Разработка"
+
+#: ../desktop-files/Development.directory.in.h:2
+#: ../desktop-files/Development-More.directory.in.h:2
+msgid "Tools for software development"
+msgstr "Средства разработки ПО"
+
+#: ../desktop-files/Development-More.directory.in.h:1
+msgid "More Programming Tools"
+msgstr "Дополнительные средства разработки"
+
+#: ../desktop-files/Documentation.directory.in.h:1
+msgid "Documentation"
+msgstr "Документация"
+
+#: ../desktop-files/Documentation.directory.in.h:2
+#: ../desktop-files/Documentation-More.directory.in.h:1
+msgid "Manuals and help documents"
+msgstr "Руководства и справочные документы"
+
+#: ../desktop-files/Documentation-More.directory.in.h:2
+msgid "More Documentation"
+msgstr "Дополнительная документация"
+
+#: ../desktop-files/Edutainment.directory.in.h:1
+msgid "Edutainment"
+msgstr "Познавательные программы"
+
+#: ../desktop-files/Extras.directory.in.h:1
+msgid "Extras"
+msgstr "Прочее"
+
+#: ../desktop-files/Extras.directory.in.h:2
+msgid "Less-commonly-used applications"
+msgstr "Менее широко используемые приложения"
+
+#: ../desktop-files/Games-More.directory.in.h:1
+msgid "Games and amusements"
+msgstr "Игры и развлечения"
+
+#: ../desktop-files/Games-More.directory.in.h:2
+msgid "More Games"
+msgstr "Дополнительные игры"
+
+#: ../desktop-files/gnome-accessibility.desktop.in.h:1
+#: ../desktop-files/Settings-Accessibility.directory.in.h:1
+msgid "Accessibility"
+msgstr "Специальные возможности"
+
+#: ../desktop-files/gnome-accessibility.desktop.in.h:2
+msgid "Accessibility settings"
+msgstr "Настройка специальных возможностей"
+
+#: ../desktop-files/gnome-gdmsetup.desktop.in.h:1
+msgid "Configure the login screen"
+msgstr "Настройка экрана входа в систему"
+
+#: ../desktop-files/gnome-gdmsetup.desktop.in.h:2
+msgid "Login Screen"
+msgstr "Экран входа в систему"
+
+#: ../desktop-files/gnome-pilot.desktop.in.h:1
+msgid "Handheld PDA"
+msgstr "Карманный ПК"
+
+#: ../desktop-files/gnome-pilot.desktop.in.h:2
+msgid "Set up a PDA such as a Palm Pilot"
+msgstr "Настройка подключения карманного компьютера, например Palm Pilot"
+
+#: ../desktop-files/Graphics-More.directory.in.h:1
+msgid "Graphics applications"
+msgstr "Приложения для графических работ"
+
+#: ../desktop-files/Graphics-More.directory.in.h:2
+msgid "More Graphics Applications"
+msgstr "Дополнительные приложения для графических работ"
+
+#: ../desktop-files/gthumb.desktop.in.h:1
+msgid "Organize your digital photos"
+msgstr "Организация ваших цифровых фото"
+
+#: ../desktop-files/gthumb.desktop.in.h:2
+msgid "Photo Tool"
+msgstr "Работа с фото"
+
+#: ../desktop-files/Internet-More.directory.in.h:1
+msgid "More Internet Applications"
+msgstr "Дополнительные средства Интернет"
+
+#: ../desktop-files/Internet-More.directory.in.h:2
+msgid "Programs for Internet access such as web and email"
+msgstr "Программы для доступа к Интернет (www, электронная почта...)"
+
+#: ../desktop-files/Multimedia-More.directory.in.h:1
+msgid "More Sound & Video Applications"
+msgstr "Дополнительные мультимедийные приложения"
+
+#: ../desktop-files/Multimedia-More.directory.in.h:2
+msgid "Multimedia menu"
+msgstr "Мультимедийные приложения"
+
+#: ../desktop-files/Office-More.directory.in.h:1
+msgid "Additional office applications"
+msgstr "Дополнительные офисные приложения"
+
+#: ../desktop-files/Office-More.directory.in.h:2
+msgid "More Office Applications"
+msgstr "Дополнительные офисные приложения"
+
+#: ../desktop-files/openoffice-printeradmin.desktop.in.h:1
+msgid "OpenOffice.org Printer Setup"
+msgstr "Настройка принтера OpenOffice.org"
+
+#: ../desktop-files/openoffice-printeradmin.desktop.in.h:2
+msgid "Set up printers for OpenOffice.org applications"
+msgstr "настройка принтера для приложений OpenOffice.org"
+
+#: ../desktop-files/openoffice-setup.desktop.in.h:1
+msgid "OpenOffice.org Repair"
+msgstr "Восстановление OpenOffice.org"
+
+#: ../desktop-files/openoffice-setup.desktop.in.h:2
+msgid "Repair your installation of OpenOffice.org"
+msgstr "Восстанавливает вашу установку OpenOffice.org"
+
+#: ../desktop-files/openeuler-audio-player.desktop.in.h:1
+msgid "Audio Player"
+msgstr "Звуковой проигрыватель"
+
+#: ../desktop-files/openeuler-audio-player.desktop.in.h:2
+msgid "Play Ogg Vorbis and other audio files"
+msgstr "Воспроизводит файлы Ogg Vorbis и другие звуковые файлы"
+
+#: ../desktop-files/openeuler-diagrams.desktop.in.h:1
+msgid "Create diagrams"
+msgstr "Создание диаграмм"
+
+#: ../desktop-files/openeuler-diagrams.desktop.in.h:2
+msgid "Dia Diagrams"
+msgstr "Диаграммы DIA"
+
+#: ../desktop-files/openeuler-drawing.desktop.in.h:1
+msgid "Draw diagrams and figures"
+msgstr "Рисует изображения и диаграммы"
+
+#: ../desktop-files/openeuler-drawing.desktop.in.h:2
+msgid "OpenOffice.org Draw"
+msgstr "OpenOffice.org Draw"
+
+#: ../desktop-files/openeuler-email.desktop.in.h:1
+#: ../desktop-files/openeuler-evolution-mail.desktop.in.h:1
+msgid "Email"
+msgstr "Электронная почта и календарь"
+
+#: ../desktop-files/openeuler-email.desktop.in.h:2
+msgid "Send email and manage your schedule"
+msgstr "Работа с электронной почтой и личным расписанием"
+
+#: ../desktop-files/openeuler-evolution-calendar.desktop.in.h:1
+msgid "Calendar"
+msgstr "Календарь"
+
+#: ../desktop-files/openeuler-evolution-calendar.desktop.in.h:2
+msgid "Manage your schedule using Evolution"
+msgstr "Управление расписанием с помощью Evolution"
+
+#: ../desktop-files/openeuler-evolution-contacts.desktop.in.h:1
+msgid "Contacts"
+msgstr "Контакты"
+
+#: ../desktop-files/openeuler-evolution-contacts.desktop.in.h:2
+msgid "Manage your contacts using Evolution"
+msgstr "Управление контактами с помощью Evolution"
+
+#: ../desktop-files/openeuler-evolution-mail.desktop.in.h:2
+msgid "Send and receive email using Evolution"
+msgstr "Работа с электронной почтой с помощью Evolution"
+
+#: ../desktop-files/openeuler-evolution-tasks.desktop.in.h:1
+msgid "Manage tasks using the Evolution groupware suite"
+msgstr "Управление задачами с помощью пакета групповой работы Evolution"
+
+#: ../desktop-files/openeuler-evolution-tasks.desktop.in.h:2
+msgid "Tasks"
+msgstr "Задачи"
+
+#: ../desktop-files/openeuler-math.desktop.in.h:1
+msgid "Formula editor"
+msgstr "Редактор формул"
+
+#: ../desktop-files/openeuler-math.desktop.in.h:2
+msgid "OpenOffice.org Math"
+msgstr "OpenOffice.org Math"
+
+#: ../desktop-files/openeuler-presentations.desktop.in.h:1
+msgid "Create presentations"
+msgstr "Создание презентаций"
+
+#: ../desktop-files/openeuler-presentations.desktop.in.h:2
+msgid "OpenOffice.org Impress"
+msgstr "OpenOffice.org Impress"
+
+#: ../desktop-files/openeuler-print.desktop.in.h:1
+msgid "Print Manager"
+msgstr "Диспетчер печати"
+
+#: ../desktop-files/openeuler-print.desktop.in.h:2
+msgid "Set up and monitor printers"
+msgstr "Управление принтерами"
+
+#: ../desktop-files/openeuler-spreadsheet.desktop.in.h:1
+msgid "OpenOffice.org Calc"
+msgstr "OpenOffice.org Calc"
+
+#: ../desktop-files/openeuler-spreadsheet.desktop.in.h:2
+msgid "Spreadsheet"
+msgstr "Электронная таблица"
+
+#: ../desktop-files/openeuler-web.desktop.in.h:1
+msgid "Browse the web"
+msgstr "Программа для просмотра веб-страниц"
+
+#: ../desktop-files/openeuler-web.desktop.in.h:2
+msgid "Web Browser"
+msgstr "Браузер веб-страниц"
+
+#: ../desktop-files/openeuler-word-processor.desktop.in.h:1
+msgid "OpenOffice.org Writer"
+msgstr "OpenOffice.org Writer"
+
+#: ../desktop-files/openeuler-word-processor.desktop.in.h:2
+msgid "Word processor"
+msgstr "Текстовый процессор"
+
+#: ../desktop-files/Root.directory.in.h:1
+msgid "Programs"
+msgstr "Программы"
+
+#: ../desktop-files/Root.directory.in.h:2
+msgid "Programs menu"
+msgstr "Меню программ"
+
+#: ../desktop-files/Sawfish.directory.in.h:1
+msgid "Configure the Sawfish window manager"
+msgstr "Настройка менеджера окон Sawfish"
+
+#: ../desktop-files/Sawfish.directory.in.h:2
+msgid "Sawfish window manager"
+msgstr "Менеджер окон Sawfish"
+
+#: ../desktop-files/ServerConfig.directory.in.h:1
+#: ../desktop-files/ServerConfig-More.directory.in.h:1
+msgid "Configure network services (web server, DNS server, etc.)"
+msgstr "Настройка сетевых служб (веб-сервер, DNS и тд)"
+
+#: ../desktop-files/ServerConfig.directory.in.h:2
+msgid "Server Settings"
+msgstr "Настройка сервера"
+
+#: ../desktop-files/ServerConfig-More.directory.in.h:2
+msgid "More Server Settings"
+msgstr "Дополнительные настройки сервера"
+
+#: ../desktop-files/Settings-Accessibility.directory.in.h:2
+msgid "Accessibility related preferences"
+msgstr "Настройка специальных возможностей"
+
+#: ../desktop-files/Settings-More.directory.in.h:1
+msgid "More Preferences"
+msgstr "Дополнительные параметры"
+
+#: ../desktop-files/Settings-More.directory.in.h:2
+msgid "Personal preferences and settings"
+msgstr "Личные предпочтения и параметры"
+
+#: ../desktop-files/SystemConfig.directory.in.h:1
+msgid "Administration"
+msgstr "Администрирование"
+
+#: ../desktop-files/SystemConfig.directory.in.h:2
+#: ../desktop-files/SystemConfig-More.directory.in.h:1
+msgid "Change systemwide settings (affects all users)"
+msgstr "Изменение общесистемных параметров (затрагивает всех пользователей)"
+
+#: ../desktop-files/SystemConfig-More.directory.in.h:2
+msgid "More System Settings"
+msgstr "Дополнительные системные параметры"
+
+#: ../desktop-files/System.directory.in.h:1
+msgid "System Tools"
+msgstr "Система"
+
+#: ../desktop-files/System.directory.in.h:2
+#: ../desktop-files/System-More.directory.in.h:2
+msgid "System configuration and monitoring"
+msgstr "Настройка и мониторинг системы"
+
+#: ../desktop-files/System-More.directory.in.h:1
+msgid "More System Tools"
+msgstr "Дополнительные системные программы"
+
+#: ../desktop-files/Utilities.directory.in.h:1
+msgid "Utilities"
+msgstr "Утилиты"
+
+#: ../desktop-files/Utilities.directory.in.h:2
+#: ../desktop-files/Utilities-More.directory.in.h:2
+msgid "Utilities "
+msgstr "Утилиты "
+
+#: ../desktop-files/Utilities-More.directory.in.h:1
+msgid "More Utilities"
+msgstr "Дополнительные утилиты"
+
+#~ msgid "Accessibility Settings"
+#~ msgstr "Настройка специальных возможностей"
+#~ msgid "Applications"
+#~ msgstr "Приложения"
+#~ msgid "Games"
+#~ msgstr "Игры"
+#~ msgid "Graphics"
+#~ msgstr "Графика"
+#~ msgid "Internet"
+#~ msgstr "Интернет"
+#~ msgid "Sound & Video"
+#~ msgstr "Звук и видео"
+#~ msgid "Office"
+#~ msgstr "Офис"
+#~ msgid "Office Applications"
+#~ msgstr "Офисные приложения"
+#~ msgid "Applications that did not fit in other categories"
+#~ msgstr "Приложения, не подпадающие под другие категории"
+#~ msgid "Other"
+#~ msgstr "Другие"
+#~ msgid "Talk to people over the internet"
+#~ msgstr "Общение через интернет"
+#~ msgid "Video Conferencing"
+#~ msgstr "Видеоконференции"
+#~ msgid "Preferences"
+#~ msgstr "Параметры"
+#~ msgid "System Settings"
+#~ msgstr "Системные параметры"
+#~ msgid "Control Center"
+#~ msgstr "Центр управления"
+#~ msgid "Configure the connection for the user's PDA"
+#~ msgstr "Настройка соединения с PDA"
+#~ msgid "Pilot/Handspring Tool"
+#~ msgstr "Утилита для Pilot/Handspring"
+#~ msgid "Epiphany Web Browser"
+#~ msgstr "Веб-браузер \"Эпифани\""
+

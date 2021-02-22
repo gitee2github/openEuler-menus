@@ -1,0 +1,386 @@
+# translation of openeuler-menus.HEAD.ta.po to Tamil
+# translation of ta.po to
+# Epiphany Tamil Translation.
+# Copyright (C) 2003 Dinesh Nadarajah
+# This file is distributed under the same license as the Epiphany-Tamil package.
+#
+# Dinesh Nadarajah <n_dinesh@yahoo.com>, 2003, 2004.
+# Ma SivaKumar <tamil@leatherlink.net>, 2004.
+# Dinesh Nadarajah <dinesh_list@sbcglobal.net>, 2004.
+# Jayaradha N <jaya@pune.redhat.com>, 2004.
+# Jayaradha N <njaya@redhat.com>, 2004, 2006.
+# Felix <ifelix@redhat.com>, 2006.
+# I felix <ifelix@redhat.com>, 2007.
+# I. Felix <ifelix@redhat.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: openeuler-menus.HEAD.ta\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-03-29 17:48-0400\n"
+"PO-Revision-Date: 2009-09-22 13:26+0530\n"
+"Last-Translator: I. Felix <ifelix@redhat.com>\n"
+"Language-Team: Tamil <fedora-trans-ta@redhat.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\\n\n"
+"\n"
+"\n"
+"\n"
+"\n"
+
+#: ../desktop-files/Accessories.directory.in.h:1
+msgid "Accessories"
+msgstr "துணை நிரல்கள்"
+
+#: ../desktop-files/Accessories.directory.in.h:2
+#: ../desktop-files/Accessories-More.directory.in.h:1
+msgid "Desktop accessories"
+msgstr "பணிமேடை துணைப்பொருட்கள்"
+
+#: ../desktop-files/Accessories-More.directory.in.h:2
+msgid "More Accessories"
+msgstr "கூடுதல் துணைப்பொருட்கள்"
+
+#: ../desktop-files/Advanced.directory.in.h:1
+msgid "Advanced"
+msgstr "கூடுதல்"
+
+#: ../desktop-files/Advanced.directory.in.h:2
+#: ../desktop-files/Advanced-More.directory.in.h:1
+msgid "Advanced settings and preferences"
+msgstr "கூடுதல் அமைவுகள் மற்றும் விருப்பங்கள்"
+
+#: ../desktop-files/Advanced-More.directory.in.h:2
+msgid "More Advanced Settings"
+msgstr "இன்னும் கூடுதல் அமைவுகள்"
+
+#: ../desktop-files/AllPrograms.directory.in.h:1
+msgid "All Applications"
+msgstr "அனைத்து பயன்பாடுகள்"
+
+#: ../desktop-files/Desktop.directory.in.h:1
+msgid "Personal preferences and administration settings"
+msgstr "தனிப்பட்ட விருப்பங்கள் மற்றும் நிர்வாக அமைவுகள்"
+
+#: ../desktop-files/Desktop.directory.in.h:2
+msgid "System"
+msgstr "கணினி"
+
+#: ../desktop-files/Development.directory.in.h:1
+msgid "Programming"
+msgstr "நிரலாக்கம்"
+
+#: ../desktop-files/Development.directory.in.h:2
+#: ../desktop-files/Development-More.directory.in.h:2
+msgid "Tools for software development"
+msgstr "மென்பொருள் உருவாக்கத்திற்கான கருவிகள்"
+
+#: ../desktop-files/Development-More.directory.in.h:1
+msgid "More Programming Tools"
+msgstr "இன்னும் நிரலாக்க கருவிகள்"
+
+#: ../desktop-files/Documentation.directory.in.h:1
+msgid "Documentation"
+msgstr "ஆவணமாக்கல்"
+
+#: ../desktop-files/Documentation.directory.in.h:2
+#: ../desktop-files/Documentation-More.directory.in.h:1
+msgid "Manuals and help documents"
+msgstr "கையேடுகள் மற்றும் உதவி ஆவணங்கள்"
+
+#: ../desktop-files/Documentation-More.directory.in.h:2
+msgid "More Documentation"
+msgstr "மேலும் ஆவணங்கள்"
+
+#: ../desktop-files/Edutainment.directory.in.h:1
+msgid "Edutainment"
+msgstr "கல்வி"
+
+#: ../desktop-files/Extras.directory.in.h:1
+msgid "Extras"
+msgstr "கூடுதல்கள்"
+
+#: ../desktop-files/Extras.directory.in.h:2
+msgid "Less-commonly-used applications"
+msgstr "குறைவாக-பொதுவாக-பயன்படுத்ததப்பட்ட பயன்பாடுகள்"
+
+#: ../desktop-files/Games-More.directory.in.h:1
+msgid "Games and amusements"
+msgstr "விளையாட்டுகள் மற்றும் கேளிக்கைகள்"
+
+#: ../desktop-files/Games-More.directory.in.h:2
+msgid "More Games"
+msgstr "கூடுதல் விளையாட்டுகள்"
+
+#: ../desktop-files/gnome-accessibility.desktop.in.h:1
+#: ../desktop-files/Settings-Accessibility.directory.in.h:1
+msgid "Accessibility"
+msgstr "அணுகல்"
+
+#: ../desktop-files/gnome-accessibility.desktop.in.h:2
+msgid "Accessibility settings"
+msgstr "அணுகல் அமைவுகள்"
+
+#: ../desktop-files/gnome-gdmsetup.desktop.in.h:1
+msgid "Configure the login screen"
+msgstr "புகுபதிவு திரையை கட்டமைக்கவும்"
+
+#: ../desktop-files/gnome-gdmsetup.desktop.in.h:2
+msgid "Login Screen"
+msgstr "புகுபதிவு திரை"
+
+#: ../desktop-files/gnome-pilot.desktop.in.h:1
+msgid "Handheld PDA"
+msgstr "கையடக்க PDA"
+
+#: ../desktop-files/gnome-pilot.desktop.in.h:2
+msgid "Set up a PDA such as a Palm Pilot"
+msgstr "PDA போன்ற கையடக்க கணினிகளை நிறுவுவதற்கான நிரல்"
+
+#: ../desktop-files/Graphics-More.directory.in.h:1
+msgid "Graphics applications"
+msgstr "வரைகலை பயன்பாடுகள்"
+
+#: ../desktop-files/Graphics-More.directory.in.h:2
+msgid "More Graphics Applications"
+msgstr "கூடுதல் வரைகலை பயன்பாடுகள்"
+
+#: ../desktop-files/gthumb.desktop.in.h:1
+msgid "Organize your digital photos"
+msgstr "உங்கள் டிஜிட்டல் நிழல்படங்களை வரிசைப்படுத்துதல்"
+
+#: ../desktop-files/gthumb.desktop.in.h:2
+msgid "Photo Tool"
+msgstr "நிழல்பட கருவி"
+
+#: ../desktop-files/Internet-More.directory.in.h:1
+msgid "More Internet Applications"
+msgstr "கூடுதல் இணைய பயன்பாடுகள்"
+
+#: ../desktop-files/Internet-More.directory.in.h:2
+msgid "Programs for Internet access such as web and email"
+msgstr "இணையம் மற்றும் மின்னஞ்சலை பயன்படுத்துவதற்கான நிரல்கள்"
+
+#: ../desktop-files/Multimedia-More.directory.in.h:1
+msgid "More Sound & Video Applications"
+msgstr "கூடுதல் ஒலி மற்றும் வீடியோ பயன்பாடுகள்"
+
+#: ../desktop-files/Multimedia-More.directory.in.h:2
+msgid "Multimedia menu"
+msgstr "பல்லூடக பட்டி"
+
+#: ../desktop-files/Office-More.directory.in.h:1
+msgid "Additional office applications"
+msgstr "கூடுதல் அலுவலக பயன்பாடுகள்"
+
+#: ../desktop-files/Office-More.directory.in.h:2
+msgid "More Office Applications"
+msgstr "இன்னும் அலுவலக பயன்பாடுகள்"
+
+#: ../desktop-files/openoffice-printeradmin.desktop.in.h:1
+msgid "OpenOffice.org Printer Setup"
+msgstr "OpenOffice.org அச்சடிப்பி அமைவு"
+
+#: ../desktop-files/openoffice-printeradmin.desktop.in.h:2
+msgid "Set up printers for OpenOffice.org applications"
+msgstr "OpenOffice.org அச்சடிப்பி அமைவு பயன்பாடுகள்"
+
+#: ../desktop-files/openoffice-setup.desktop.in.h:1
+msgid "OpenOffice.org Repair"
+msgstr "OpenOffice.org பழுது பார்த்தல்"
+
+#: ../desktop-files/openoffice-setup.desktop.in.h:2
+msgid "Repair your installation of OpenOffice.org"
+msgstr "உங்கள் OpenOffice.org நிறுவலை பழுது பார்க்க"
+
+#: ../desktop-files/openeuler-audio-player.desktop.in.h:1
+msgid "Audio Player"
+msgstr "கேட்பொலி இயக்கி"
+
+#: ../desktop-files/openeuler-audio-player.desktop.in.h:2
+msgid "Play Ogg Vorbis and other audio files"
+msgstr "Ogg Vorbis மற்றும் மற்ற கேட்பொலி கோப்புகளை இயக்கவும்"
+
+#: ../desktop-files/openeuler-diagrams.desktop.in.h:1
+msgid "Create diagrams"
+msgstr "வரைபடங்களை உருவாக்கவும்"
+
+#: ../desktop-files/openeuler-diagrams.desktop.in.h:2
+msgid "Dia Diagrams"
+msgstr "Dia வரைபடங்கள்"
+
+#: ../desktop-files/openeuler-drawing.desktop.in.h:1
+msgid "Draw diagrams and figures"
+msgstr "வரைபடங்கள் மற்றும் உருவங்களை வரையவும்"
+
+#: ../desktop-files/openeuler-drawing.desktop.in.h:2
+msgid "OpenOffice.org Draw"
+msgstr "OpenOffice.org ட்ரா"
+
+#: ../desktop-files/openeuler-email.desktop.in.h:1
+#: ../desktop-files/openeuler-evolution-mail.desktop.in.h:1
+msgid "Email"
+msgstr "மின்னஞ்சல்"
+
+#: ../desktop-files/openeuler-email.desktop.in.h:2
+msgid "Send email and manage your schedule"
+msgstr "மின்னஞ்சல் அனுப்புதல் மற்றும் உங்கள் நேரத்தை திட்டமிடல்"
+
+#: ../desktop-files/openeuler-evolution-calendar.desktop.in.h:1
+msgid "Calendar"
+msgstr "நாள்காட்டி"
+
+#: ../desktop-files/openeuler-evolution-calendar.desktop.in.h:2
+msgid "Manage your schedule using Evolution"
+msgstr "Evolutionஐ பயன்படுத்தி உங்கள் பணியை திட்டமிடலாம்"
+
+#: ../desktop-files/openeuler-evolution-contacts.desktop.in.h:1
+msgid "Contacts"
+msgstr "தொடர்புகள்"
+
+#: ../desktop-files/openeuler-evolution-contacts.desktop.in.h:2
+msgid "Manage your contacts using Evolution"
+msgstr "Evolutionஐ பயன்படுத்தி உங்கள் தொடர்புகளை மேலாண்மை செய்யவும்"
+
+#: ../desktop-files/openeuler-evolution-mail.desktop.in.h:2
+msgid "Send and receive email using Evolution"
+msgstr "Evolutionஐ பயன்படுத்தி மின்னஞ்சலை அனுப்பி பெறவும்"
+
+#: ../desktop-files/openeuler-evolution-tasks.desktop.in.h:1
+msgid "Manage tasks using the Evolution groupware suite"
+msgstr "Evolution குழு தொகுப்பினை பயன்படுத்தி உங்கள் பணிகளை மேலாண்மை செய்யவும்"
+
+#: ../desktop-files/openeuler-evolution-tasks.desktop.in.h:2
+msgid "Tasks"
+msgstr "பணிகள்"
+
+#: ../desktop-files/openeuler-math.desktop.in.h:1
+msgid "Formula editor"
+msgstr "சூத்திர தொகுப்பி"
+
+#: ../desktop-files/openeuler-math.desktop.in.h:2
+msgid "OpenOffice.org Math"
+msgstr "OpenOffice.org மாத்"
+
+#: ../desktop-files/openeuler-presentations.desktop.in.h:1
+msgid "Create presentations"
+msgstr "காட்சி வில்லைகளை உருவாக்கவும்"
+
+#: ../desktop-files/openeuler-presentations.desktop.in.h:2
+msgid "OpenOffice.org Impress"
+msgstr "OpenOffice.org இம்ப்ரஸ்"
+
+#: ../desktop-files/openeuler-print.desktop.in.h:1
+msgid "Print Manager"
+msgstr "அச்சடிப்பி மேலாளர்"
+
+#: ../desktop-files/openeuler-print.desktop.in.h:2
+msgid "Set up and monitor printers"
+msgstr "அச்சடிப்பிகளை அமைத்து கண்காணிக்கவும்"
+
+#: ../desktop-files/openeuler-spreadsheet.desktop.in.h:1
+msgid "OpenOffice.org Calc"
+msgstr "OpenOffice.org கால்க்"
+
+#: ../desktop-files/openeuler-spreadsheet.desktop.in.h:2
+msgid "Spreadsheet"
+msgstr "விரிதாள்"
+
+#: ../desktop-files/openeuler-web.desktop.in.h:1
+msgid "Browse the web"
+msgstr "இணையத்தில் உலாவவும்"
+
+#: ../desktop-files/openeuler-web.desktop.in.h:2
+msgid "Web Browser"
+msgstr "இணைய உலாவி"
+
+#: ../desktop-files/openeuler-word-processor.desktop.in.h:1
+msgid "OpenOffice.org Writer"
+msgstr "OpenOffice.org ரைட்டர்"
+
+#: ../desktop-files/openeuler-word-processor.desktop.in.h:2
+msgid "Word processor"
+msgstr "சொற்செயலி"
+
+#: ../desktop-files/Root.directory.in.h:1
+msgid "Programs"
+msgstr "நிரல்கள்"
+
+#: ../desktop-files/Root.directory.in.h:2
+msgid "Programs menu"
+msgstr "நிரல்கள் பட்டியல்"
+
+#: ../desktop-files/Sawfish.directory.in.h:1
+msgid "Configure the Sawfish window manager"
+msgstr "Sawfish சாளர மேலாளரை கட்டமைக்கவும்"
+
+#: ../desktop-files/Sawfish.directory.in.h:2
+msgid "Sawfish window manager"
+msgstr "Sawfish சாளர மேலாளர்"
+
+#: ../desktop-files/ServerConfig.directory.in.h:1
+#: ../desktop-files/ServerConfig-More.directory.in.h:1
+msgid "Configure network services (web server, DNS server, etc.)"
+msgstr "பிணைய சேவைகளை கட்டமைக்கவும் (இணைய சேவையகம், DNS சேவையகம், இன்னும் பல)"
+
+#: ../desktop-files/ServerConfig.directory.in.h:2
+msgid "Server Settings"
+msgstr "சேவையக அமைவுகள்"
+
+#: ../desktop-files/ServerConfig-More.directory.in.h:2
+msgid "More Server Settings"
+msgstr "கூடுதல் சேவையக அமைவுகள்"
+
+#: ../desktop-files/Settings-Accessibility.directory.in.h:2
+msgid "Accessibility related preferences"
+msgstr "அணுகல் தொடர்பான முன்னுரிமைகள்"
+
+#: ../desktop-files/Settings-More.directory.in.h:1
+msgid "More Preferences"
+msgstr "கூடுதல் விருப்பங்கள்"
+
+#: ../desktop-files/Settings-More.directory.in.h:2
+msgid "Personal preferences and settings"
+msgstr "தனிப்பட்ட விருப்பங்கள் மற்றும் அமைவுகள்"
+
+#: ../desktop-files/SystemConfig.directory.in.h:1
+msgid "Administration"
+msgstr "நிர்வாகம்"
+
+#: ../desktop-files/SystemConfig.directory.in.h:2
+#: ../desktop-files/SystemConfig-More.directory.in.h:1
+msgid "Change systemwide settings (affects all users)"
+msgstr "கணினி அமைப்புகளை மாற்றவும் (அனைத்து பயனர்களையும் பாதிக்கும்)"
+
+#: ../desktop-files/SystemConfig-More.directory.in.h:2
+msgid "More System Settings"
+msgstr "கூடுதல் கணினி அமைவுகள்"
+
+#: ../desktop-files/System.directory.in.h:1
+msgid "System Tools"
+msgstr "கணினி கருவிகள்"
+
+#: ../desktop-files/System.directory.in.h:2
+#: ../desktop-files/System-More.directory.in.h:2
+msgid "System configuration and monitoring"
+msgstr "கணினி அமைவுகள் மற்றும் கண்காணித்தல்"
+
+#: ../desktop-files/System-More.directory.in.h:1
+msgid "More System Tools"
+msgstr "கூடுதல் கணினி கருவிகள்"
+
+#: ../desktop-files/Utilities.directory.in.h:1
+msgid "Utilities"
+msgstr "வசதிகள்"
+
+#: ../desktop-files/Utilities.directory.in.h:2
+#: ../desktop-files/Utilities-More.directory.in.h:2
+msgid "Utilities "
+msgstr "வசதிகள்"
+
+#: ../desktop-files/Utilities-More.directory.in.h:1
+msgid "More Utilities"
+msgstr "கூடுதல் வசதிகள்"
+

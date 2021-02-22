@@ -1,0 +1,418 @@
+# Translations into the Amharic Language.
+# Copyright (C) 2002 Free Software Foundation, Inc.
+# This file is distributed under the same license as the openeuler-menus package.
+# Ge'ez Frontier Foundation <locales@geez.org>, 2002.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: openeuler-menus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-03-29 17:48-0400\n"
+"PO-Revision-Date: 2005-01-16 23:05+EDT\n"
+"Last-Translator: Ge'ez Frontier Foundation <locales@geez.org>\n"
+"Language-Team: Amharic <am-translate@geez.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../desktop-files/Accessories.directory.in.h:1
+msgid "Accessories"
+msgstr "አጋዥ ፕሮግራሞች"
+
+#: ../desktop-files/Accessories.directory.in.h:2
+#: ../desktop-files/Accessories-More.directory.in.h:1
+msgid "Desktop accessories"
+msgstr "የኮምፒውተር/የዴስክቶፕ አጋዥ ፕሮግራሞች"
+
+#: ../desktop-files/Accessories-More.directory.in.h:2
+msgid "More Accessories"
+msgstr "ተጨማሪ አጋዥ ፕሮግራሞች"
+
+#: ../desktop-files/Advanced.directory.in.h:1
+msgid "Advanced"
+msgstr "ጠለቅ"
+
+#: ../desktop-files/Advanced.directory.in.h:2
+#: ../desktop-files/Advanced-More.directory.in.h:1
+msgid "Advanced settings and preferences"
+msgstr "ጠለቅ ያሉ አቀማመጦች እና አማራጮች"
+
+#: ../desktop-files/Advanced-More.directory.in.h:2
+msgid "More Advanced Settings"
+msgstr "ተጨማሪ ጠለቅ ያሉ አቀማመጦች"
+
+#: ../desktop-files/AllPrograms.directory.in.h:1
+msgid "All Applications"
+msgstr "ሁሉም የኮምፒውተር መጠቀሚያ ፕሮግራሞችዎች"
+
+#: ../desktop-files/Desktop.directory.in.h:1
+#, fuzzy
+msgid "Personal preferences and administration settings"
+msgstr "የግል ምርጫዎች እና አቀማመጦች"
+
+#: ../desktop-files/Desktop.directory.in.h:2
+#, fuzzy
+msgid "System"
+msgstr "የሲስተም መሣሪያዎች"
+
+#: ../desktop-files/Development.directory.in.h:1
+msgid "Programming"
+msgstr "የፕሮግራም ፈጠራ"
+
+#: ../desktop-files/Development.directory.in.h:2
+#: ../desktop-files/Development-More.directory.in.h:2
+msgid "Tools for software development"
+msgstr "መሣሪያዎች ለሶፍትዌር መሻሻል"
+
+#: ../desktop-files/Development-More.directory.in.h:1
+msgid "More Programming Tools"
+msgstr "ተጨማሪ የፕሮግራም ፈጠራ መሣሪያዎች"
+
+#: ../desktop-files/Documentation.directory.in.h:1
+msgid "Documentation"
+msgstr "ማስረጃ"
+
+#: ../desktop-files/Documentation.directory.in.h:2
+#: ../desktop-files/Documentation-More.directory.in.h:1
+msgid "Manuals and help documents"
+msgstr "የአሠራር መምሪያዎች እና መርጃ ሰነዶች"
+
+#: ../desktop-files/Documentation-More.directory.in.h:2
+msgid "More Documentation"
+msgstr "ተጨማሪ ማስረጃ"
+
+#: ../desktop-files/Edutainment.directory.in.h:1
+msgid "Edutainment"
+msgstr ""
+
+#: ../desktop-files/Extras.directory.in.h:1
+msgid "Extras"
+msgstr "ትርፎች"
+
+#: ../desktop-files/Extras.directory.in.h:2
+msgid "Less-commonly-used applications"
+msgstr "ከተለመደው ያነሰ ጥቅም ላይ የዋሉ የኮምፒውተር ፕሮግራሞች"
+
+#: ../desktop-files/Games-More.directory.in.h:1
+msgid "Games and amusements"
+msgstr "ጨዋታዎች እና መዝናኛዎች"
+
+#: ../desktop-files/Games-More.directory.in.h:2
+msgid "More Games"
+msgstr "ተጨማሪ ጨዋታዎች"
+
+#: ../desktop-files/gnome-accessibility.desktop.in.h:1
+#: ../desktop-files/Settings-Accessibility.directory.in.h:1
+msgid "Accessibility"
+msgstr "በቀላሉ የሚገኝ"
+
+#: ../desktop-files/gnome-accessibility.desktop.in.h:2
+msgid "Accessibility settings"
+msgstr "በቀላሉ የሚገኝ አቀማመጥ"
+
+#: ../desktop-files/gnome-gdmsetup.desktop.in.h:1
+msgid "Configure the login screen"
+msgstr "የመግቢያውን ማሳያን አስተካክል"
+
+#: ../desktop-files/gnome-gdmsetup.desktop.in.h:2
+msgid "Login Screen"
+msgstr "ማሳያውን አስጀመር"
+
+#: ../desktop-files/gnome-pilot.desktop.in.h:1
+msgid "Handheld PDA"
+msgstr "በእጅ የሚያዝ PDA"
+
+#: ../desktop-files/gnome-pilot.desktop.in.h:2
+msgid "Set up a PDA such as a Palm Pilot"
+msgstr "እንደ Palm Pilot የሆነ PDA አዘጋጅ"
+
+#: ../desktop-files/Graphics-More.directory.in.h:1
+msgid "Graphics applications"
+msgstr "የንድፍ መጠቀሚያ ፕሮግራሞች"
+
+#: ../desktop-files/Graphics-More.directory.in.h:2
+msgid "More Graphics Applications"
+msgstr "ተጨማሪ የንድፍ መጠቀሚያ ፕሮግራሞች"
+
+#: ../desktop-files/gthumb.desktop.in.h:1
+msgid "Organize your digital photos"
+msgstr ""
+
+#: ../desktop-files/gthumb.desktop.in.h:2
+msgid "Photo Tool"
+msgstr ""
+
+#: ../desktop-files/Internet-More.directory.in.h:1
+msgid "More Internet Applications"
+msgstr "ተጨማሪ የኢንተርኔት መጠቀሚያ ፕሮግራሞች"
+
+#: ../desktop-files/Internet-More.directory.in.h:2
+msgid "Programs for Internet access such as web and email"
+msgstr "እንደ መረብ እና ኢ-ሜይል ያሉ ኢንተርኔትን ለመጠቀም የሚያስችሉ ፕሮግራሞች"
+
+#: ../desktop-files/Multimedia-More.directory.in.h:1
+msgid "More Sound & Video Applications"
+msgstr "ተጨማሪ የድምጽ እና የቪዲዮ መጠቀሚያ ፕሮግራሞች"
+
+#: ../desktop-files/Multimedia-More.directory.in.h:2
+msgid "Multimedia menu"
+msgstr "የመገናኛ ብዙኃን ዝርዝር"
+
+#: ../desktop-files/Office-More.directory.in.h:1
+msgid "Additional office applications"
+msgstr "ተጨማሪ የቢሮ መጠቀሚያ ፕሮግራሞች"
+
+#: ../desktop-files/Office-More.directory.in.h:2
+msgid "More Office Applications"
+msgstr "ተጨማሪ የቢሮ መጠቀሚያ ፕሮግራሞች"
+
+#: ../desktop-files/openoffice-printeradmin.desktop.in.h:1
+msgid "OpenOffice.org Printer Setup"
+msgstr "OpenOffic.org የማተሚያ አቀማመጥ"
+
+#: ../desktop-files/openoffice-printeradmin.desktop.in.h:2
+msgid "Set up printers for OpenOffice.org applications"
+msgstr "ለOpenOffice.org መጠቀሚያ ፕሮግራሞች ማተሚያውን አስተካከል"
+
+#: ../desktop-files/openoffice-setup.desktop.in.h:1
+msgid "OpenOffice.org Repair"
+msgstr "OpenOffice.orgን ጠግን"
+
+#: ../desktop-files/openoffice-setup.desktop.in.h:2
+msgid "Repair your installation of OpenOffice.org"
+msgstr "የOpenOffice.orgን የማስገባት ሥራ ጠግን"
+
+#: ../desktop-files/openeuler-audio-player.desktop.in.h:1
+msgid "Audio Player"
+msgstr "የድምጽ ማጫወቻ"
+
+#: ../desktop-files/openeuler-audio-player.desktop.in.h:2
+msgid "Play Ogg Vorbis and other audio files"
+msgstr "Ogg Vorbisን እና ሌሎች የድምጽ ፋይሎችን አጫውት"
+
+#: ../desktop-files/openeuler-diagrams.desktop.in.h:1
+msgid "Create diagrams"
+msgstr "ንድፎችን ፍጠር"
+
+#: ../desktop-files/openeuler-diagrams.desktop.in.h:2
+msgid "Dia Diagrams"
+msgstr "የዲያሜትር ንድፎች"
+
+#: ../desktop-files/openeuler-drawing.desktop.in.h:1
+msgid "Draw diagrams and figures"
+msgstr "ንድፎችን እና ቅርጾችን ሣል"
+
+#: ../desktop-files/openeuler-drawing.desktop.in.h:2
+msgid "OpenOffice.org Draw"
+msgstr "OpenOffice.orgን ሣል"
+
+#: ../desktop-files/openeuler-email.desktop.in.h:1
+#: ../desktop-files/openeuler-evolution-mail.desktop.in.h:1
+msgid "Email"
+msgstr "ኢ-ሜይል"
+
+#: ../desktop-files/openeuler-email.desktop.in.h:2
+msgid "Send email and manage your schedule"
+msgstr "ኢ-ሜይል ይላኩና የሥራ ፕሮግራምዎትን ይምሩ"
+
+#: ../desktop-files/openeuler-evolution-calendar.desktop.in.h:1
+msgid "Calendar"
+msgstr ""
+
+#: ../desktop-files/openeuler-evolution-calendar.desktop.in.h:2
+msgid "Manage your schedule using Evolution"
+msgstr ""
+
+#: ../desktop-files/openeuler-evolution-contacts.desktop.in.h:1
+msgid "Contacts"
+msgstr ""
+
+#: ../desktop-files/openeuler-evolution-contacts.desktop.in.h:2
+msgid "Manage your contacts using Evolution"
+msgstr ""
+
+#: ../desktop-files/openeuler-evolution-mail.desktop.in.h:2
+msgid "Send and receive email using Evolution"
+msgstr ""
+
+#: ../desktop-files/openeuler-evolution-tasks.desktop.in.h:1
+msgid "Manage tasks using the Evolution groupware suite"
+msgstr ""
+
+#: ../desktop-files/openeuler-evolution-tasks.desktop.in.h:2
+msgid "Tasks"
+msgstr ""
+
+#: ../desktop-files/openeuler-math.desktop.in.h:1
+msgid "Formula editor"
+msgstr "የፎርሙላ አዘጋጅ"
+
+#: ../desktop-files/openeuler-math.desktop.in.h:2
+msgid "OpenOffice.org Math"
+msgstr "የOpenOffice.org ሂሳብ"
+
+#: ../desktop-files/openeuler-presentations.desktop.in.h:1
+msgid "Create presentations"
+msgstr "የሚቀርብ ነገር ፍጠር"
+
+#: ../desktop-files/openeuler-presentations.desktop.in.h:2
+msgid "OpenOffice.org Impress"
+msgstr "OpenOffice.orgን አድንቅ"
+
+#: ../desktop-files/openeuler-print.desktop.in.h:1
+msgid "Print Manager"
+msgstr "መምሪያውን አትም"
+
+#: ../desktop-files/openeuler-print.desktop.in.h:2
+msgid "Set up and monitor printers"
+msgstr "አስተካክል እና ማተሚያዎችን ተቆጣጠር"
+
+#: ../desktop-files/openeuler-spreadsheet.desktop.in.h:1
+msgid "OpenOffice.org Calc"
+msgstr "የOpenOffice.org ካልኩሌተር"
+
+#: ../desktop-files/openeuler-spreadsheet.desktop.in.h:2
+msgid "Spreadsheet"
+msgstr "መረጃ ማስቀመጫ"
+
+#: ../desktop-files/openeuler-web.desktop.in.h:1
+msgid "Browse the web"
+msgstr "ዌቡን ቃኝ"
+
+#: ../desktop-files/openeuler-web.desktop.in.h:2
+msgid "Web Browser"
+msgstr "የዌብ መቃኛ"
+
+#: ../desktop-files/openeuler-word-processor.desktop.in.h:1
+msgid "OpenOffice.org Writer"
+msgstr "የOpenOffice.org ጸሐፊ"
+
+#: ../desktop-files/openeuler-word-processor.desktop.in.h:2
+msgid "Word processor"
+msgstr "የጽሑፍ አቀናጅ"
+
+#: ../desktop-files/Root.directory.in.h:1
+msgid "Programs"
+msgstr "ፕሮግራሞች"
+
+#: ../desktop-files/Root.directory.in.h:2
+msgid "Programs menu"
+msgstr "የፕሮግራሞች ዝርዝር"
+
+#: ../desktop-files/Sawfish.directory.in.h:1
+msgid "Configure the Sawfish window manager"
+msgstr "የSawfish መስኮት መቆጣጠሪያን አስተካክል"
+
+#: ../desktop-files/Sawfish.directory.in.h:2
+msgid "Sawfish window manager"
+msgstr "Sawfish መስኮቱን መቆጣጠሪያ"
+
+#: ../desktop-files/ServerConfig.directory.in.h:1
+#: ../desktop-files/ServerConfig-More.directory.in.h:1
+msgid "Configure network services (web server, DNS server, etc.)"
+msgstr "የመረቡን አገልግሎቶች አስተካክል (የድረ ሰርቨር፣ የDNS ሰርቨር፣ ወዘተ…)"
+
+#: ../desktop-files/ServerConfig.directory.in.h:2
+msgid "Server Settings"
+msgstr "የሰርቨሩ አቀማመጦች"
+
+#: ../desktop-files/ServerConfig-More.directory.in.h:2
+msgid "More Server Settings"
+msgstr "ተጨማሪ የሰርቨር አቀማመጦች"
+
+#: ../desktop-files/Settings-Accessibility.directory.in.h:2
+msgid "Accessibility related preferences"
+msgstr "በቀላሉ የሚገኙ ተመሳሳይ ምርጫዎች "
+
+#: ../desktop-files/Settings-More.directory.in.h:1
+msgid "More Preferences"
+msgstr "ተጨማሪ ምርጫዎች"
+
+#: ../desktop-files/Settings-More.directory.in.h:2
+msgid "Personal preferences and settings"
+msgstr "የግል ምርጫዎች እና አቀማመጦች"
+
+#: ../desktop-files/SystemConfig.directory.in.h:1
+msgid "Administration"
+msgstr ""
+
+#: ../desktop-files/SystemConfig.directory.in.h:2
+#: ../desktop-files/SystemConfig-More.directory.in.h:1
+msgid "Change systemwide settings (affects all users)"
+msgstr "ሰፋ ያለ የሲስተም አቀማመጦችን ለውጥ (ሁሉንም ተጠቃሚዎች ይነካል)"
+
+#: ../desktop-files/SystemConfig-More.directory.in.h:2
+msgid "More System Settings"
+msgstr "ተጨማሪ የሲስተም አቀማመጦች"
+
+#: ../desktop-files/System.directory.in.h:1
+msgid "System Tools"
+msgstr "የሲስተም መሣሪያዎች"
+
+#: ../desktop-files/System.directory.in.h:2
+#: ../desktop-files/System-More.directory.in.h:2
+msgid "System configuration and monitoring"
+msgstr "የሲስተም ማስተካከል እና ቁጥጥር"
+
+#: ../desktop-files/System-More.directory.in.h:1
+msgid "More System Tools"
+msgstr "ተጨማሪ የሲስተም መሣሪያዎች"
+
+#: ../desktop-files/Utilities.directory.in.h:1
+msgid "Utilities"
+msgstr "መገልገያዎች"
+
+#: ../desktop-files/Utilities.directory.in.h:2
+#: ../desktop-files/Utilities-More.directory.in.h:2
+msgid "Utilities "
+msgstr "መገልገያዎች"
+
+#: ../desktop-files/Utilities-More.directory.in.h:1
+msgid "More Utilities"
+msgstr "ተጨማሪ መገልገያዎች"
+
+#~ msgid "Accessibility Settings"
+#~ msgstr "በቀላሉ የሚገኝ አቀማመጥ"
+
+#~ msgid "Applications"
+#~ msgstr "መጠቀሚያ ፕሮግራሞች"
+
+#~ msgid "Games"
+#~ msgstr "ጨዋታዎች"
+
+#~ msgid "Graphics"
+#~ msgstr "ንድፍ"
+
+#~ msgid "Internet"
+#~ msgstr "ኢንተርኔት"
+
+#~ msgid "Sound & Video"
+#~ msgstr "ድምጽ እና ቪዲዮ"
+
+#~ msgid "Office"
+#~ msgstr "ቢሮ"
+
+#~ msgid "Office Applications"
+#~ msgstr "የቢሮ መጠቀሚያ ፕሮግራሞች"
+
+#~ msgid "Applications that did not fit in other categories"
+#~ msgstr "ሌሎች መደቦች ውስጥ የማይገጥሙ የመጠቀሚያ ፕሮግራሞች"
+
+#~ msgid "Other"
+#~ msgstr "ሌላ"
+
+#~ msgid "Talk to people over the internet"
+#~ msgstr "በኢንተርኔት ከሰዎች ጋር ይነጋገሩ"
+
+#~ msgid "Video Conferencing"
+#~ msgstr "የቪዲዮ ጉባኤ"
+
+#~ msgid "Preferences"
+#~ msgstr "ምርጫዎች"
+
+#~ msgid "System Settings"
+#~ msgstr "የሲስተም አቀማመጦች"
+
+#~ msgid "Epiphany Web Browser"
+#~ msgstr "ጥምቀት የዌብ መቃኛ"

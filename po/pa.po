@@ -1,0 +1,379 @@
+# translation of openeuler-menus.HEAD.pa.po to Punjabi
+# Copyright (C) 2004 THE epiphany.HEAD'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the epiphany.HEAD package.
+#
+# Amanpreet Singh Alam <amanlinux@netscape.net>, 2004.
+# Amanpreet Singh Alam <aalam@redhat.com>, 2004, 2005, 2006.
+# Amanpreet Singh Alam <amanpreetalam@yahoo.com>, 2006.
+# A S Alam <aalam@users.sf.net>, 2007, 2009.
+# Jaswinder Singh <jsingh@redhat.com>, 2007, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: openeuler-menus.HEAD.pa\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-03-29 17:48-0400\n"
+"PO-Revision-Date: 2009-09-22 15:32+0530\n"
+"Last-Translator: Jaswinder Singh <jsingh@redhat.com>\n"
+"Language-Team: Punjabi <Punjabi-users@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"\n"
+"\n"
+
+#: ../desktop-files/Accessories.directory.in.h:1
+msgid "Accessories"
+msgstr "ਸਹਾਇਕ"
+
+#: ../desktop-files/Accessories.directory.in.h:2
+#: ../desktop-files/Accessories-More.directory.in.h:1
+msgid "Desktop accessories"
+msgstr "ਡੈਸਕਟਾਪ ਸਹਾਇਕ"
+
+#: ../desktop-files/Accessories-More.directory.in.h:2
+msgid "More Accessories"
+msgstr "ਹੋਰ ਸਹਾਇਕ"
+
+#: ../desktop-files/Advanced.directory.in.h:1
+msgid "Advanced"
+msgstr "ਤਕਨੀਕੀ"
+
+#: ../desktop-files/Advanced.directory.in.h:2
+#: ../desktop-files/Advanced-More.directory.in.h:1
+msgid "Advanced settings and preferences"
+msgstr "ਤਕਨੀਕੀ ਸੈਟਿੰਗ ਅਤੇ ਪਸੰਦ"
+
+#: ../desktop-files/Advanced-More.directory.in.h:2
+msgid "More Advanced Settings"
+msgstr "ਹੋਰ ਤਕਨੀਕੀ ਸੈਟਿੰਗ"
+
+#: ../desktop-files/AllPrograms.directory.in.h:1
+msgid "All Applications"
+msgstr "ਸਭ ਐਪਲੀਕੇਸ਼ਨ"
+
+#: ../desktop-files/Desktop.directory.in.h:1
+msgid "Personal preferences and administration settings"
+msgstr "ਨਿੱਜੀ ਪਸੰਦ ਅਤੇ ਪਰਸ਼ਾਸ਼ਨਿਕ ਸੈਟਿੰਗ"
+
+#: ../desktop-files/Desktop.directory.in.h:2
+msgid "System"
+msgstr "ਸਿਸਟਮ"
+
+#: ../desktop-files/Development.directory.in.h:1
+msgid "Programming"
+msgstr "ਪਰੋਗਰਾਮਿੰਗ"
+
+#: ../desktop-files/Development.directory.in.h:2
+#: ../desktop-files/Development-More.directory.in.h:2
+msgid "Tools for software development"
+msgstr "ਸਾਫਟਵੇਅਰ ਡਿਵੈਲਪਮੈਂਟ ਲਈ ਟੂਲ"
+
+#: ../desktop-files/Development-More.directory.in.h:1
+msgid "More Programming Tools"
+msgstr "ਹੋਰ ਪਰੋਗਰਾਮਿੰਗ ਟੂਲ"
+
+#: ../desktop-files/Documentation.directory.in.h:1
+msgid "Documentation"
+msgstr "ਡੌਕੂਮੈਂਟੇਸ਼ਨ"
+
+#: ../desktop-files/Documentation.directory.in.h:2
+#: ../desktop-files/Documentation-More.directory.in.h:1
+msgid "Manuals and help documents"
+msgstr "ਮੈਨੁਅਲ ਅਤੇ ਮੱਦਦ ਡੌਕੂਮੈਂਟੇਸ਼ਨ"
+
+#: ../desktop-files/Documentation-More.directory.in.h:2
+msgid "More Documentation"
+msgstr "ਹੋਰ ਡੌਕੂਮੈਂਟ"
+
+#: ../desktop-files/Edutainment.directory.in.h:1
+msgid "Edutainment"
+msgstr "ਸਿੱਖਿਆ"
+
+#: ../desktop-files/Extras.directory.in.h:1
+msgid "Extras"
+msgstr "ਹੋਰ"
+
+#: ../desktop-files/Extras.directory.in.h:2
+msgid "Less-commonly-used applications"
+msgstr "ਘੱਟ ਵਰਤੀਆਂ ਜਾਂਦੀਆਂ ਐਪਲੀਕੇਸ਼ਨਾਂ"
+
+#: ../desktop-files/Games-More.directory.in.h:1
+msgid "Games and amusements"
+msgstr "ਖੇਡਾਂ ਅਤੇ ਮਨੋਰੰਜਨ"
+
+#: ../desktop-files/Games-More.directory.in.h:2
+msgid "More Games"
+msgstr "ਹੋਰ ਖੇਡਾਂ"
+
+#: ../desktop-files/gnome-accessibility.desktop.in.h:1
+#: ../desktop-files/Settings-Accessibility.directory.in.h:1
+msgid "Accessibility"
+msgstr "ਅਸੈੱਸੀਬਿਲਟੀ"
+
+#: ../desktop-files/gnome-accessibility.desktop.in.h:2
+msgid "Accessibility settings"
+msgstr "ਅਸੈੱਸੀਬਿਲਟੀ ਸੈਟਿੰਗ"
+
+#: ../desktop-files/gnome-gdmsetup.desktop.in.h:1
+msgid "Configure the login screen"
+msgstr "ਲਾਗਇਨ ਸਕਰੀਨ ਸੰਰਚਨਾ"
+
+#: ../desktop-files/gnome-gdmsetup.desktop.in.h:2
+msgid "Login Screen"
+msgstr "ਲਾਗਇਨ ਸਕਰੀਨ"
+
+#: ../desktop-files/gnome-pilot.desktop.in.h:1
+msgid "Handheld PDA"
+msgstr "ਹੱਥਲੀ PDA"
+
+#: ../desktop-files/gnome-pilot.desktop.in.h:2
+msgid "Set up a PDA such as a Palm Pilot"
+msgstr "PDA ਸੈਟਿੰਗ ਕਰੋ ਜਿਵੇਂ ਕਿ Palm Pilot"
+
+#: ../desktop-files/Graphics-More.directory.in.h:1
+msgid "Graphics applications"
+msgstr "ਗਰਾਫਿਕਸ ਐਪਲੀਕੇਸ਼ਨ"
+
+#: ../desktop-files/Graphics-More.directory.in.h:2
+msgid "More Graphics Applications"
+msgstr "ਹੋਰ ਗਰਾਫਿਕਸ ਐਪਲੀਕੇਸ਼ਨ"
+
+#: ../desktop-files/gthumb.desktop.in.h:1
+msgid "Organize your digital photos"
+msgstr "ਤੁਹਾਡੀ ਡਿਜ਼ੀਟਲ ਫੋਟੋ ਪਰਬੰਧਨ"
+
+#: ../desktop-files/gthumb.desktop.in.h:2
+msgid "Photo Tool"
+msgstr "ਫੋਟੋ ਟੂਲ"
+
+#: ../desktop-files/Internet-More.directory.in.h:1
+msgid "More Internet Applications"
+msgstr "ਹੋਰ ਇੰਟਰਨੈੱਟ ਐਪਲੀਕੇਸ਼ਨ"
+
+#: ../desktop-files/Internet-More.directory.in.h:2
+msgid "Programs for Internet access such as web and email"
+msgstr "ਇੰਟਰਨੈੱਟ ਲਈ ਐਪਲੀਕੇਸ਼ਨ ਜਿਵੇਂ ਕਿ ਵੈੱਬ ਅਤੇ ਈ-ਮੇਲ"
+
+#: ../desktop-files/Multimedia-More.directory.in.h:1
+msgid "More Sound & Video Applications"
+msgstr "ਹੋਰ ਸਾਊਂਡ ਅਤੇ ਵੀਡਿਓ ਐਪਲੀਕੇਸ਼ਨ"
+
+#: ../desktop-files/Multimedia-More.directory.in.h:2
+msgid "Multimedia menu"
+msgstr "ਮਲਟੀਮੀਡੀਆ ਮੇਨੂ"
+
+#: ../desktop-files/Office-More.directory.in.h:1
+msgid "Additional office applications"
+msgstr "ਵਾਧੂ ਦਫਤਰੀ ਐਪਲੀਕੇਸ਼ਨਾਂ"
+
+#: ../desktop-files/Office-More.directory.in.h:2
+msgid "More Office Applications"
+msgstr "ਹੋਰ ਦਫਤਰੀ ਐਪਲੀਕੇਸ਼ਨਾਂ"
+
+#: ../desktop-files/openoffice-printeradmin.desktop.in.h:1
+msgid "OpenOffice.org Printer Setup"
+msgstr "OpenOffice.org ਪਰਿੰਟਰ ਸੈਟਅੱਪ"
+
+#: ../desktop-files/openoffice-printeradmin.desktop.in.h:2
+msgid "Set up printers for OpenOffice.org applications"
+msgstr "OpenOffice.org ਐਪਲੀਕੇਸ਼ਨਾਂ ਲਈ ਪਰਿੰਟਰ ਦਾ ਸੈੱਟਅੱਪ"
+
+#: ../desktop-files/openoffice-setup.desktop.in.h:1
+msgid "OpenOffice.org Repair"
+msgstr "OpenOffice.org ਮੁਰੰਮਤ"
+
+#: ../desktop-files/openoffice-setup.desktop.in.h:2
+msgid "Repair your installation of OpenOffice.org"
+msgstr "OpenOffice.org ਦੀ ਇੰਸਟਾਲੇਸ਼ਨ ਦੀ ਮੁਰੰਮਤ ਕਰੋ"
+
+#: ../desktop-files/openeuler-audio-player.desktop.in.h:1
+msgid "Audio Player"
+msgstr "ਆਡੀਓ ਪਲੇਅਰ"
+
+#: ../desktop-files/openeuler-audio-player.desktop.in.h:2
+msgid "Play Ogg Vorbis and other audio files"
+msgstr "Ogg Vorbis ਅਤੇ ਹੋਰ ਸੰਗੀਤ ਫਾਇਲਾਂ ਚਲਾਓ"
+
+#: ../desktop-files/openeuler-diagrams.desktop.in.h:1
+msgid "Create diagrams"
+msgstr "ਡਾਇਗਰਾਮ ਬਣਾਓ"
+
+#: ../desktop-files/openeuler-diagrams.desktop.in.h:2
+msgid "Dia Diagrams"
+msgstr "Dia ਡਾਇਗਰਾਮ"
+
+#: ../desktop-files/openeuler-drawing.desktop.in.h:1
+msgid "Draw diagrams and figures"
+msgstr "ਡਾਇਗਰਾਮ ਅਤੇ ਰੇਖਾ-ਚਿੱਤਰ ਬਣਾਓ"
+
+#: ../desktop-files/openeuler-drawing.desktop.in.h:2
+msgid "OpenOffice.org Draw"
+msgstr "OpenOffice.org ਡਰਾਇੰਗ"
+
+#: ../desktop-files/openeuler-email.desktop.in.h:1
+#: ../desktop-files/openeuler-evolution-mail.desktop.in.h:1
+msgid "Email"
+msgstr "ਈਮੇਲ"
+
+#: ../desktop-files/openeuler-email.desktop.in.h:2
+msgid "Send email and manage your schedule"
+msgstr "ਈਮੇਲ ਭੇਜੋ ਅਤੇ ਆਪਣਾ ਸਮਾਂ-ਤਹਿ ਕਰੋ"
+
+#: ../desktop-files/openeuler-evolution-calendar.desktop.in.h:1
+msgid "Calendar"
+msgstr "ਕੈਲੰਡਰ"
+
+#: ../desktop-files/openeuler-evolution-calendar.desktop.in.h:2
+msgid "Manage your schedule using Evolution"
+msgstr "ਐਵੋਲੂਸ਼ਨ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਆਪਣਾ ਸਮਾਂ-ਤਹਿ ਕਰੋ"
+
+#: ../desktop-files/openeuler-evolution-contacts.desktop.in.h:1
+msgid "Contacts"
+msgstr "ਸੰਪਰਕ"
+
+#: ../desktop-files/openeuler-evolution-contacts.desktop.in.h:2
+msgid "Manage your contacts using Evolution"
+msgstr "ਐਵੋਲੂਸ਼ਨ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਆਪਣੇ ਸੰਪਰਕ ਦਾ ਪਰਬੰਧ ਕਰੋ"
+
+#: ../desktop-files/openeuler-evolution-mail.desktop.in.h:2
+msgid "Send and receive email using Evolution"
+msgstr "ਐਵੋਲੂਸ਼ਨ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਈ-ਮੇਲ ਭੇਜੋ ਅਤੇ ਪ੍ਰਾਪਤ ਕਰੋ"
+
+#: ../desktop-files/openeuler-evolution-tasks.desktop.in.h:1
+msgid "Manage tasks using the Evolution groupware suite"
+msgstr "ਐਵੋਲੂਸ਼ਨ ਗਰੁੱਪਵੇਅਰ ਸੂਟ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਕੰਮ-ਕਾਰ ਦਾ ਪਰਬੰਧ ਕਰੋ"
+
+#: ../desktop-files/openeuler-evolution-tasks.desktop.in.h:2
+msgid "Tasks"
+msgstr "ਟਾਸਕ"
+
+#: ../desktop-files/openeuler-math.desktop.in.h:1
+msgid "Formula editor"
+msgstr "ਫਾਰਮੂਲਾ ਸੰਪਾਦਕ"
+
+#: ../desktop-files/openeuler-math.desktop.in.h:2
+msgid "OpenOffice.org Math"
+msgstr "OpenOffice.org ਗਣਿਤ"
+
+#: ../desktop-files/openeuler-presentations.desktop.in.h:1
+msgid "Create presentations"
+msgstr "ਪੇਸ਼ਕਾਰੀ ਬਣਾਓ"
+
+#: ../desktop-files/openeuler-presentations.desktop.in.h:2
+msgid "OpenOffice.org Impress"
+msgstr "OpenOffice.org ਪੇਸ਼ਕਾਰੀ"
+
+#: ../desktop-files/openeuler-print.desktop.in.h:1
+msgid "Print Manager"
+msgstr "ਪਰਿੰਟ ਮੈਨੇਜਰ"
+
+#: ../desktop-files/openeuler-print.desktop.in.h:2
+msgid "Set up and monitor printers"
+msgstr "ਪਰਿੰਟਰ ਸੈਟਅੱਪ ਅਤੇ ਨਿਗਰਾਨੀ"
+
+#: ../desktop-files/openeuler-spreadsheet.desktop.in.h:1
+msgid "OpenOffice.org Calc"
+msgstr "OpenOffice.org ਕੈਲਸ"
+
+#: ../desktop-files/openeuler-spreadsheet.desktop.in.h:2
+msgid "Spreadsheet"
+msgstr "ਸਪਰੈੱਡਸ਼ੀਟ"
+
+#: ../desktop-files/openeuler-web.desktop.in.h:1
+msgid "Browse the web"
+msgstr "ਵੈੱਬ ਝਲਕ ਵੇਖੋ"
+
+#: ../desktop-files/openeuler-web.desktop.in.h:2
+msgid "Web Browser"
+msgstr "ਵੈੱਬ ਬਰਾਊਜ਼ਰ"
+
+#: ../desktop-files/openeuler-word-processor.desktop.in.h:1
+msgid "OpenOffice.org Writer"
+msgstr "OpenOffice.org ਰਾਈਟਰ"
+
+#: ../desktop-files/openeuler-word-processor.desktop.in.h:2
+msgid "Word processor"
+msgstr "ਵਰਡ ਪਰੋਸੈਸਰ"
+
+#: ../desktop-files/Root.directory.in.h:1
+msgid "Programs"
+msgstr "ਪਰੋਗਰਾਮ"
+
+#: ../desktop-files/Root.directory.in.h:2
+msgid "Programs menu"
+msgstr "ਪਰੋਗਰਾਮ ਮੇਨੂ"
+
+#: ../desktop-files/Sawfish.directory.in.h:1
+msgid "Configure the Sawfish window manager"
+msgstr "ਸਾਫਿਸ਼ ਵਿੰਡੋ ਮੈਨੇਜਰ ਨੂੰ ਸੰਰਚਿਤ ਕਰੋ"
+
+#: ../desktop-files/Sawfish.directory.in.h:2
+msgid "Sawfish window manager"
+msgstr "ਸਾਫਿਸ਼ ਵਿੰਡੋ ਮੈਨੇਜਰ"
+
+#: ../desktop-files/ServerConfig.directory.in.h:1
+#: ../desktop-files/ServerConfig-More.directory.in.h:1
+msgid "Configure network services (web server, DNS server, etc.)"
+msgstr "ਨੈੱਟਵਰਕ ਸਰਵਿਸਾਂ ਦੀ ਸੰਰਚਨਾ (ਵੈੱਬ ਸਰਵਰ, DNS ਸਰਵਰ ਆਦਿ)"
+
+#: ../desktop-files/ServerConfig.directory.in.h:2
+msgid "Server Settings"
+msgstr "ਸਰਵਰ ਸੈਟਿੰਗ"
+
+#: ../desktop-files/ServerConfig-More.directory.in.h:2
+msgid "More Server Settings"
+msgstr "ਹੋਰ ਸਰਵਰ ਸੈਟਿੰਗ"
+
+#: ../desktop-files/Settings-Accessibility.directory.in.h:2
+msgid "Accessibility related preferences"
+msgstr "ਸਹੂਲਤਾਂ ਸਬੰਧੀ ਪਸੰਦ"
+
+#: ../desktop-files/Settings-More.directory.in.h:1
+msgid "More Preferences"
+msgstr "ਹੋਰ ਪਸੰਦ"
+
+#: ../desktop-files/Settings-More.directory.in.h:2
+msgid "Personal preferences and settings"
+msgstr "ਨਿੱਜੀ ਪਸੰਦ ਅਤੇ ਸੈਟਿੰਗ"
+
+#: ../desktop-files/SystemConfig.directory.in.h:1
+msgid "Administration"
+msgstr "ਪਰਸ਼ਾਸ਼ਨ"
+
+#: ../desktop-files/SystemConfig.directory.in.h:2
+#: ../desktop-files/SystemConfig-More.directory.in.h:1
+msgid "Change systemwide settings (affects all users)"
+msgstr "ਪੂਰੇ ਸਿਸਟਮ ਦੀ ਸੈਟਿੰਗ ਬਦਲੋ (ਸਾਰੇ ਯੂਜ਼ਰ ਪ੍ਰਭਾਵਿਤ ਹੋਣਗੇ)"
+
+#: ../desktop-files/SystemConfig-More.directory.in.h:2
+msgid "More System Settings"
+msgstr "ਹੋਰ ਸਿਸਟਮ ਸੈਟਿੰਗ"
+
+#: ../desktop-files/System.directory.in.h:1
+msgid "System Tools"
+msgstr "ਸਿਸਟਮ ਟੂਲ"
+
+#: ../desktop-files/System.directory.in.h:2
+#: ../desktop-files/System-More.directory.in.h:2
+msgid "System configuration and monitoring"
+msgstr "ਸਿਸਟਮ ਸੰਰਚਨਾ ਅਤੇ ਨਿਗਰਾਨੀ"
+
+#: ../desktop-files/System-More.directory.in.h:1
+msgid "More System Tools"
+msgstr "ਹੋਰ ਸਿਸਟਮ ਟੂਲ"
+
+#: ../desktop-files/Utilities.directory.in.h:1
+msgid "Utilities"
+msgstr "ਸਹੂਲਤਾਂ"
+
+#: ../desktop-files/Utilities.directory.in.h:2
+#: ../desktop-files/Utilities-More.directory.in.h:2
+msgid "Utilities "
+msgstr "ਸਹੂਲਤਾਂ "
+
+#: ../desktop-files/Utilities-More.directory.in.h:1
+msgid "More Utilities"
+msgstr "ਹੋਰ ਸਹੂਲਤਾਂ"
+

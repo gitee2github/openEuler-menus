@@ -1,0 +1,430 @@
+# epiphany ja.po.
+# Copyright (C) 2000-2004 Free Software Foundation, Inc.
+# Yukihiro Nakai <nakai@gnome.gr.jp>, 2000.
+# Takuro Ashie <ashie@homa.ne.jp>, 2001.
+# Takayuki KUSANO <AE5T-KSN@asahi-net.or.jp>, 2001-2003.
+# KAMAGASAKO Masatoshi <emerald@gnome.gr.jp>, 2003.
+# Takeshi AIHANA <aihana@gnome.gr.jp>, 2004.
+# Hirofumi Saito <hi_saito@yk.rim.or.jp>, 2006.
+# Hyu_gabaru Ryu_ichi <hyu_gabaru@yahoo.co.jp>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: epiphany HEAD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-03-29 17:48-0400\n"
+"PO-Revision-Date: 2007-05-03 09:45+0900\n"
+"Last-Translator: hyu_gabaru <hyu_gabaru@yahoo.co.jp>\n"
+"Language-Team: Japanese <fedora-trans-ja@redhat.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../desktop-files/Accessories.directory.in.h:1
+msgid "Accessories"
+msgstr "アクセサリ"
+
+#: ../desktop-files/Accessories.directory.in.h:2
+#: ../desktop-files/Accessories-More.directory.in.h:1
+msgid "Desktop accessories"
+msgstr "デスクトップアクセサリ"
+
+#: ../desktop-files/Accessories-More.directory.in.h:2
+msgid "More Accessories"
+msgstr "他のアクセサリ"
+
+#: ../desktop-files/Advanced.directory.in.h:1
+msgid "Advanced"
+msgstr "高度な設定"
+
+#: ../desktop-files/Advanced.directory.in.h:2
+#: ../desktop-files/Advanced-More.directory.in.h:1
+msgid "Advanced settings and preferences"
+msgstr "高度な設定とユーザー設定"
+
+#: ../desktop-files/Advanced-More.directory.in.h:2
+msgid "More Advanced Settings"
+msgstr "他の高度な設定"
+
+#: ../desktop-files/AllPrograms.directory.in.h:1
+msgid "All Applications"
+msgstr "すべてのアプリケーション"
+
+#: ../desktop-files/Desktop.directory.in.h:1
+msgid "Personal preferences and administration settings"
+msgstr "個人設定と管理設定"
+
+#: ../desktop-files/Desktop.directory.in.h:2
+msgid "System"
+msgstr "システム"
+
+#: ../desktop-files/Development.directory.in.h:1
+msgid "Programming"
+msgstr "プログラミング"
+
+#: ../desktop-files/Development.directory.in.h:2
+#: ../desktop-files/Development-More.directory.in.h:2
+msgid "Tools for software development"
+msgstr "ソフトウェア開発用のツール"
+
+#: ../desktop-files/Development-More.directory.in.h:1
+msgid "More Programming Tools"
+msgstr "他のプログラミングツール"
+
+#: ../desktop-files/Documentation.directory.in.h:1
+msgid "Documentation"
+msgstr "ドキュメント"
+
+#: ../desktop-files/Documentation.directory.in.h:2
+#: ../desktop-files/Documentation-More.directory.in.h:1
+msgid "Manuals and help documents"
+msgstr "マニュアルとヘルプのドキュメント"
+
+#: ../desktop-files/Documentation-More.directory.in.h:2
+msgid "More Documentation"
+msgstr "他のドキュメント"
+
+#: ../desktop-files/Edutainment.directory.in.h:1
+msgid "Edutainment"
+msgstr "エデュテイメント"
+
+#: ../desktop-files/Extras.directory.in.h:1
+msgid "Extras"
+msgstr "その他のアプリケーション"
+
+#: ../desktop-files/Extras.directory.in.h:2
+msgid "Less-commonly-used applications"
+msgstr "使用頻度の低いアプリケーション"
+
+#: ../desktop-files/Games-More.directory.in.h:1
+msgid "Games and amusements"
+msgstr "ゲームと娯楽"
+
+#: ../desktop-files/Games-More.directory.in.h:2
+msgid "More Games"
+msgstr "他のゲーム"
+
+#: ../desktop-files/gnome-accessibility.desktop.in.h:1
+#: ../desktop-files/Settings-Accessibility.directory.in.h:1
+msgid "Accessibility"
+msgstr "アクセシビリティ"
+
+#: ../desktop-files/gnome-accessibility.desktop.in.h:2
+msgid "Accessibility settings"
+msgstr "アクセシビリティ設定"
+
+#: ../desktop-files/gnome-gdmsetup.desktop.in.h:1
+msgid "Configure the login screen"
+msgstr "ログイン画面を設定"
+
+#: ../desktop-files/gnome-gdmsetup.desktop.in.h:2
+msgid "Login Screen"
+msgstr "ログイン画面"
+
+#: ../desktop-files/gnome-pilot.desktop.in.h:1
+msgid "Handheld PDA"
+msgstr "ハンドヘルドPDA"
+
+#: ../desktop-files/gnome-pilot.desktop.in.h:2
+msgid "Set up a PDA such as a Palm Pilot"
+msgstr "Palm PilotなどのPDAを設定"
+
+#: ../desktop-files/Graphics-More.directory.in.h:1
+msgid "Graphics applications"
+msgstr "グラフィックスアプリケーション"
+
+#: ../desktop-files/Graphics-More.directory.in.h:2
+msgid "More Graphics Applications"
+msgstr "他のグラフィックアプリケーション"
+
+#: ../desktop-files/gthumb.desktop.in.h:1
+msgid "Organize your digital photos"
+msgstr "あなたのデジタル写真を編成する"
+
+#: ../desktop-files/gthumb.desktop.in.h:2
+msgid "Photo Tool"
+msgstr "フォトツール"
+
+#: ../desktop-files/Internet-More.directory.in.h:1
+msgid "More Internet Applications"
+msgstr "他のインターネットアプリケーション"
+
+#: ../desktop-files/Internet-More.directory.in.h:2
+msgid "Programs for Internet access such as web and email"
+msgstr "web や emailなどのインターネットアクセス用のプログラム"
+
+#: ../desktop-files/Multimedia-More.directory.in.h:1
+msgid "More Sound & Video Applications"
+msgstr "他のサウンドとビデオのアプリケーション"
+
+#: ../desktop-files/Multimedia-More.directory.in.h:2
+msgid "Multimedia menu"
+msgstr "マルチメディアメニュー"
+
+#: ../desktop-files/Office-More.directory.in.h:1
+msgid "Additional office applications"
+msgstr "追加のオフィスアプリケーション"
+
+#: ../desktop-files/Office-More.directory.in.h:2
+msgid "More Office Applications"
+msgstr "他のオフィスアプリケーション"
+
+#: ../desktop-files/openoffice-printeradmin.desktop.in.h:1
+msgid "OpenOffice.org Printer Setup"
+msgstr "OpenOffice.orgのプリンター設定"
+
+#: ../desktop-files/openoffice-printeradmin.desktop.in.h:2
+msgid "Set up printers for OpenOffice.org applications"
+msgstr "OpenOffice.orgアプリケーション用のプリンターを設定します"
+
+#: ../desktop-files/openoffice-setup.desktop.in.h:1
+msgid "OpenOffice.org Repair"
+msgstr "OpenOffice.orgの修復"
+
+#: ../desktop-files/openoffice-setup.desktop.in.h:2
+msgid "Repair your installation of OpenOffice.org"
+msgstr "OpenOffice.orgのインストールを修復します"
+
+#: ../desktop-files/openeuler-audio-player.desktop.in.h:1
+msgid "Audio Player"
+msgstr "オーディオプレーヤー"
+
+#: ../desktop-files/openeuler-audio-player.desktop.in.h:2
+msgid "Play Ogg Vorbis and other audio files"
+msgstr "Ogg Vorbis及び他のオーディオファイルを再生"
+
+#: ../desktop-files/openeuler-diagrams.desktop.in.h:1
+msgid "Create diagrams"
+msgstr "ダイアグラムを作成"
+
+#: ../desktop-files/openeuler-diagrams.desktop.in.h:2
+msgid "Dia Diagrams"
+msgstr "Dia ダイアグラム"
+
+#: ../desktop-files/openeuler-drawing.desktop.in.h:1
+msgid "Draw diagrams and figures"
+msgstr "ダイアグラムと図案を描きます。"
+
+#: ../desktop-files/openeuler-drawing.desktop.in.h:2
+msgid "OpenOffice.org Draw"
+msgstr "OpenOffice.org Draw"
+
+#: ../desktop-files/openeuler-email.desktop.in.h:1
+#: ../desktop-files/openeuler-evolution-mail.desktop.in.h:1
+msgid "Email"
+msgstr "電子メール"
+
+#: ../desktop-files/openeuler-email.desktop.in.h:2
+msgid "Send email and manage your schedule"
+msgstr "電子メールを送り、スケジュールを管理します"
+
+#: ../desktop-files/openeuler-evolution-calendar.desktop.in.h:1
+msgid "Calendar"
+msgstr "カレンダー"
+
+#: ../desktop-files/openeuler-evolution-calendar.desktop.in.h:2
+msgid "Manage your schedule using Evolution"
+msgstr "Evolution を使ってスケジュールを管理します"
+
+#: ../desktop-files/openeuler-evolution-contacts.desktop.in.h:1
+msgid "Contacts"
+msgstr "連絡先"
+
+#: ../desktop-files/openeuler-evolution-contacts.desktop.in.h:2
+msgid "Manage your contacts using Evolution"
+msgstr "Evolution を使って連絡先を管理します"
+
+#: ../desktop-files/openeuler-evolution-mail.desktop.in.h:2
+msgid "Send and receive email using Evolution"
+msgstr "Evolution を使って電子メールを送受信します"
+
+#: ../desktop-files/openeuler-evolution-tasks.desktop.in.h:1
+msgid "Manage tasks using the Evolution groupware suite"
+msgstr "Evolution グループウェアスィートを使って仕事を管理します"
+
+#: ../desktop-files/openeuler-evolution-tasks.desktop.in.h:2
+msgid "Tasks"
+msgstr "仕事"
+
+#: ../desktop-files/openeuler-math.desktop.in.h:1
+msgid "Formula editor"
+msgstr "Formulaエディター"
+
+#: ../desktop-files/openeuler-math.desktop.in.h:2
+msgid "OpenOffice.org Math"
+msgstr "OpenOffice.org Math"
+
+#: ../desktop-files/openeuler-presentations.desktop.in.h:1
+msgid "Create presentations"
+msgstr "プレゼンテーションを作成"
+
+#: ../desktop-files/openeuler-presentations.desktop.in.h:2
+msgid "OpenOffice.org Impress"
+msgstr "OpenOffice.org Impress"
+
+#: ../desktop-files/openeuler-print.desktop.in.h:1
+msgid "Print Manager"
+msgstr "印刷マネージャ"
+
+#: ../desktop-files/openeuler-print.desktop.in.h:2
+msgid "Set up and monitor printers"
+msgstr "プリンターを設定して監視"
+
+#: ../desktop-files/openeuler-spreadsheet.desktop.in.h:1
+msgid "OpenOffice.org Calc"
+msgstr "OpenOffice.org Calc"
+
+#: ../desktop-files/openeuler-spreadsheet.desktop.in.h:2
+msgid "Spreadsheet"
+msgstr "スプレッドシート"
+
+#: ../desktop-files/openeuler-web.desktop.in.h:1
+msgid "Browse the web"
+msgstr "ウェブを閲覧します"
+
+#: ../desktop-files/openeuler-web.desktop.in.h:2
+msgid "Web Browser"
+msgstr "GNOME ウェブ・ブラウザ"
+
+#: ../desktop-files/openeuler-word-processor.desktop.in.h:1
+msgid "OpenOffice.org Writer"
+msgstr "OpenOffice.org Writer"
+
+#: ../desktop-files/openeuler-word-processor.desktop.in.h:2
+msgid "Word processor"
+msgstr "ワードプロッセッサ"
+
+#: ../desktop-files/Root.directory.in.h:1
+msgid "Programs"
+msgstr "プログラム"
+
+#: ../desktop-files/Root.directory.in.h:2
+msgid "Programs menu"
+msgstr "プログラムメニュー "
+
+#: ../desktop-files/Sawfish.directory.in.h:1
+msgid "Configure the Sawfish window manager"
+msgstr "Sawfishウィンドウマネージャを設定"
+
+#: ../desktop-files/Sawfish.directory.in.h:2
+msgid "Sawfish window manager"
+msgstr "Sawfishウィンドウマネージャ"
+
+#: ../desktop-files/ServerConfig.directory.in.h:1
+#: ../desktop-files/ServerConfig-More.directory.in.h:1
+msgid "Configure network services (web server, DNS server, etc.)"
+msgstr "ネットワークサービスの設定(ウェブサーバー、DNSサーバーなど)"
+
+#: ../desktop-files/ServerConfig.directory.in.h:2
+msgid "Server Settings"
+msgstr "サーバー設定"
+
+#: ../desktop-files/ServerConfig-More.directory.in.h:2
+msgid "More Server Settings"
+msgstr "他のサーバー設定"
+
+#: ../desktop-files/Settings-Accessibility.directory.in.h:2
+msgid "Accessibility related preferences"
+msgstr "アクセシビリティ設定"
+
+#: ../desktop-files/Settings-More.directory.in.h:1
+msgid "More Preferences"
+msgstr "他の個人設定"
+
+#: ../desktop-files/Settings-More.directory.in.h:2
+msgid "Personal preferences and settings"
+msgstr "個人設定と設定"
+
+#: ../desktop-files/SystemConfig.directory.in.h:1
+msgid "Administration"
+msgstr "管理"
+
+#: ../desktop-files/SystemConfig.directory.in.h:2
+#: ../desktop-files/SystemConfig-More.directory.in.h:1
+msgid "Change systemwide settings (affects all users)"
+msgstr "システム全体の設定を変更(全てのユーザーに影響)"
+
+#: ../desktop-files/SystemConfig-More.directory.in.h:2
+msgid "More System Settings"
+msgstr "他のシステム設定"
+
+#: ../desktop-files/System.directory.in.h:1
+msgid "System Tools"
+msgstr "システムツール"
+
+#: ../desktop-files/System.directory.in.h:2
+#: ../desktop-files/System-More.directory.in.h:2
+msgid "System configuration and monitoring"
+msgstr "システムの設定と監視"
+
+#: ../desktop-files/System-More.directory.in.h:1
+msgid "More System Tools"
+msgstr "他のシステムツール"
+
+#: ../desktop-files/Utilities.directory.in.h:1
+msgid "Utilities"
+msgstr "ユーティリティ"
+
+#: ../desktop-files/Utilities.directory.in.h:2
+#: ../desktop-files/Utilities-More.directory.in.h:2
+msgid "Utilities "
+msgstr "ユーティリティ "
+
+#: ../desktop-files/Utilities-More.directory.in.h:1
+msgid "More Utilities"
+msgstr "他のユーティリティ"
+
+#~ msgid "Accessibility Settings"
+#~ msgstr "アクセシビリティ設定"
+
+#~ msgid "Applications"
+#~ msgstr "アプリケーション"
+
+#~ msgid "Games"
+#~ msgstr "ゲーム"
+
+#~ msgid "Graphics"
+#~ msgstr "グラフィックス"
+
+#~ msgid "Internet"
+#~ msgstr "インターネット"
+
+#~ msgid "Sound & Video"
+#~ msgstr "サウンドとビデオ"
+
+#~ msgid "Office"
+#~ msgstr "オフィス"
+
+#~ msgid "Office Applications"
+#~ msgstr "オフィスアプリケーション"
+
+#~ msgid "Applications that did not fit in other categories"
+#~ msgstr "他のカテゴリに適合しないアプリケーション"
+
+#~ msgid "Other"
+#~ msgstr "その他"
+
+#~ msgid "Talk to people over the internet"
+#~ msgstr "インターネット上で人々を会話する"
+
+#~ msgid "Video Conferencing"
+#~ msgstr "ビデオ会議"
+
+#~ msgid "Preferences"
+#~ msgstr "個人設定"
+
+#~ msgid "System Settings"
+#~ msgstr "システム設定"
+
+#~ msgid "Control Center"
+#~ msgstr "コントロールセンター"
+
+#~ msgid "Configure the connection for the user's PDA"
+#~ msgstr "ユーザーのPDA用に接続を設定します"
+
+#~ msgid "Pilot/Handspring Tool"
+#~ msgstr "Pilot/Handspring ツール"
+
+#~ msgid "Epiphany Web Browser"
+#~ msgstr "Epiphany ウェブ・ブラウザ"

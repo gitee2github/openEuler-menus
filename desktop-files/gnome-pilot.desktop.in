@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+_Name=Handheld PDA
+_Comment=Set up a PDA such as a Palm Pilot
+Exec=gpilotd-control-applet
+Terminal=0
+Icon=gnome-palm.png
+Type=Application
+Categories=Application;Settings;Utility;X-open-Euler-Base;

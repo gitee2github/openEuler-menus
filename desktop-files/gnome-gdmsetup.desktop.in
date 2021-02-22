@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+_Name=Login Screen
+_Comment=Configure the login screen
+TryExec=gdmsetup
+Exec=gdmsetup
+Icon=gdm.xpm
+Terminal=0
+Type=Application
+Categories=Application;System;SystemSetup;X-open-Euler-Base;

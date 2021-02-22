@@ -1,0 +1,9 @@
+[Desktop Entry]
+_Name=Print Manager
+_Comment=Set up and monitor printers
+Exec=tryprint.pl %F
+Icon=printer.png
+Terminal=0
+Type=Application
+Encoding=UTF-8
+Categories=X-open-Euler-Base;X-open-Euler-Base-Only;Application;Utility;

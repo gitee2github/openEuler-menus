@@ -1,0 +1,9 @@
+[Desktop Entry]
+_Name=OpenOffice.org Repair
+_Comment=Repair your installation of OpenOffice.org
+Exec=/usr/bin/oosetup
+Icon=500_setup.xpm
+Terminal=0
+Type=Application
+Encoding=UTF-8
+Categories=Application;Office;X-open-Euler-Extra;

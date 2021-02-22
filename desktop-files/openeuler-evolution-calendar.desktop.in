@@ -1,0 +1,15 @@
+[Desktop Entry]
+_Name=Calendar
+_Comment=Manage your schedule using Evolution
+Exec=evolution --component=calendar
+Icon=stock_calendar
+Terminal=0
+Type=Application
+Encoding=UTF-8
+Categories=X-open-Euler-Base;X-open-Euler-Base-Only;Office;Application;
+StartupNotify=True
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=Evolution
+X-GNOME-Bugzilla-Version=2.12
+X-GNOME-Bugzilla-Component=BugBuddyBugs
+X-GNOME-Bugzilla-OtherBinaries=evolution-data-server-1.12;evolution-exchange-storage;evolution-alarm-notify;

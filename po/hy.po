@@ -1,0 +1,417 @@
+# translation of hy.po to Armenian
+# Armenian translations for PACKAGE package.
+# Copyright (C) 2005 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2005.
+# Karapetyan Suren <suro_xeon@yahoo.com>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: hy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-03-29 17:48-0400\n"
+"PO-Revision-Date: 2005-11-02 23:40+0400\n"
+"Last-Translator: Karapetyan Suren <suro_xeon@yahoo.com>\n"
+"Language-Team: Armenian <en@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.10\n"
+
+#: ../desktop-files/Accessories.directory.in.h:1
+msgid "Accessories"
+msgstr "Ակսեսուարներ"
+
+#: ../desktop-files/Accessories.directory.in.h:2
+#: ../desktop-files/Accessories-More.directory.in.h:1
+msgid "Desktop accessories"
+msgstr "Գրասեղանային ակսեսուարներ"
+
+#: ../desktop-files/Accessories-More.directory.in.h:2
+msgid "More Accessories"
+msgstr "Հավելյալ ակսեսուարներ"
+
+#: ../desktop-files/Advanced.directory.in.h:1
+msgid "Advanced"
+msgstr "Առաջավոր"
+
+#: ../desktop-files/Advanced.directory.in.h:2
+#: ../desktop-files/Advanced-More.directory.in.h:1
+msgid "Advanced settings and preferences"
+msgstr "Առաջավոր պարամետրեր և նախապատվություններ"
+
+#: ../desktop-files/Advanced-More.directory.in.h:2
+msgid "More Advanced Settings"
+msgstr "Ուրիշ հավելյալ պարամետրեր"
+
+#: ../desktop-files/AllPrograms.directory.in.h:1
+msgid "All Applications"
+msgstr "Բոլոր ծրագրերը"
+
+#: ../desktop-files/Desktop.directory.in.h:1
+#, fuzzy
+msgid "Personal preferences and administration settings"
+msgstr "Անձնական նախընտրանքներ"
+
+#: ../desktop-files/Desktop.directory.in.h:2
+#, fuzzy
+msgid "System"
+msgstr "Համակարգի գործիքներ"
+
+#: ../desktop-files/Development.directory.in.h:1
+msgid "Programming"
+msgstr "Ծրագրավորում"
+
+#: ../desktop-files/Development.directory.in.h:2
+#: ../desktop-files/Development-More.directory.in.h:2
+msgid "Tools for software development"
+msgstr "Ծրագրավորման գործիքներ"
+
+#: ../desktop-files/Development-More.directory.in.h:1
+msgid "More Programming Tools"
+msgstr "Ծրագրավորողի այլ գործիքներ"
+
+#: ../desktop-files/Documentation.directory.in.h:1
+msgid "Documentation"
+msgstr "Դոկումենտացիա"
+
+#: ../desktop-files/Documentation.directory.in.h:2
+#: ../desktop-files/Documentation-More.directory.in.h:1
+msgid "Manuals and help documents"
+msgstr "Ձեռնարկներ և օգնություն"
+
+#: ../desktop-files/Documentation-More.directory.in.h:2
+msgid "More Documentation"
+msgstr "Հավելյալ ձեռնարկներ"
+
+#: ../desktop-files/Edutainment.directory.in.h:1
+msgid "Edutainment"
+msgstr ""
+
+#: ../desktop-files/Extras.directory.in.h:1
+msgid "Extras"
+msgstr "Հավելյալ"
+
+#: ../desktop-files/Extras.directory.in.h:2
+msgid "Less-commonly-used applications"
+msgstr "Ավելի քիչ օգտագործվող ծրագրեր"
+
+#: ../desktop-files/Games-More.directory.in.h:1
+msgid "Games and amusements"
+msgstr "Խաղեր և զվարճանքներ"
+
+#: ../desktop-files/Games-More.directory.in.h:2
+msgid "More Games"
+msgstr "Հավելյալ խաղեր"
+
+#: ../desktop-files/gnome-accessibility.desktop.in.h:1
+#: ../desktop-files/Settings-Accessibility.directory.in.h:1
+msgid "Accessibility"
+msgstr "Մատչելիություն"
+
+#: ../desktop-files/gnome-accessibility.desktop.in.h:2
+msgid "Accessibility settings"
+msgstr "Մատչելիության արգումենտներ"
+
+#: ../desktop-files/gnome-gdmsetup.desktop.in.h:1
+msgid "Configure the login screen"
+msgstr "Փոփոխել մուտքի էկրանը"
+
+#: ../desktop-files/gnome-gdmsetup.desktop.in.h:2
+msgid "Login Screen"
+msgstr "Մուտքի էկրան"
+
+#: ../desktop-files/gnome-pilot.desktop.in.h:1
+msgid "Handheld PDA"
+msgstr "Ձեռքի PDAներ"
+
+#: ../desktop-files/gnome-pilot.desktop.in.h:2
+msgid "Set up a PDA such as a Palm Pilot"
+msgstr "PDAի տեղադրում"
+
+#: ../desktop-files/Graphics-More.directory.in.h:1
+msgid "Graphics applications"
+msgstr "Գրաֆիկական ծրագրեր"
+
+#: ../desktop-files/Graphics-More.directory.in.h:2
+msgid "More Graphics Applications"
+msgstr "Հավելյալ գրաֆիկական ծրագրեր"
+
+#: ../desktop-files/gthumb.desktop.in.h:1
+msgid "Organize your digital photos"
+msgstr ""
+
+#: ../desktop-files/gthumb.desktop.in.h:2
+msgid "Photo Tool"
+msgstr ""
+
+#: ../desktop-files/Internet-More.directory.in.h:1
+msgid "More Internet Applications"
+msgstr "Հավելյալ ինտերնետային ծրագրեր"
+
+#: ../desktop-files/Internet-More.directory.in.h:2
+msgid "Programs for Internet access such as web and email"
+msgstr "Ինտերնետի հետ կապված ծրագրեր (ինչպես web կամ email)"
+
+#: ../desktop-files/Multimedia-More.directory.in.h:1
+msgid "More Sound & Video Applications"
+msgstr "Հավելյալ մուլտիմեդիա ծրագրեր"
+
+#: ../desktop-files/Multimedia-More.directory.in.h:2
+msgid "Multimedia menu"
+msgstr "Մուլտիմեդիա"
+
+#: ../desktop-files/Office-More.directory.in.h:1
+msgid "Additional office applications"
+msgstr "Օֆիսի հավելյալ ծրագրեր"
+
+#: ../desktop-files/Office-More.directory.in.h:2
+msgid "More Office Applications"
+msgstr "Օֆիսի հավելյալ ծրագրեր"
+
+#: ../desktop-files/openoffice-printeradmin.desktop.in.h:1
+msgid "OpenOffice.org Printer Setup"
+msgstr "OpenOffice.org պրինտերի տեղադրում"
+
+#: ../desktop-files/openoffice-printeradmin.desktop.in.h:2
+msgid "Set up printers for OpenOffice.org applications"
+msgstr "OpenOffice.org–ի համառ պրինտերներ տեղադրել"
+
+#: ../desktop-files/openoffice-setup.desktop.in.h:1
+msgid "OpenOffice.org Repair"
+msgstr "OpenOffice.org վերականգնում"
+
+#: ../desktop-files/openoffice-setup.desktop.in.h:2
+msgid "Repair your installation of OpenOffice.org"
+msgstr "Վերականգնել OpenOffice.org–ի ինստալացիան"
+
+#: ../desktop-files/openeuler-audio-player.desktop.in.h:1
+msgid "Audio Player"
+msgstr "Ձայնարկիչ"
+
+#: ../desktop-files/openeuler-audio-player.desktop.in.h:2
+msgid "Play Ogg Vorbis and other audio files"
+msgstr "Նվագել Ogg Vorbis և այլ տիպի ձայնային ֆայլեր"
+
+#: ../desktop-files/openeuler-diagrams.desktop.in.h:1
+msgid "Create diagrams"
+msgstr "Ստեղծել դիագրամներ"
+
+#: ../desktop-files/openeuler-diagrams.desktop.in.h:2
+msgid "Dia Diagrams"
+msgstr "Dia Դիագրամներ"
+
+#: ../desktop-files/openeuler-drawing.desktop.in.h:1
+msgid "Draw diagrams and figures"
+msgstr "Նկարել դիագրամներ"
+
+#: ../desktop-files/openeuler-drawing.desktop.in.h:2
+msgid "OpenOffice.org Draw"
+msgstr "OpenOffice.org Draw"
+
+#: ../desktop-files/openeuler-email.desktop.in.h:1
+#: ../desktop-files/openeuler-evolution-mail.desktop.in.h:1
+msgid "Email"
+msgstr "Էլ–փոստ"
+
+#: ../desktop-files/openeuler-email.desktop.in.h:2
+msgid "Send email and manage your schedule"
+msgstr "Աշխատել էլ–փոստի հետ և պլանավորել ժամանակը"
+
+#: ../desktop-files/openeuler-evolution-calendar.desktop.in.h:1
+msgid "Calendar"
+msgstr ""
+
+#: ../desktop-files/openeuler-evolution-calendar.desktop.in.h:2
+msgid "Manage your schedule using Evolution"
+msgstr ""
+
+#: ../desktop-files/openeuler-evolution-contacts.desktop.in.h:1
+msgid "Contacts"
+msgstr ""
+
+#: ../desktop-files/openeuler-evolution-contacts.desktop.in.h:2
+msgid "Manage your contacts using Evolution"
+msgstr ""
+
+#: ../desktop-files/openeuler-evolution-mail.desktop.in.h:2
+msgid "Send and receive email using Evolution"
+msgstr ""
+
+#: ../desktop-files/openeuler-evolution-tasks.desktop.in.h:1
+msgid "Manage tasks using the Evolution groupware suite"
+msgstr ""
+
+#: ../desktop-files/openeuler-evolution-tasks.desktop.in.h:2
+msgid "Tasks"
+msgstr ""
+
+#: ../desktop-files/openeuler-math.desktop.in.h:1
+msgid "Formula editor"
+msgstr "Բանաձևերի խմբագրիչ"
+
+#: ../desktop-files/openeuler-math.desktop.in.h:2
+msgid "OpenOffice.org Math"
+msgstr "OpenOffice.org Math"
+
+#: ../desktop-files/openeuler-presentations.desktop.in.h:1
+msgid "Create presentations"
+msgstr "Ստեղծել պրեզենտացիա"
+
+#: ../desktop-files/openeuler-presentations.desktop.in.h:2
+msgid "OpenOffice.org Impress"
+msgstr "OpenOffice.org Impress"
+
+#: ../desktop-files/openeuler-print.desktop.in.h:1
+msgid "Print Manager"
+msgstr "Պրինտերի մենեջեռ"
+
+#: ../desktop-files/openeuler-print.desktop.in.h:2
+msgid "Set up and monitor printers"
+msgstr "Տեղադրել և հետևել պրինտերներին"
+
+#: ../desktop-files/openeuler-spreadsheet.desktop.in.h:1
+msgid "OpenOffice.org Calc"
+msgstr "OpenOffice.org Calc"
+
+#: ../desktop-files/openeuler-spreadsheet.desktop.in.h:2
+msgid "Spreadsheet"
+msgstr "Ցուցակ"
+
+#: ../desktop-files/openeuler-web.desktop.in.h:1
+msgid "Browse the web"
+msgstr "Շրջել վեբում"
+
+#: ../desktop-files/openeuler-web.desktop.in.h:2
+msgid "Web Browser"
+msgstr "Վեբ բրաուզեր"
+
+#: ../desktop-files/openeuler-word-processor.desktop.in.h:1
+msgid "OpenOffice.org Writer"
+msgstr "OpenOffice.org Գրիչ"
+
+#: ../desktop-files/openeuler-word-processor.desktop.in.h:2
+msgid "Word processor"
+msgstr "Տեքստային պրոցեսսոր"
+
+#: ../desktop-files/Root.directory.in.h:1
+msgid "Programs"
+msgstr "Ծրագրեր"
+
+#: ../desktop-files/Root.directory.in.h:2
+msgid "Programs menu"
+msgstr "Ծրագրերի մենու"
+
+#: ../desktop-files/Sawfish.directory.in.h:1
+msgid "Configure the Sawfish window manager"
+msgstr "Կարգավորել Sawfish պատուհանների մենեջերը"
+
+#: ../desktop-files/Sawfish.directory.in.h:2
+msgid "Sawfish window manager"
+msgstr "Sawfish պատուհանների մենեջեր"
+
+#: ../desktop-files/ServerConfig.directory.in.h:1
+#: ../desktop-files/ServerConfig-More.directory.in.h:1
+msgid "Configure network services (web server, DNS server, etc.)"
+msgstr "Կարգավորել ցանցային ծառայությունները (վեբ սերվեր, DNS սերվեր…)"
+
+#: ../desktop-files/ServerConfig.directory.in.h:2
+msgid "Server Settings"
+msgstr "Սերվերի տեղադրում"
+
+#: ../desktop-files/ServerConfig-More.directory.in.h:2
+msgid "More Server Settings"
+msgstr "Սերվերի հավելյալ պարամետրեր"
+
+#: ../desktop-files/Settings-Accessibility.directory.in.h:2
+msgid "Accessibility related preferences"
+msgstr "Մատչելիության հետ աչընչվող նախընտրանքներ"
+
+#: ../desktop-files/Settings-More.directory.in.h:1
+msgid "More Preferences"
+msgstr "Հավելյալ նախընտրանքներ"
+
+#: ../desktop-files/Settings-More.directory.in.h:2
+msgid "Personal preferences and settings"
+msgstr "Անձնական նախընտրանքներ"
+
+#: ../desktop-files/SystemConfig.directory.in.h:1
+msgid "Administration"
+msgstr ""
+
+#: ../desktop-files/SystemConfig.directory.in.h:2
+#: ../desktop-files/SystemConfig-More.directory.in.h:1
+msgid "Change systemwide settings (affects all users)"
+msgstr "Փոփոխել համահամակարգային պարամետրեր (ազդում է բոլորի վրա)"
+
+#: ../desktop-files/SystemConfig-More.directory.in.h:2
+msgid "More System Settings"
+msgstr "Համակարգի հավելյալ պարամետրեր"
+
+#: ../desktop-files/System.directory.in.h:1
+msgid "System Tools"
+msgstr "Համակարգի գործիքներ"
+
+#: ../desktop-files/System.directory.in.h:2
+#: ../desktop-files/System-More.directory.in.h:2
+msgid "System configuration and monitoring"
+msgstr "Համակարգի կարգավորում և վերահսկում"
+
+#: ../desktop-files/System-More.directory.in.h:1
+msgid "More System Tools"
+msgstr "Համակարգի հավելյալ գործիքներ"
+
+#: ../desktop-files/Utilities.directory.in.h:1
+msgid "Utilities"
+msgstr "Այլևայլ"
+
+#: ../desktop-files/Utilities.directory.in.h:2
+#: ../desktop-files/Utilities-More.directory.in.h:2
+msgid "Utilities "
+msgstr "Այլևայլ"
+
+#: ../desktop-files/Utilities-More.directory.in.h:1
+msgid "More Utilities"
+msgstr "Հավելյալ այլևայլ"
+
+#~ msgid "Accessibility Settings"
+#~ msgstr "Հատում պարամետրեր"
+
+#~ msgid "Applications"
+#~ msgstr "Ծրագրերը"
+
+#~ msgid "Games"
+#~ msgstr "Խաղեր"
+
+#~ msgid "Graphics"
+#~ msgstr "Գրաֆիկա"
+
+#~ msgid "Internet"
+#~ msgstr "Ինտերնետ"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Ձայն և Կինո"
+
+#~ msgid "Office"
+#~ msgstr "Օֆիս"
+
+#~ msgid "Office Applications"
+#~ msgstr "Օֆիսի ծրագրեր"
+
+#~ msgid "Applications that did not fit in other categories"
+#~ msgstr "Ծրագրեր, որոնք որևե վերնագրի տակ չեն տեղավորվել"
+
+#~ msgid "Other"
+#~ msgstr "Այլ"
+
+#~ msgid "Talk to people over the internet"
+#~ msgstr "Զրուցել ինտերնետի միջոցով"
+
+#~ msgid "Video Conferencing"
+#~ msgstr "Վիդեո կոնֆերանս"
+
+#~ msgid "Preferences"
+#~ msgstr "Նախընտրանքներ"
+
+#~ msgid "System Settings"
+#~ msgstr "Համակարգի պարամետրեր"

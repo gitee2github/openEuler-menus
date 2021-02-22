@@ -1,0 +1,419 @@
+# translation of ka.po to Georgian
+# Georgian translations for PACKAGE package.
+# Copyright (C) 2004 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Automatically generated, 2004.
+# George Machitidze <giomac@gmail.com>, 2005, 2006.
+msgid ""
+msgstr ""
+"Project-Id-Version: ka\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-03-29 17:48-0400\n"
+"PO-Revision-Date: 2006-01-02 03:14+0300\n"
+"Last-Translator: George Machitidze <giomac@gmail.com>\n"
+"Language-Team: Georgian <guiasher@mes.gov.ge>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11\n"
+
+#: ../desktop-files/Accessories.directory.in.h:1
+msgid "Accessories"
+msgstr "აქსესუარები"
+
+#: ../desktop-files/Accessories.directory.in.h:2
+#: ../desktop-files/Accessories-More.directory.in.h:1
+msgid "Desktop accessories"
+msgstr "სამუშაო დაფის აქსესუარები"
+
+#: ../desktop-files/Accessories-More.directory.in.h:2
+msgid "More Accessories"
+msgstr "დამატებითი აქსესუარები"
+
+#: ../desktop-files/Advanced.directory.in.h:1
+#, fuzzy
+msgid "Advanced"
+msgstr "დამატებითი"
+
+#: ../desktop-files/Advanced.directory.in.h:2
+#: ../desktop-files/Advanced-More.directory.in.h:1
+#, fuzzy
+msgid "Advanced settings and preferences"
+msgstr "დამატებითი პარამეტრები და თვისებები"
+
+#: ../desktop-files/Advanced-More.directory.in.h:2
+msgid "More Advanced Settings"
+msgstr "დამატებითი პარამეტრები"
+
+#: ../desktop-files/AllPrograms.directory.in.h:1
+msgid "All Applications"
+msgstr "ყველა პროგრამა"
+
+#: ../desktop-files/Desktop.directory.in.h:1
+#, fuzzy
+msgid "Personal preferences and administration settings"
+msgstr "პერსონალური პარამეტრები"
+
+#: ../desktop-files/Desktop.directory.in.h:2
+#, fuzzy
+msgid "System"
+msgstr "სისტემური ინსტრუმენტები"
+
+#: ../desktop-files/Development.directory.in.h:1
+msgid "Programming"
+msgstr "პროგრამირება"
+
+#: ../desktop-files/Development.directory.in.h:2
+#: ../desktop-files/Development-More.directory.in.h:2
+msgid "Tools for software development"
+msgstr "ინსტრუმენტები პროგრამების შექმნისათვის"
+
+#: ../desktop-files/Development-More.directory.in.h:1
+msgid "More Programming Tools"
+msgstr "დამატებითი პროგრამირების ინსტრუმენტები"
+
+#: ../desktop-files/Documentation.directory.in.h:1
+msgid "Documentation"
+msgstr "დოკუმენტაცია"
+
+#: ../desktop-files/Documentation.directory.in.h:2
+#: ../desktop-files/Documentation-More.directory.in.h:1
+msgid "Manuals and help documents"
+msgstr "ინსტრუქციები და დამხმარე დოკუმენტები"
+
+#: ../desktop-files/Documentation-More.directory.in.h:2
+msgid "More Documentation"
+msgstr "დამატებითი დოკუმენტაცია"
+
+#: ../desktop-files/Edutainment.directory.in.h:1
+msgid "Edutainment"
+msgstr ""
+
+#: ../desktop-files/Extras.directory.in.h:1
+msgid "Extras"
+msgstr "დამატებითი"
+
+#: ../desktop-files/Extras.directory.in.h:2
+msgid "Less-commonly-used applications"
+msgstr "ნაკლებად ხშირადგამოყენებადი პროგრამები"
+
+#: ../desktop-files/Games-More.directory.in.h:1
+msgid "Games and amusements"
+msgstr "თამაშები და გართობა"
+
+#: ../desktop-files/Games-More.directory.in.h:2
+msgid "More Games"
+msgstr "დამატებითი თამაშები"
+
+#: ../desktop-files/gnome-accessibility.desktop.in.h:1
+#: ../desktop-files/Settings-Accessibility.directory.in.h:1
+msgid "Accessibility"
+msgstr "დამხმარე საშუალებები"
+
+#: ../desktop-files/gnome-accessibility.desktop.in.h:2
+msgid "Accessibility settings"
+msgstr "დამხმარე საშუალებების პარამეტრები"
+
+#: ../desktop-files/gnome-gdmsetup.desktop.in.h:1
+msgid "Configure the login screen"
+msgstr "შესვლის ეკრანის პარამეტრები"
+
+#: ../desktop-files/gnome-gdmsetup.desktop.in.h:2
+msgid "Login Screen"
+msgstr "სისტემაში შესვლის ეკრანი"
+
+#: ../desktop-files/gnome-pilot.desktop.in.h:1
+msgid "Handheld PDA"
+msgstr ""
+
+#: ../desktop-files/gnome-pilot.desktop.in.h:2
+msgid "Set up a PDA such as a Palm Pilot"
+msgstr ""
+
+#: ../desktop-files/Graphics-More.directory.in.h:1
+msgid "Graphics applications"
+msgstr "გრაფიკული პროგრამები"
+
+#: ../desktop-files/Graphics-More.directory.in.h:2
+msgid "More Graphics Applications"
+msgstr "დამატებითი გრაფიკული პროგრამები"
+
+#: ../desktop-files/gthumb.desktop.in.h:1
+msgid "Organize your digital photos"
+msgstr ""
+
+#: ../desktop-files/gthumb.desktop.in.h:2
+msgid "Photo Tool"
+msgstr ""
+
+#: ../desktop-files/Internet-More.directory.in.h:1
+msgid "More Internet Applications"
+msgstr "დამატებითი ინტერნეტის პროგრამები"
+
+#: ../desktop-files/Internet-More.directory.in.h:2
+msgid "Programs for Internet access such as web and email"
+msgstr "პროგრამები ინტერნეტში წვდომისთვის"
+
+#: ../desktop-files/Multimedia-More.directory.in.h:1
+msgid "More Sound & Video Applications"
+msgstr "დამატებითი აუდიო და ვიდეოპროგრამები"
+
+#: ../desktop-files/Multimedia-More.directory.in.h:2
+msgid "Multimedia menu"
+msgstr "მულტიმედიის მენიუ"
+
+#: ../desktop-files/Office-More.directory.in.h:1
+msgid "Additional office applications"
+msgstr "დამატებითი საოფისე პროგრამები"
+
+#: ../desktop-files/Office-More.directory.in.h:2
+msgid "More Office Applications"
+msgstr "დამატებითი საოფისე პროგრამები"
+
+#: ../desktop-files/openoffice-printeradmin.desktop.in.h:1
+msgid "OpenOffice.org Printer Setup"
+msgstr "OpenOffice.org-ის პრინტერის პარამეტრები"
+
+#: ../desktop-files/openoffice-printeradmin.desktop.in.h:2
+msgid "Set up printers for OpenOffice.org applications"
+msgstr "პრინტერების გამართვა OpenOffice.org-ის პროგრამებისათვის"
+
+#: ../desktop-files/openoffice-setup.desktop.in.h:1
+msgid "OpenOffice.org Repair"
+msgstr "OpenOffice.org-ის აღდგენა"
+
+#: ../desktop-files/openoffice-setup.desktop.in.h:2
+msgid "Repair your installation of OpenOffice.org"
+msgstr "თქვენი OpenOffice.org-ის აღდგენა"
+
+#: ../desktop-files/openeuler-audio-player.desktop.in.h:1
+msgid "Audio Player"
+msgstr "აუდიოდამკვრელი"
+
+#: ../desktop-files/openeuler-audio-player.desktop.in.h:2
+msgid "Play Ogg Vorbis and other audio files"
+msgstr "Ogg Vorbis და სხვა აუდიოფაილების დაკვრა"
+
+#: ../desktop-files/openeuler-diagrams.desktop.in.h:1
+msgid "Create diagrams"
+msgstr "დიაგრამების შექმნა"
+
+#: ../desktop-files/openeuler-diagrams.desktop.in.h:2
+msgid "Dia Diagrams"
+msgstr "Dia დიაგრამები"
+
+#: ../desktop-files/openeuler-drawing.desktop.in.h:1
+msgid "Draw diagrams and figures"
+msgstr "დიაგრამების და ფიგურების დახაზვა"
+
+#: ../desktop-files/openeuler-drawing.desktop.in.h:2
+msgid "OpenOffice.org Draw"
+msgstr "OpenOffice.org Draw"
+
+#: ../desktop-files/openeuler-email.desktop.in.h:1
+#: ../desktop-files/openeuler-evolution-mail.desktop.in.h:1
+msgid "Email"
+msgstr "ელფოსტა"
+
+#: ../desktop-files/openeuler-email.desktop.in.h:2
+msgid "Send email and manage your schedule"
+msgstr "ელ. ფოსტის გაგზავნა და სამუშაო განრიგი"
+
+#: ../desktop-files/openeuler-evolution-calendar.desktop.in.h:1
+msgid "Calendar"
+msgstr ""
+
+#: ../desktop-files/openeuler-evolution-calendar.desktop.in.h:2
+msgid "Manage your schedule using Evolution"
+msgstr ""
+
+#: ../desktop-files/openeuler-evolution-contacts.desktop.in.h:1
+msgid "Contacts"
+msgstr ""
+
+#: ../desktop-files/openeuler-evolution-contacts.desktop.in.h:2
+msgid "Manage your contacts using Evolution"
+msgstr ""
+
+#: ../desktop-files/openeuler-evolution-mail.desktop.in.h:2
+msgid "Send and receive email using Evolution"
+msgstr ""
+
+#: ../desktop-files/openeuler-evolution-tasks.desktop.in.h:1
+msgid "Manage tasks using the Evolution groupware suite"
+msgstr ""
+
+#: ../desktop-files/openeuler-evolution-tasks.desktop.in.h:2
+msgid "Tasks"
+msgstr ""
+
+#: ../desktop-files/openeuler-math.desktop.in.h:1
+msgid "Formula editor"
+msgstr "ფორმულების რედაქტორი"
+
+#: ../desktop-files/openeuler-math.desktop.in.h:2
+msgid "OpenOffice.org Math"
+msgstr "OpenOffice.org Math"
+
+#: ../desktop-files/openeuler-presentations.desktop.in.h:1
+msgid "Create presentations"
+msgstr "პრეზენტაციების შექმნა"
+
+#: ../desktop-files/openeuler-presentations.desktop.in.h:2
+msgid "OpenOffice.org Impress"
+msgstr "OpenOffice.org Impress"
+
+#: ../desktop-files/openeuler-print.desktop.in.h:1
+msgid "Print Manager"
+msgstr "ბეჭდვის მმართველი"
+
+#: ../desktop-files/openeuler-print.desktop.in.h:2
+msgid "Set up and monitor printers"
+msgstr "პრინტერების მონიტორინგი და გამართვა"
+
+#: ../desktop-files/openeuler-spreadsheet.desktop.in.h:1
+msgid "OpenOffice.org Calc"
+msgstr "OpenOffice.org Calc"
+
+#: ../desktop-files/openeuler-spreadsheet.desktop.in.h:2
+msgid "Spreadsheet"
+msgstr "ელექტრონული ცხრილი"
+
+#: ../desktop-files/openeuler-web.desktop.in.h:1
+msgid "Browse the web"
+msgstr "ვებ-გვერდების დასათვალიერებელი პროგრამა"
+
+#: ../desktop-files/openeuler-web.desktop.in.h:2
+msgid "Web Browser"
+msgstr "ვებ-ბროუზერი"
+
+#: ../desktop-files/openeuler-word-processor.desktop.in.h:1
+msgid "OpenOffice.org Writer"
+msgstr "OpenOffice.org Writer"
+
+#: ../desktop-files/openeuler-word-processor.desktop.in.h:2
+msgid "Word processor"
+msgstr "ტექსტური პროცესორი"
+
+#: ../desktop-files/Root.directory.in.h:1
+msgid "Programs"
+msgstr "პროგრამები"
+
+#: ../desktop-files/Root.directory.in.h:2
+msgid "Programs menu"
+msgstr "პროგრამების მენიუ"
+
+#: ../desktop-files/Sawfish.directory.in.h:1
+msgid "Configure the Sawfish window manager"
+msgstr "ფანჯრების მმართველის - Sawfish-ის გამართვა"
+
+#: ../desktop-files/Sawfish.directory.in.h:2
+msgid "Sawfish window manager"
+msgstr "ფანჯრების მმართველი Sawfish"
+
+#: ../desktop-files/ServerConfig.directory.in.h:1
+#: ../desktop-files/ServerConfig-More.directory.in.h:1
+msgid "Configure network services (web server, DNS server, etc.)"
+msgstr "ქსელური სერვისების გამართვა (ვებ-სერვერი, DNS სერვერი, და ა.შ..)"
+
+#: ../desktop-files/ServerConfig.directory.in.h:2
+msgid "Server Settings"
+msgstr "სერვერის პარამეტრები"
+
+#: ../desktop-files/ServerConfig-More.directory.in.h:2
+msgid "More Server Settings"
+msgstr "დამატებითი სერვერის პარამეტრები"
+
+#: ../desktop-files/Settings-Accessibility.directory.in.h:2
+msgid "Accessibility related preferences"
+msgstr "დამხმარე საშუალებებთან დაკავშირებული პარამეტრები"
+
+#: ../desktop-files/Settings-More.directory.in.h:1
+msgid "More Preferences"
+msgstr "დამატებითი პარამეტრები"
+
+#: ../desktop-files/Settings-More.directory.in.h:2
+msgid "Personal preferences and settings"
+msgstr "პერსონალური პარამეტრები"
+
+#: ../desktop-files/SystemConfig.directory.in.h:1
+msgid "Administration"
+msgstr ""
+
+#: ../desktop-files/SystemConfig.directory.in.h:2
+#: ../desktop-files/SystemConfig-More.directory.in.h:1
+msgid "Change systemwide settings (affects all users)"
+msgstr "საერთო სისტემური პარამეტრების შეცვლა (ეხება ყველა მომხმარებელს)"
+
+#: ../desktop-files/SystemConfig-More.directory.in.h:2
+msgid "More System Settings"
+msgstr "დამატებითი სისტემური პარამეტრები"
+
+#: ../desktop-files/System.directory.in.h:1
+msgid "System Tools"
+msgstr "სისტემური ინსტრუმენტები"
+
+#: ../desktop-files/System.directory.in.h:2
+#: ../desktop-files/System-More.directory.in.h:2
+msgid "System configuration and monitoring"
+msgstr "სისტემის გამართვა და მონიტორინგი"
+
+#: ../desktop-files/System-More.directory.in.h:1
+msgid "More System Tools"
+msgstr "დამატებითი სისტემური ინსტრუმენტები"
+
+#: ../desktop-files/Utilities.directory.in.h:1
+msgid "Utilities"
+msgstr "უტილიტები"
+
+#: ../desktop-files/Utilities.directory.in.h:2
+#: ../desktop-files/Utilities-More.directory.in.h:2
+msgid "Utilities "
+msgstr "უტილიტები"
+
+#: ../desktop-files/Utilities-More.directory.in.h:1
+msgid "More Utilities"
+msgstr "დამატებითი უტილიტები"
+
+#~ msgid "Accessibility Settings"
+#~ msgstr "დამხმარე საშუალებების პარამეტრები"
+
+#~ msgid "Applications"
+#~ msgstr "პროგრამები"
+
+#~ msgid "Games"
+#~ msgstr "თამაშები"
+
+#~ msgid "Graphics"
+#~ msgstr "გრაფიკა"
+
+#~ msgid "Internet"
+#~ msgstr "ინტერნეტი"
+
+#~ msgid "Sound & Video"
+#~ msgstr "ხმა და ვიდეო"
+
+#~ msgid "Office"
+#~ msgstr "ოფისი"
+
+#~ msgid "Office Applications"
+#~ msgstr "საოფისე პროგრამები"
+
+#~ msgid "Applications that did not fit in other categories"
+#~ msgstr "პროგრამები, რომლებიც ვერ განთავსდა სხვა კატეგორიებში"
+
+#~ msgid "Other"
+#~ msgstr "სხვა"
+
+#~ msgid "Talk to people over the internet"
+#~ msgstr "ინტერნეტის საშუელებით ხალხთან საუბარი"
+
+#~ msgid "Video Conferencing"
+#~ msgstr "ვიდეო კონფერენცია"
+
+#~ msgid "Preferences"
+#~ msgstr "პარამეტრები"
+
+#~ msgid "System Settings"
+#~ msgstr "სისტემის პარამეტრები"

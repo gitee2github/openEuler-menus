@@ -1,0 +1,11 @@
+[Desktop Entry]
+_Name=OpenOffice.org Math
+_Comment=Formula editor
+Exec=oomath
+Icon=ooo_math.png
+Terminal=0
+Type=Application
+Encoding=UTF-8
+Categories=Application;Office;X-open-Euler-Base;
+MimeType=application/vnd.stardivision.math
+StartupWMClass=VCLSalFrame

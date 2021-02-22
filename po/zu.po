@@ -1,0 +1,527 @@
+# translation of openeuler-menus.po to Zulu
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# Thobile Mhlongo <thobile@translate.org.za>, 2003
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: openeuler-menus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-03-29 17:48-0400\n"
+"PO-Revision-Date: 2003-10-06 14:38+0200\n"
+"Last-Translator: Thobile Mhlongo <thobile@translate.org.za>\n"
+"Language-Team: Zulu <zulu@translate.org.za>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.0\n"
+
+#: ../desktop-files/Accessories.directory.in.h:1
+msgid "Accessories"
+msgstr "Okokuhlobisa"
+
+#: ../desktop-files/Accessories.directory.in.h:2
+#: ../desktop-files/Accessories-More.directory.in.h:1
+msgid "Desktop accessories"
+msgstr "Okokuhlobisa kwedesktop"
+
+#: ../desktop-files/Accessories-More.directory.in.h:2
+msgid "More Accessories"
+msgstr "Okokuhlobisa okuningi"
+
+#: ../desktop-files/Advanced.directory.in.h:1
+msgid "Advanced"
+msgstr "Okwezinga eliphezulu"
+
+#: ../desktop-files/Advanced.directory.in.h:2
+#: ../desktop-files/Advanced-More.directory.in.h:1
+msgid "Advanced settings and preferences"
+msgstr "Okuncanyelwayo kanye nezilungiselelo zezinga eliphezulu"
+
+#: ../desktop-files/Advanced-More.directory.in.h:2
+msgid "More Advanced Settings"
+msgstr "Izilungiselelo eziningi Zezinga eliphezulu"
+
+#: ../desktop-files/AllPrograms.directory.in.h:1
+msgid "All Applications"
+msgstr "Imiyalelo Yonke"
+
+#: ../desktop-files/Desktop.directory.in.h:1
+#, fuzzy
+msgid "Personal preferences and administration settings"
+msgstr "Izilungiselelo kanye nokuncanyelwayo Kwangasese"
+
+#: ../desktop-files/Desktop.directory.in.h:2
+#, fuzzy
+msgid "System"
+msgstr "Amathuluzi Esistimu"
+
+#: ../desktop-files/Development.directory.in.h:1
+msgid "Programming"
+msgstr "Ukuhlela Imisebenzi"
+
+#: ../desktop-files/Development.directory.in.h:2
+#: ../desktop-files/Development-More.directory.in.h:2
+msgid "Tools for software development"
+msgstr "Amathuluzi okuthuthukisa ingaphakathi lekhomputha"
+
+#: ../desktop-files/Development-More.directory.in.h:1
+msgid "More Programming Tools"
+msgstr "Amathuluzi Okuhlela imisebenzi"
+
+#: ../desktop-files/Documentation.directory.in.h:1
+msgid "Documentation"
+msgstr "Ukushicilelwa"
+
+#: ../desktop-files/Documentation.directory.in.h:2
+#: ../desktop-files/Documentation-More.directory.in.h:1
+msgid "Manuals and help documents"
+msgstr "Imiqulu kanye nemibhalo yokushicilela"
+
+#: ../desktop-files/Documentation-More.directory.in.h:2
+msgid "More Documentation"
+msgstr "Ukubhalwa kokushicilela okuningi"
+
+#: ../desktop-files/Edutainment.directory.in.h:1
+msgid "Edutainment"
+msgstr ""
+
+# #-#-#-#-#  sd.po (sd)  #-#-#-#-#
+# source\ui\app\strings.src string STR_VIEWTYPE_EXTRAS
+#: ../desktop-files/Extras.directory.in.h:1
+msgid "Extras"
+msgstr "Okongeziwe"
+
+#: ../desktop-files/Extras.directory.in.h:2
+msgid "Less-commonly-used applications"
+msgstr "Imiyalelo engajwayele ukusetshenziswa"
+
+#: ../desktop-files/Games-More.directory.in.h:1
+msgid "Games and amusements"
+msgstr "Imidlalo kanye nokokuzithokozisa"
+
+#: ../desktop-files/Games-More.directory.in.h:2
+msgid "More Games"
+msgstr "Imidlalo Eminingi"
+
+#: ../desktop-files/gnome-accessibility.desktop.in.h:1
+#: ../desktop-files/Settings-Accessibility.directory.in.h:1
+msgid "Accessibility"
+msgstr "Ukungenisa"
+
+#: ../desktop-files/gnome-accessibility.desktop.in.h:2
+msgid "Accessibility settings"
+msgstr "Izilungiselelo zokungenisa"
+
+#: ../desktop-files/gnome-gdmsetup.desktop.in.h:1
+msgid "Configure the login screen"
+msgstr "Hlanganisela isikrini sokungena ngaphakathi"
+
+#: ../desktop-files/gnome-gdmsetup.desktop.in.h:2
+msgid "Login Screen"
+msgstr "Isikrini Sokungena ngaphakathi"
+
+#: ../desktop-files/gnome-pilot.desktop.in.h:1
+msgid "Handheld PDA"
+msgstr "I-PDA Ebanjwe ngesandla"
+
+#: ../desktop-files/gnome-pilot.desktop.in.h:2
+msgid "Set up a PDA such as a Palm Pilot"
+msgstr "Misa i-PDA njenge-Palm Pilot"
+
+#: ../desktop-files/Graphics-More.directory.in.h:1
+msgid "Graphics applications"
+msgstr "Imiyalelo yemidwebo"
+
+#: ../desktop-files/Graphics-More.directory.in.h:2
+msgid "More Graphics Applications"
+msgstr "Imiyalelo Yemidwebo Eminingi"
+
+#: ../desktop-files/gthumb.desktop.in.h:1
+msgid "Organize your digital photos"
+msgstr ""
+
+#: ../desktop-files/gthumb.desktop.in.h:2
+msgid "Photo Tool"
+msgstr ""
+
+#: ../desktop-files/Internet-More.directory.in.h:1
+msgid "More Internet Applications"
+msgstr "Imiyalelo ye-Internet Eminingi"
+
+#: ../desktop-files/Internet-More.directory.in.h:2
+msgid "Programs for Internet access such as web and email"
+msgstr ""
+"Izinhlelo zemisebenzi zokungenisa kwi-Internet njenge-web kanye neposi "
+"lekhomputha"
+
+#: ../desktop-files/Multimedia-More.directory.in.h:1
+msgid "More Sound & Video Applications"
+msgstr "Imiyalelo eminingi Yomsindo & Ividiyo"
+
+#: ../desktop-files/Multimedia-More.directory.in.h:2
+msgid "Multimedia menu"
+msgstr "Imenu Yonozindaba abaningi"
+
+#: ../desktop-files/Office-More.directory.in.h:1
+msgid "Additional office applications"
+msgstr "Imiyalelo eyongeziwe yehhovisi"
+
+#: ../desktop-files/Office-More.directory.in.h:2
+msgid "More Office Applications"
+msgstr "Imiyalelo Yehhovisi Eminingi"
+
+#: ../desktop-files/openoffice-printeradmin.desktop.in.h:1
+msgid "OpenOffice.org Printer Setup"
+msgstr "Umiso Lomshicileli we-OpenOffice.org"
+
+#: ../desktop-files/openoffice-printeradmin.desktop.in.h:2
+msgid "Set up printers for OpenOffice.org applications"
+msgstr "Misa abashicileli bemiyalelo ye-OpenOffice.org"
+
+#: ../desktop-files/openoffice-setup.desktop.in.h:1
+msgid "OpenOffice.org Repair"
+msgstr "Lungisa i-OpenOffice.org"
+
+#: ../desktop-files/openoffice-setup.desktop.in.h:2
+msgid "Repair your installation of OpenOffice.org"
+msgstr "Lungisa ukufakwa kwe-OpenOffice.org"
+
+#: ../desktop-files/openeuler-audio-player.desktop.in.h:1
+msgid "Audio Player"
+msgstr "Umdlali Ozwakalayo"
+
+#: ../desktop-files/openeuler-audio-player.desktop.in.h:2
+msgid "Play Ogg Vorbis and other audio files"
+msgstr "Dlala i- Ogg Vorbis kanye namafayela okuzwa"
+
+#: ../desktop-files/openeuler-diagrams.desktop.in.h:1
+msgid "Create diagrams"
+msgstr "Dala imidwebo yolayini"
+
+#: ../desktop-files/openeuler-diagrams.desktop.in.h:2
+msgid "Dia Diagrams"
+msgstr "Imidwebo yolayini"
+
+#: ../desktop-files/openeuler-drawing.desktop.in.h:1
+msgid "Draw diagrams and figures"
+msgstr "Dweba imidwebo yolayini kanye nezinombolo"
+
+#: ../desktop-files/openeuler-drawing.desktop.in.h:2
+msgid "OpenOffice.org Draw"
+msgstr "I-OpenOffice.org Yokudweba"
+
+#: ../desktop-files/openeuler-email.desktop.in.h:1
+#: ../desktop-files/openeuler-evolution-mail.desktop.in.h:1
+msgid "Email"
+msgstr "Iposi lekhomputha Lokudaleka"
+
+#: ../desktop-files/openeuler-email.desktop.in.h:2
+msgid "Send email and manage your schedule"
+msgstr "Thumela iposi lekhomputha ebese uphatha ukusebenza kwalo"
+
+#: ../desktop-files/openeuler-evolution-calendar.desktop.in.h:1
+msgid "Calendar"
+msgstr ""
+
+#: ../desktop-files/openeuler-evolution-calendar.desktop.in.h:2
+msgid "Manage your schedule using Evolution"
+msgstr ""
+
+#: ../desktop-files/openeuler-evolution-contacts.desktop.in.h:1
+msgid "Contacts"
+msgstr ""
+
+#: ../desktop-files/openeuler-evolution-contacts.desktop.in.h:2
+msgid "Manage your contacts using Evolution"
+msgstr ""
+
+#: ../desktop-files/openeuler-evolution-mail.desktop.in.h:2
+msgid "Send and receive email using Evolution"
+msgstr ""
+
+#: ../desktop-files/openeuler-evolution-tasks.desktop.in.h:1
+msgid "Manage tasks using the Evolution groupware suite"
+msgstr ""
+
+#: ../desktop-files/openeuler-evolution-tasks.desktop.in.h:2
+msgid "Tasks"
+msgstr ""
+
+#: ../desktop-files/openeuler-math.desktop.in.h:1
+msgid "Formula editor"
+msgstr "Umhleli wendlela yokwenza"
+
+#: ../desktop-files/openeuler-math.desktop.in.h:2
+msgid "OpenOffice.org Math"
+msgstr "I-OpenOffice.org Yezibalo"
+
+#: ../desktop-files/openeuler-presentations.desktop.in.h:1
+msgid "Create presentations"
+msgstr "Dala okokukhombisa"
+
+#: ../desktop-files/openeuler-presentations.desktop.in.h:2
+msgid "OpenOffice.org Impress"
+msgstr "I-OpenOffice.org Impress"
+
+#: ../desktop-files/openeuler-print.desktop.in.h:1
+msgid "Print Manager"
+msgstr "Imenenja Yokushicilela"
+
+#: ../desktop-files/openeuler-print.desktop.in.h:2
+msgid "Set up and monitor printers"
+msgstr "Misa ebese ulawula abashicieleli"
+
+#: ../desktop-files/openeuler-spreadsheet.desktop.in.h:1
+msgid "OpenOffice.org Calc"
+msgstr "I-OpenOffice.org Yomshini wokubala"
+
+# #-#-#-#-#  offmgr.po (offmgr)  #-#-#-#-#
+# source\offapp\dialog\treeopt.src itemlist RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS 1
+# #-#-#-#-#  sc.po (sc)  #-#-#-#-#
+# #-#-#-#-#  sc.po (sc)  #-#-#-#-#
+# source\ui\formdlg\dwfunctr.src stringlist FID_FUNCTION_BOX.CB_CAT 11
+# #-#-#-#-#  sc.po (sc)  #-#-#-#-#
+# source\ui\formdlg\formdlgs.src stringlist RID_SCTAB_FUNCTION.LB_CATEGORY 11
+# #-#-#-#-#  sc.po (sc)  #-#-#-#-#
+# source\ui\src\scstring.src string SCSTR_SHORT_SCDOC_NAME
+# #-#-#-#-#  sc.po (sc)  #-#-#-#-#
+# source\ui\src\scstring.src string SCSTR_HUMAN_SCDOC_NAME
+# #-#-#-#-#  scp.po (scp)  #-#-#-#-#
+# #-#-#-#-#  scp.po (scp)  #-#-#-#-#
+# source\calc\system_calc.lng LngText STR_FI_NAME_TABELLENDOKUMENT
+# #-#-#-#-#  scp.po (scp)  #-#-#-#-#
+# source\office\system.lng LngText STR_FI_NAME_TABELLENDOKUMENT
+# #-#-#-#-#  sfx2.po (sfx2)  #-#-#-#-#
+# source\doc\doc.src string STR_DOCTYPENAME_SC
+# #-#-#-#-#  svtools.po (svtools)  #-#-#-#-#
+# source\misc\imagemgr.src string STR_DESCRIPTION_FACTORY_CALC
+# #-#-#-#-#  svx.po (svx)  #-#-#-#-#
+# source\options\optsave.src stringlist RID_SFXPAGE_SAVE.LB_APP 3
+# #-#-#-#-#  sysui.po (sysui)  #-#-#-#-#
+# oounix\office\cde\calc.lng LngText <spreadsheet_control_label>
+#: ../desktop-files/openeuler-spreadsheet.desktop.in.h:2
+msgid "Spreadsheet"
+msgstr "Ikhasi lokubala"
+
+#: ../desktop-files/openeuler-web.desktop.in.h:1
+#, fuzzy
+msgid "Browse the web"
+msgstr "Cinga kwi-Internet"
+
+#: ../desktop-files/openeuler-web.desktop.in.h:2
+#, fuzzy
+msgid "Web Browser"
+msgstr "Umcingi we-Web ye-Mozilla"
+
+#: ../desktop-files/openeuler-word-processor.desktop.in.h:1
+msgid "OpenOffice.org Writer"
+msgstr "I-OpenOffice.org Yokubhala"
+
+#: ../desktop-files/openeuler-word-processor.desktop.in.h:2
+msgid "Word processor"
+msgstr "Umgayi wegama"
+
+#: ../desktop-files/Root.directory.in.h:1
+msgid "Programs"
+msgstr "Izinhlelo zemisebenzi"
+
+#: ../desktop-files/Root.directory.in.h:2
+msgid "Programs menu"
+msgstr "Imenu yezinhlelo zemisebenzi"
+
+#: ../desktop-files/Sawfish.directory.in.h:1
+msgid "Configure the Sawfish window manager"
+msgstr "Hlanganisela imenenjya yewindi le-Sawfish"
+
+#: ../desktop-files/Sawfish.directory.in.h:2
+msgid "Sawfish window manager"
+msgstr "Imenenja yewindi le-Sawfish"
+
+#: ../desktop-files/ServerConfig.directory.in.h:1
+#: ../desktop-files/ServerConfig-More.directory.in.h:1
+msgid "Configure network services (web server, DNS server, etc.)"
+msgstr ""
+"Hlanganisela imisebenzi yoxhumano (umlekeleli we-web, umlekeleli we-DNS, "
+"etc.)"
+
+#: ../desktop-files/ServerConfig.directory.in.h:2
+msgid "Server Settings"
+msgstr "Izilungiselelo Zomlekeleli"
+
+#: ../desktop-files/ServerConfig-More.directory.in.h:2
+msgid "More Server Settings"
+msgstr "Izilungiselelo Eziningi Zomlekeleli"
+
+#: ../desktop-files/Settings-Accessibility.directory.in.h:2
+#, fuzzy
+msgid "Accessibility related preferences"
+msgstr "Izilungiselelo zokungenisa"
+
+#: ../desktop-files/Settings-More.directory.in.h:1
+msgid "More Preferences"
+msgstr "Okuncanyelwayo Okuningi"
+
+#: ../desktop-files/Settings-More.directory.in.h:2
+msgid "Personal preferences and settings"
+msgstr "Izilungiselelo kanye nokuncanyelwayo Kwangasese"
+
+#: ../desktop-files/SystemConfig.directory.in.h:1
+msgid "Administration"
+msgstr ""
+
+#: ../desktop-files/SystemConfig.directory.in.h:2
+#: ../desktop-files/SystemConfig-More.directory.in.h:1
+msgid "Change systemwide settings (affects all users)"
+msgstr ""
+"Shintsha zonke izilungiselelo zesistimu (kuzophazamisa bonke abasebenzisi)"
+
+#: ../desktop-files/SystemConfig-More.directory.in.h:2
+msgid "More System Settings"
+msgstr "Izilungiselelo Eziningi Zesistimu"
+
+#: ../desktop-files/System.directory.in.h:1
+msgid "System Tools"
+msgstr "Amathuluzi Esistimu"
+
+#: ../desktop-files/System.directory.in.h:2
+#: ../desktop-files/System-More.directory.in.h:2
+msgid "System configuration and monitoring"
+msgstr "Ukuhlanganiselwa kanye nokulawulwa kwesistimu"
+
+#: ../desktop-files/System-More.directory.in.h:1
+msgid "More System Tools"
+msgstr "Amathuluzi Amaningi Esistimu"
+
+#: ../desktop-files/Utilities.directory.in.h:1
+msgid "Utilities"
+msgstr "Izinsebenziso"
+
+#: ../desktop-files/Utilities.directory.in.h:2
+#: ../desktop-files/Utilities-More.directory.in.h:2
+msgid "Utilities "
+msgstr "Izinsebenziso "
+
+#: ../desktop-files/Utilities-More.directory.in.h:1
+msgid "More Utilities"
+msgstr "Izinsebenziso Eziningi"
+
+#~ msgid "Accessibility Settings"
+#~ msgstr "Izilungiselelo Zokungenisa"
+
+#~ msgid "Applications"
+#~ msgstr "Imiyalelo"
+
+#~ msgid "Games"
+#~ msgstr "Imidlalo"
+
+# #-#-#-#-#  extensions.po (extensions)  #-#-#-#-#
+# source\propctrlr\formres.src string RID_STR_IMAGE_URL
+# #-#-#-#-#  sc.po (sc)  #-#-#-#-#
+# #-#-#-#-#  sc.po (sc)  #-#-#-#-#
+# source\ui\navipi\navipi.src string SCSTR_CONTENT_GRAPHIC
+# #-#-#-#-#  sc.po (sc)  #-#-#-#-#
+# source\ui\src\globstr.src string RID_GLOBSTR STR_GRAPHICNAME
+# #-#-#-#-#  sc.po (sc)  #-#-#-#-#
+# source\ui\src\scstring.src string SCSTR_GRAPHICSHELL
+# #-#-#-#-#  sfx2.po (sfx2)  #-#-#-#-#
+# source\appl\app.src string STR_KEY_GRAPHICS_PATH
+# #-#-#-#-#  sd.po (sd)  #-#-#-#-#
+# #-#-#-#-#  sd.po (sd)  #-#-#-#-#
+# source\ui\app\strings.src string STR_HTMLEXP_SETGRAPHIC
+# #-#-#-#-#  sd.po (sd)  #-#-#-#-#
+# source\ui\dlg\dlgolbul.src pageitem TAB_OUTLINEBULLET.1 RID_SVXPAGE_PICK_BMP
+# #-#-#-#-#  sd.po (sd)  #-#-#-#-#
+# source\ui\dlg\prltempl.src pageitem TAB_PRES_LAYOUT_TEMPLATE_3.1 RID_SVXPAGE_PICK_BMP
+# #-#-#-#-#  svtools.po (svtools)  #-#-#-#-#
+# #-#-#-#-#  svtools.po (svtools)  #-#-#-#-#
+# source\misc\imagemgr.src string STR_DESCRIPTION_GRAPHIC_DOC
+# #-#-#-#-#  svtools.po (svtools)  #-#-#-#-#
+# source\misc\mediatyp.src string STR_SVT_MIMETYPE_IMAGE_GIF
+# #-#-#-#-#  svtools.po (svtools)  #-#-#-#-#
+# source\misc\mediatyp.src string STR_SVT_MIMETYPE_IMAGE_JPEG
+# #-#-#-#-#  svtools.po (svtools)  #-#-#-#-#
+# source\misc\mediatyp.src string STR_SVT_MIMETYPE_IMAGE_PCX
+# #-#-#-#-#  svtools.po (svtools)  #-#-#-#-#
+# source\misc\mediatyp.src string STR_SVT_MIMETYPE_IMAGE_GENERIC
+# #-#-#-#-#  svx.po (svx)  #-#-#-#-#
+# #-#-#-#-#  svx.po (svx)  #-#-#-#-#
+# source\dialog\numpages.src stringlist RID_SVXPAGE_NUM_OPTIONS.LB_FMT 9
+# #-#-#-#-#  svx.po (svx)  #-#-#-#-#
+# source\dialog\numpages.src fixedtext RID_SVXPAGE_NUM_OPTIONS FT_BITMAP
+# #-#-#-#-#  sw.po (sw)  #-#-#-#-#
+# #-#-#-#-#  sw.po (sw)  #-#-#-#-#
+# source\ui\fldui\fldui.src string FLD_STAT_GRF
+# #-#-#-#-#  sw.po (sw)  #-#-#-#-#
+# source\ui\fldui\fldui.src string FMT_MARK_GRAFIC
+# #-#-#-#-#  sw.po (sw)  #-#-#-#-#
+# source\ui\fmtui\tmpdlg.src pageitem DLG_TEMPLATE_5.1 RID_SVXPAGE_PICK_BMP
+# #-#-#-#-#  sw.po (sw)  #-#-#-#-#
+# source\ui\frmdlg\frmpage.src pageitem DLG_FRM_GRF.1 TP_GRF_EXT
+# #-#-#-#-#  sw.po (sw)  #-#-#-#-#
+# source\ui\frmdlg\frmpage.src tabdialog DLG_FRM_GRF
+# #-#-#-#-#  sw.po (sw)  #-#-#-#-#
+# source\ui\index\cnttab.src checkbox TP_TOX_SELECT CB_FROMGRAPHICS
+# #-#-#-#-#  sw.po (sw)  #-#-#-#-#
+# source\ui\misc\num.src pageitem DLG_SVXTEST_NUM_BULLET.1 RID_SVXPAGE_PICK_BMP
+# #-#-#-#-#  sw.po (sw)  #-#-#-#-#
+# source\ui\misc\numberingtypelistbox.src itemlist STRRES_NUMTYPES.1 9
+# #-#-#-#-#  sw.po (sw)  #-#-#-#-#
+# source\ui\ribbar\workctrl.src string RID_SCROLL_NAVIGATION_WIN ST_GRF
+# #-#-#-#-#  sw.po (sw)  #-#-#-#-#
+# source\ui\shells\shells.src string STR_SHELLNAME_GRAPHIC
+# #-#-#-#-#  sw.po (sw)  #-#-#-#-#
+# source\ui\shells\shells.src string STR_SWBG_GRAPHIC
+# #-#-#-#-#  sw.po (sw)  #-#-#-#-#
+# source\ui\utlui\poolfmt.src string STR_POOLFRM_GRAPHIC
+# #-#-#-#-#  sw.po (sw)  #-#-#-#-#
+# source\ui\utlui\utlui.src string STR_CONTENT_TYPE_GRAPHIC
+# #-#-#-#-#  sw.po (sw)  #-#-#-#-#
+# source\ui\utlui\utlui.src string STR_CONTENT_TYPE_SINGLE_GRAPHIC
+# #-#-#-#-#  sw.po (sw)  #-#-#-#-#
+# source\ui\wizard\wizbmp.src string STR_Pag_DefsGraf
+#~ msgid "Graphics"
+#~ msgstr "Imidwebo"
+
+# #-#-#-#-#  offmgr.po (offmgr)  #-#-#-#-#
+# source\offapp\dialog\treeopt.src itemlist RID_OFADLG_OPTIONS_TREE_PAGES.SID_INET_DLG 1
+# #-#-#-#-#  scp.po (scp)  #-#-#-#-#
+# source\office\dir.lng LngText STR_DIR_INTERNET
+# #-#-#-#-#  sfx2.po (sfx2)  #-#-#-#-#
+# source\dialog\dinfdlg.src pageitem SID_DOCINFO.1 TP_DOCINFORELOAD
+# #-#-#-#-#  svx.po (svx)  #-#-#-#-#
+# source\dialog\hyperdlg.src string RID_SVXSTR_HYPERDLG_HLINETTP
+#~ msgid "Internet"
+#~ msgstr "Internet"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Umsindo & Ividiyo"
+
+#~ msgid "Office"
+#~ msgstr "Ihhovisi"
+
+#~ msgid "Office Applications"
+#~ msgstr "Imiyalelo Yehhovisi"
+
+#~ msgid "Applications that did not fit in other categories"
+#~ msgstr "Imiyalelo engagcwali kwamanye amaqembu"
+
+#~ msgid "Other"
+#~ msgstr "Okunye"
+
+#~ msgid "Talk to people over the internet"
+#~ msgstr "Xoxa nabantu abakwi-internet"
+
+#~ msgid "Video Conferencing"
+#~ msgstr "Ukuxoxisana kombuthano ngevidiyo"
+
+# <!-- extracted from content/PrefsWindow.xul -->
+# <!-- LOCALIZATION NOTE : FILE UI for the outer parts of the Prefs dialog -->
+#~ msgid "Preferences"
+#~ msgstr "Okuncanyelwayo"
+
+#~ msgid "System Settings"
+#~ msgstr "Izilungiselelo Zesistimu"
+
+#~ msgid "Control Center"
+#~ msgstr "Inkundla Yokulawula"

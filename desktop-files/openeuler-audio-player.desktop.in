@@ -1,0 +1,11 @@
+[Desktop Entry]
+_Comment=Play Ogg Vorbis and other audio files
+Exec=xmms -e %F
+Icon=xmms.xpm
+MimeType=audio/x-mp3;audio/x-mod;audio/x-wav;audio/x-mpegurl;audio/mpegurl;audio/x-scpls;application/x-ogg;application/ogg
+_Name=Audio Player
+Terminal=0
+Type=Application
+MapNotify=false
+Categories=X-open-Euler-Base;Application;AudioVideo;
+Encoding=UTF-8
