@@ -1,5 +1,4 @@
 # openEuler-menus
 
 #### 介绍
-openeuler-menus contains the default menus for openEuler Linux, and
-various translated desktop files.
+openEuler-menus 包含 openEuler Linux 的默认菜单和多个经过转译的桌面文件。
